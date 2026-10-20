@@ -29,22 +29,6 @@ const THEMES = {
   ],
   자유: [['버스', '🚌', '버스'], ['술', '🍺', '술|호프|포차'], ['카페', '☕', '카페|커피'], ['산책', '🚶', '산책|둘레길']],
 };
-// 도장깨기: 에브리타임에서 자주 묻는 것(이동·프린트·열람실·「뭐 먹지」)을 직접 해 보는 퀘스트로. 각 퀘스트는 실제 장소로 이어진다
-const QUESTS = [
-  { id: 'meal', emoji: '🍚', title: '학식 먹어 보기', desc: '학생식당이나 교직원식당에서 한 끼', link: '#/search?q=학생식당' },
-  { id: 'print', emoji: '🖨️', title: '무인프린터로 출력하기', desc: '과제 출력은 어디서? 결제는 어떻게?', link: '#/search?q=무인프린터' },
-  { id: 'bus999', emoji: '🚌', title: '999번 버스 타 보기', desc: '학교와 시내를 잇는 버스', link: '#/search?q=999번' },
-  { id: 'station', emoji: '🚉', title: '충주역·터미널 다녀오기', desc: '무료 통학버스와 시내버스 타는 법', link: '#/search?q=충주역' },
-  { id: 'library', emoji: '📚', title: '중앙도서관 열람실 가 보기', desc: '시험 기간 자리 잡기', link: '#/search?q=열람실' },
-  { id: 'post', emoji: '📦', title: '교내 우체국에서 택배 보내기', desc: '기숙사 택배는 어디로?', link: '#/search?q=우체국' },
-  { id: 'cert', emoji: '📄', title: '자동증명발급기 써 보기', desc: '증명서는 창구까지 안 가도 돼요', link: '#/search?q=증명' },
-  { id: 'cafe', emoji: '☕', title: '교내 카페에서 공부하기', desc: '카페플로르 세 곳 중 한 곳', link: '#/search?q=카페플로르' },
-  { id: 'walk', emoji: '🚶', title: '교내 둘레길 걷기', desc: '공강 시간 산책', link: '#/search?q=둘레길' },
-  { id: 'sunset', emoji: '🌅', title: '노을 명소에서 노을 보기', desc: '선배들이 꼽은 노을 자리', link: '#/search?q=노을' },
-  { id: 'jjamppong', emoji: '🥟', title: '대소원 중국집 도장 찍기', desc: '짬뽕 맛집 하나는 알아 두기', link: '#/search?q=짬뽕' },
-  { id: 'top1', emoji: '👑', title: '추천 1위 가게 가 보기', desc: '교통대생이 가장 많이 추천한 곳', link: 'top1' },
-];
-const LEVELS = [[0, '새내기'], [3, '캠퍼스 적응 중'], [6, '교통대 생활러'], [9, '교통대 고수'], [12, '교통대 마스터']];
 const MOVE_RE = '통학버스|시내버스|버스|택시|ktx|터미널|충주역|정류소';
 const SORTS = [['rec', '추천 많은 순'], ['near', '가까운 순'], ['price', '가격 낮은 순'], ['name', '가나다순']];
 const AREAS = ['교내', '대소원', '충주 시내'];
@@ -92,8 +76,6 @@ function store(key, max = 50) {
 const saved = store('knut-guide:saved', 500);
 const recent = store('knut-guide:recent', 30);
 const recentQ = store('knut-guide:recent-q', 10);
-const stamps = store('knut-guide:stamps', 20);
-const levelOf = n => [...LEVELS].reverse().find(([min]) => n >= min)[1];
 function toggleSaved(id) {
   const on = !saved.has(id);
   on ? saved.push(id) : saved.remove(id);
@@ -708,40 +690,53 @@ function bindPick() {
 }
 
 /* =========================================================
-   🏅 도장깨기
+   🔍 둘러보기 (인스타 돋보기 화면처럼 사진 격자)
    ========================================================= */
-function questPage() {
-  const done = stamps.read();
-  const n = QUESTS.filter(q => done.includes(q.id)).length;
-  const top1 = state.places[0];
-  return `
-  <header class="head left"><h1>교통대 도장깨기</h1></header>
-  <div class="q-hero">
-    <div><span class="q-level">${levelOf(n)}</span><b>${n} / ${QUESTS.length}</b><p>해 본 것에 도장을 찍어 보세요. 기록은 이 폰에만 남아요.</p></div>
-    <div class="q-bar"><i style="width:${(n / QUESTS.length) * 100}%"></i></div>
-  </div>
-  <div class="q-list">
-    ${QUESTS.map(q => {
-      const on = done.includes(q.id);
-      const link = q.link === 'top1' ? `#/p/${top1.id}` : q.link;
-      return `<div class="q-item ${on ? 'done' : ''}">
-        <span class="stamp" aria-hidden="true">${q.emoji}</span>
-        <a class="q-text" href="${link}"><b>${q.title}</b><p>${q.link === 'top1' ? esc(top1.name) : q.desc} ${ICON.right}</p></a>
-        <button class="q-btn" data-q="${q.id}" aria-pressed="${on}">${on ? '완료' : '했어요'}</button>
-      </div>`;
-    }).join('')}
-  </div>`;
-}
-function bindQuest() {
-  document.querySelectorAll('[data-q]').forEach(b => b.onclick = () => {
-    const id = b.dataset.q, before = levelOf(stamps.read().length);
-    if (stamps.has(id)) stamps.remove(id); else stamps.push(id);
-    const after = levelOf(stamps.read().length);
-    const y = window.scrollY;
-    refresh();
-    window.scrollTo(0, y);
-    if (stamps.has(id)) toast(before !== after ? `🎉 「${after}」 등급이 됐어요!` : '도장 쾅! 🏅');
+// 같은 사진(건물 외관 1장 → 도서관 안 시설 여러 곳)은 한 칸만 두고, 누르면 해당 장소들을 고르게 한다
+function exploreTiles(cat) {
+  const tiles = new Map();
+  state.places.filter(p => p.photos.length && (cat === '전체' || p.category === cat)).forEach(p => {
+    p.photos.forEach((src, i) => {
+      const t = tiles.get(src) || { src, thumb: (p.thumbs || p.photos)[i], credit: p.credits?.[i], places: [] };
+      t.places.push(p);
+      tiles.set(src, t);
+    });
   });
+  // 학생이 찍은 가게·장소 사진을 앞에, 건물 외관 사진은 사이사이에 섞는다
+  const real = [...tiles.values()].filter(t => !t.credit), bld = [...tiles.values()].filter(t => t.credit);
+  const out = [];
+  while (real.length || bld.length) {
+    out.push(...real.splice(0, 3));
+    if (bld.length) out.push(bld.shift());
+  }
+  return out;
+}
+function explorePage() {
+  const cat = qs('cat', '전체');
+  const tiles = exploreTiles(cat);
+  state.exploreTiles = tiles;
+  return `
+  <header class="head left"><h1>둘러보기</h1><div class="head-actions"><a class="icon-btn" href="#/search" aria-label="검색">${ICON.search}</a></div></header>
+  <div class="filter-bar plain">
+    ${['전체', ...CATS.map(c => c.name)].map(c => `<a class="fchip ${c === cat ? 'on' : ''}" href="#/explore${c === '전체' ? '' : '?cat=' + encodeURIComponent(c)}" onclick="location.replace(this.href);return false">${c}</a>`).join('')}
+  </div>
+  <div class="explore">
+    ${tiles.map((t, i) => `<button class="ex-tile ${i % 18 === 2 ? 'big right' : i % 18 === 9 ? 'big' : ''}" data-ex="${i}" aria-label="${esc(t.places[0].name)}${t.places.length > 1 ? ` 외 ${t.places.length - 1}곳` : ''}">
+      <img src="${i % 18 === 2 || i % 18 === 9 ? t.src : t.thumb}" alt="" loading="lazy" decoding="async">
+      ${t.places.length > 1 ? `<span class="ex-count">${t.places.length}곳</span>` : ''}
+      ${t.credit ? `<span class="credit">© ${esc(t.credit.author)}</span>` : ''}
+    </button>`).join('')}
+  </div>
+  <p class="foot-note">사진 ${tiles.length}장 · 사진이 없는 곳은 장소 화면의 「네이버에서 사진 보기」로 볼 수 있어요.</p>`;
+}
+function bindExplore() {
+  document.querySelector('.explore').onclick = e => {
+    const b = e.target.closest('[data-ex]');
+    if (!b) return;
+    const t = state.exploreTiles[+b.dataset.ex];
+    if (t.places.length === 1) location.hash = '#/p/' + t.places[0].id;
+    else openSheet(`${t.credit?.note ? t.credit.note + ' · ' : ''}${t.places.length}곳`, t.places.map(p => [p.id, esc(p.name), false]), id => { location.hash = '#/p/' + id; });
+  };
 }
 
 /* =========================================================
@@ -750,16 +745,15 @@ function bindQuest() {
 function myPage() {
   const sv = saved.read().map(id => state.byId.get(id)).filter(Boolean);
   const rc = recent.read().map(id => state.byId.get(id)).filter(Boolean);
-  const n = stamps.read().length;
   const mini = list => list.length ? `<div class="hscroll mini">${list.slice(0, 10).map(p => `<a class="mini-card" href="#/p/${p.id}"><div class="mini-img">${photoOrTile(p)}</div><b>${esc(p.name)}</b></a>`).join('')}</div>` : '';
   return `
   <div class="gray-page">
   <header class="head left"><h1>마이</h1></header>
-  <div class="profile"><img src="assets/logo.png" alt="" onerror="this.remove()"><b>${levelOf(n)}</b><p>도장 ${n}개 · 교통대 충주 가이드</p></div>
+  <div class="profile"><img src="assets/logo.png" alt="" onerror="this.remove()"><b>교통대 충주 가이드</b><p>교통대생이 직접 추천한 충주캠퍼스 장소</p></div>
   <div class="counters">
     <a href="#/saved"><b>${sv.length}</b><span>찜</span></a>
     <a href="#/recent"><b>${rc.length}</b><span>최근 본 곳</span></a>
-    <a href="#/quest"><b>${n}/${QUESTS.length}</b><span>도장</span></a>
+    <a href="#/explore"><b>${state.places.filter(p => p.photos.length).length}</b><span>사진 있는 곳</span></a>
   </div>
   <section class="card">
     <a class="kv-row" href="#/saved"><span>찜한 곳</span><b>${sv.length}곳 ${ICON.right}</b></a>
@@ -772,7 +766,7 @@ function myPage() {
   <section class="card">
     <a class="kv-row" href="#/location"><span>거리 기준 위치</span><b>${esc(state.origin.label)} ${ICON.right}</b></a>
     <a class="kv-row" href="#/news"><span>최근 확인된 곳</span><b>${ICON.right}</b></a>
-    <p class="card-note">찜·최근 본 곳·도장·최근 검색어는 이 브라우저에만 남아요. 현재 위치는 거리 계산에만 쓰고 저장하지 않아요.</p>
+    <p class="card-note">찜·최근 본 곳·최근 검색어는 이 브라우저에만 남아요. 현재 위치는 거리 계산에만 쓰고 저장하지 않아요.</p>
   </section>
   ${about()}
   </div>`;
@@ -986,7 +980,7 @@ function renderFresh(parts) {
     case 'recent': html = recentView(); after = () => document.getElementById('clearList')?.addEventListener('click', () => { recent.clear(); refresh(); }); break;
     case 'news': html = news(); break;
     case 'pick': html = pickPage(); after = bindPick; break;
-    case 'quest': html = questPage(); after = bindQuest; break;
+    case 'explore': html = explorePage(); after = bindExplore; break;
     case 'my': case 'about': html = myPage(); break;
     case 'location': html = parts[1] === 'confirm' ? locationConfirm() : locationPage(); after = parts[1] === 'confirm' ? bindLocationConfirm : bindLocation; break;
     default: html = notFound();
@@ -1039,7 +1033,7 @@ function route() {
   // 상세·검색·위치 화면은 배민처럼 아래 탭을 숨긴다
   document.body.classList.toggle('no-tabbar', ['p', 'search', 'location'].includes(parts[0]));
   document.body.classList.remove('topbar-hidden');
-  const TAB = { map: 'map', pick: 'pick', quest: 'quest', my: 'my', saved: 'my', recent: 'my', about: 'my' };
+  const TAB = { map: 'map', pick: 'pick', explore: 'explore', my: 'my', saved: 'my', recent: 'my', about: 'my' };
   const tab = parts.length === 0 ? 'home' : TAB[parts[0]] || null;
   document.querySelectorAll('.tabbar a').forEach(a => {
     if (a.dataset.tab === tab) a.setAttribute('aria-current', 'page');

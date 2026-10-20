@@ -39,8 +39,8 @@ a, button { touch-action: manipulation; }
 /* 누르는 순간 바로 반응한다 (배민처럼 눌림이 보여야 끊김 없이 느껴진다) */
 .hcard, .lcard, .row, .mini-card, .grid a, .circles a, .sub-chips a, .rv-card { transition: transform .1s var(--ease), background-color .1s; }
 .hcard:active, .mini-card:active, .grid a:active, .circles a:active, .sub-chips a:active { transform: scale(.97); }
-.lcard:active, .row:active, .kv-row:active, .q-item:active, .sheet-row:active, .loc-row:active { background-color: var(--bg-gray); }
-.fchip:active, .kchip:active, .qchip:active, .mchip:active, .chip-sm:active, .btn-line:active, .q-btn:active, .more-btn:active { background-color: var(--bg-gray); }
+.lcard:active, .row:active, .kv-row:active, .sheet-row:active, .loc-row:active { background-color: var(--bg-gray); }
+.fchip:active, .kchip:active, .qchip:active, .mchip:active, .chip-sm:active, .btn-line:active, .more-btn:active { background-color: var(--bg-gray); }
 .btn-black:active, .icon-btn:active, .heart:active, .searchbar:active { opacity: .7; }
 .tabbar a:active svg { transform: scale(.9); }
 h1, h2, h3, p { margin: 0; }
@@ -215,6 +215,7 @@ body.topbar-hidden .home-head { transform: translateY(calc(-56px - var(--safe-t)
 .sheet {
   position: absolute; left: 0; right: 0; bottom: 0; margin: 0 auto; max-width: 480px; background: #fff;
   border-radius: 20px 20px 0 0; padding: 18px 0 var(--safe-b); animation: up .3s var(--ease);
+  max-height: 80vh; overflow-y: auto; overscroll-behavior: contain;
 }
 .sheet h2 { text-align: center; font-size: 15px; font-weight: 600; color: var(--ink-2); padding-bottom: 8px; }
 .sheet-row { width: 100%; height: 60px; display: flex; align-items: center; padding: 0 22px; font-size: 16px; text-align: left; }
@@ -348,23 +349,15 @@ body.topbar-hidden .home-head { transform: translateY(calc(-56px - var(--safe-t)
 .pick-card .hcard-img { height: 200px; }
 .pick-actions { display: flex; gap: 8px; padding: 14px var(--pad) 0; }
 
-/* ---------- 🏅 도장깨기 ---------- */
-.q-hero { margin: 4px var(--pad) 6px; padding: 18px; border-radius: 999px; background: var(--ink); color: #fff; }
-.q-hero b { display: block; margin-top: 8px; font-size: 28px; font-weight: 900; }
-.q-hero p { margin-top: 4px; font-size: 13px; color: #c9ccd1; }
-.q-level { display: inline-block; padding: 4px 10px; border-radius: 12px; background: var(--blue); font-size: 13px; font-weight: 700; }
-.q-bar { height: 8px; margin-top: 14px; border-radius: 4px; background: rgba(255, 255, 255, .18); overflow: hidden; }
-.q-bar i { display: block; height: 100%; background: linear-gradient(90deg, #5b9bff, #fff); border-radius: 4px; transition: width .3s var(--ease); }
-.q-list { padding: 6px 0; }
-.q-item { display: flex; align-items: center; gap: 12px; padding: 12px var(--pad); border-bottom: 1px solid var(--line); }
-.stamp { flex: 0 0 52px; height: 52px; border-radius: 50%; display: grid; place-items: center; font-size: 24px; background: var(--tile); filter: grayscale(1); opacity: .55; transition: all .2s var(--ease); }
-.q-item.done .stamp { filter: none; opacity: 1; background: #fff4d6; box-shadow: 0 0 0 2px #f2b21b; transform: rotate(-8deg); }
-.q-text { flex: 1; min-width: 0; }
-.q-text b { font-size: 16px; font-weight: 700; }
-.q-item.done .q-text b { color: var(--ink-3); text-decoration: line-through; }
-.q-text p { margin-top: 3px; display: flex; align-items: center; gap: 2px; font-size: 13px; color: var(--ink-3); }
-.q-btn { flex: 0 0 auto; height: 36px; padding: 0 14px; border-radius: 999px; border: 1px solid var(--ink); font-size: 14px; font-weight: 700; }
-.q-btn[aria-pressed="true"] { border-color: var(--line-2); color: var(--ink-3); background: var(--bg-gray); }
+/* ---------- 🔍 둘러보기 (인스타 돋보기 격자) ---------- */
+.explore { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; grid-auto-flow: dense; }
+.ex-tile { position: relative; aspect-ratio: 1; overflow: hidden; background: var(--tile); }
+.ex-tile img { width: 100%; height: 100%; object-fit: cover; }
+.ex-tile.big { grid-column: span 2; grid-row: span 2; }
+.ex-tile.big.right { grid-column: 2 / span 2; }
+.ex-tile:active img { opacity: .8; }
+.ex-count { position: absolute; top: 6px; right: 6px; padding: 2px 6px; border-radius: 999px; background: rgba(0, 0, 0, .55); color: #fff; font-size: 11px; font-weight: 700; }
+.ex-tile .credit { right: 4px; bottom: 4px; font-size: 11px; }
 
 /* ---------- 마이 ---------- */
 .counters { display: grid; grid-template-columns: repeat(3, 1fr); margin: 0 var(--pad) 10px; padding: 14px 0; border-radius: 16px; background: #fff; }
