@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="description" content="교통대생이 직접 추천한 충주캠퍼스 맛집·숨은장소·생활꿀팁 321곳">
+  <title>교통대 충주 가이드</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/logo.png">
+  <link rel="apple-touch-icon" href="assets/logo.png">
+  <!-- 글꼴 서버 연결을 미리 열어 두어 첫 화면 글자가 늦게 바뀌는 깜빡임을 줄인다 -->
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
+  <link rel="stylesheet" href="styles.css?v=41">
+</head>
+<body>
+  <div class="shell">
+    <main id="view" class="view" tabindex="-1"></main>
+
+    <!-- 배민처럼 탭 5개: 선택한 탭만 채운 아이콘(.fill), 나머지는 선 아이콘(.line) -->
+    <nav class="tabbar" aria-label="주요 메뉴">
+      <a href="#/" data-tab="home">
+        <svg class="line" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 10.5 12 4l8 6.5V20h-5v-5.5H9V20H4z"/></svg>
+        <svg class="fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 10.2 12 3.3l8.5 6.9V21h-6v-6h-5v6h-6z"/></svg>
+        <span>홈</span>
+      </a>
+      <a href="#/map" data-tab="map">
+        <svg class="line" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5A7 7 0 0 1 19 9.5C19 14.8 12 21 12 21z"/><circle cx="12" cy="9.5" r="2.5"/></svg>
+        <svg class="fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22s-8-6.8-8-12.5a8 8 0 0 1 16 0C20 15.2 12 22 12 22zm0-9.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" fill-rule="evenodd"/></svg>
+        <span>지도</span>
+      </a>
+      <a href="#/pick" data-tab="pick">
+        <svg class="line" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="4"/><circle cx="9" cy="9" r="1.2"/><circle cx="15" cy="15" r="1.2"/><circle cx="15" cy="9" r="1.2"/><circle cx="9" cy="15" r="1.2"/></svg>
+        <svg class="fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V7a4 4 0 0 1 4-4zm2 4.6a1.4 1.4 0 1 0 0 2.8 1.4 1.4 0 0 0 0-2.8zm6 0a1.4 1.4 0 1 0 0 2.8 1.4 1.4 0 0 0 0-2.8zm-6 6a1.4 1.4 0 1 0 0 2.8 1.4 1.4 0 0 0 0-2.8zm6 0a1.4 1.4 0 1 0 0 2.8 1.4 1.4 0 0 0 0-2.8z" fill-rule="evenodd"/></svg>
+        <span>뭐 먹지</span>
+      </a>
+      <a href="#/quest" data-tab="quest">
+        <svg class="line" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="9" r="5.5"/><path d="M8.5 13.5 7 21l5-2.5 5 2.5-1.5-7.5"/><path d="M10 9l1.5 1.5L14.5 7.5"/></svg>
+        <svg class="fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.5a6.5 6.5 0 0 1 4.3 11.4L18 22l-6-3-6 3 1.7-8.1A6.5 6.5 0 0 1 12 2.5zm2.9 4.3-3.4 3.4-1.4-1.4-1 1 2.4 2.4 4.4-4.4z" fill-rule="evenodd"/></svg>
+        <span>도장깨기</span>
+      </a>
+      <a href="#/my" data-tab="my">
+        <svg class="line" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8.5" r="4"/><path d="M4.5 20.5a7.5 7.5 0 0 1 15 0"/></svg>
+        <svg class="fill" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8.5" r="4.6"/><path d="M3.8 21a8.2 8.2 0 0 1 16.4 0z"/></svg>
+        <span>마이</span>
+      </a>
+    </nav>
+  </div>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="app.js?v=41"></script>
+</body>
+</html>
