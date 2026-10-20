@@ -158,13 +158,26 @@ const ICON = {
 };
 
 /* ---------- 공통 조각 ---------- */
+// 네이버 지도의 그 장소 「사진」 탭. 사진은 찍은 사람에게 저작권이 있어 가져오지 않고 링크로만 보낸다
+function naverPhotoLink(p) {
+  const m = /place\/(\d+)/.exec(p.map || '');
+  return m ? `https://m.place.naver.com/place/${m[1]}/photo` : null;
+}
 function logo(p, size = 'sm') {
   const c = CAT[p.category];
   return `<span class="logo logo-${size}" aria-hidden="true"><img src="${c.icon}" alt="" loading="lazy" onerror="fallback(this, '${c.emoji}')"></span>`;
 }
+// 자유 이용 사진(CC BY-SA 등)은 쓰는 자리마다 작성자·라이선스를 밝혀야 한다
+function credit(p, i, full = false) {
+  const c = p.credits?.[i];
+  if (!c) return '';
+  return full
+    ? `<a class="credit full" href="${c.page}" target="_blank" rel="noopener">${esc(c.note)} · 사진 ${esc(c.author)} · ${esc(c.license)}</a>`
+    : `<span class="credit">© ${esc(c.author)} · ${esc(c.license)}</span>`;
+}
 function photoOrTile(p) {
   // 카드에는 작은 사진(폭 480px)을 쓴다. 큰 사진은 상세 화면에서만
-  if (p.photos.length) return `<img src="${(p.thumbs || p.photos)[0]}" alt="" loading="lazy" decoding="async">`;
+  if (p.photos.length) return `<img src="${(p.thumbs || p.photos)[0]}" alt="" loading="lazy" decoding="async">${credit(p, 0)}`;
   const c = CAT[p.category];
   return `<span class="tile-art" aria-hidden="true"><img src="${c.icon}" alt="" loading="lazy" onerror="fallback(this, '${c.emoji}')"></span>`;
 }
@@ -206,7 +219,7 @@ function section(title, sub, more, cards) {
 function listCard(p) {
   const shots = (p.thumbs || p.photos).slice(0, 3);
   const menus = p.menus.filter(m => m.min != null);
-  const strip = shots.length ? `<div class="shot-strip">${shots.map((src, i) => `<div class="shot"><img src="${src}" alt="" loading="lazy" decoding="async">${menus[i] ? `<span><i>${esc(menus[i].name)}</i><b>${won(menus[i].min)}</b></span>` : ''}</div>`).join('')}</div>` : '';
+  const strip = shots.length ? `<div class="shot-strip">${shots.map((src, i) => `<div class="shot"><img src="${src}" alt="" loading="lazy" decoding="async">${credit(p, i)}${menus[i] ? `<span><i>${esc(menus[i].name)}</i><b>${won(menus[i].min)}</b></span>` : ''}</div>`).join('')}</div>` : '';
   return `<a class="lcard" href="#/p/${p.id}">
     ${strip}
     <div class="lcard-row">${logo(p)}<div class="lcard-text">
@@ -440,7 +453,7 @@ function detail(id) {
   const c = CAT[p.category];
   const on = saved.has(p.id);
   const gallery = p.photos.length
-    ? p.photos.map((src, i) => `<img src="${src}" alt="${esc(p.name)} 사진 ${i + 1}" ${i ? 'loading="lazy"' : ''}>`).join('')
+    ? p.photos.map((src, i) => `<figure class="d-photo"><img src="${src}" alt="${esc(p.name)} 사진 ${i + 1}" ${i ? 'loading="lazy"' : ''}>${credit(p, i, true)}</figure>`).join('')
     : `<span class="tile-art"><img src="${c.icon}" alt="" onerror="fallback(this, '${c.emoji}')"></span>`;
   const priced = p.menus.filter(m => m.min != null), unpriced = p.menus.filter(m => m.min == null);
   const unk = `<span class="unknown">${UNKNOWN}</span>`;
@@ -457,6 +470,7 @@ function detail(id) {
     </div>
   </div>
   <div class="d-hero" id="dhero"><div class="d-gallery" id="dgal">${gallery}</div>
+    ${naverPhotoLink(p) ? `<a class="naver-photo" href="${naverPhotoLink(p)}" target="_blank" rel="noopener">${p.photos.length ? '네이버에서 사진 더 보기' : '네이버에서 사진 보기'} ${ICON.right}</a>` : ''}
     ${p.photos.length > 1 ? `<div class="d-dots" id="ddots">${p.photos.map((_, i) => `<i aria-current="${i === 0}"></i>`).join('')}</div>` : ''}
     ${logo(p, 'lg')}
   </div>
@@ -631,7 +645,8 @@ function about() {
   <section class="card">
     <div class="kv-row"><span>가이드 소개</span><b>장소 ${state.places.length}곳 · 학생 추천 ${rec}건</b></div>
     <div class="cat-chips">${CATS.map(c => `<a href="#/c/${c.name}">${c.emoji} ${c.name} ${per[c.name]}</a>`).join('')}</div>
-    <p class="card-note">자료: 「도메인 특화 AI 데이터 스토리텔링」 수강생 추천을 정규화한 데이터 · 지도: NAVER</p>
+    <p class="card-note">자료: 「도메인 특화 AI 데이터 스토리텔링」 수강생 추천을 정규화한 데이터 · 지도: NAVER<br>
+    교내 건물 사진: 위키미디어 공용 <a href="https://commons.wikimedia.org/wiki/Category:Korea_National_University_of_Transportation" target="_blank" rel="noopener">Korea National University of Transportation</a> (Knutpr·Aranaraaya, CC BY-SA 4.0)</p>
   </section>`;
 }
 
