@@ -783,6 +783,9 @@ function myPage() {
     <p class="card-note">찜·최근 본 곳·최근 검색어는 이 브라우저에만 남아요. 현재 위치는 거리 계산에만 쓰고 저장하지 않아요.</p>
   </section>
   ${about()}
+  <section class="card">
+    <a class="kv-row" href="motion.html"><span>발표용 소개 영상</span><b>${ICON.right}</b></a>
+  </section>
   </div>`;
 }
 
