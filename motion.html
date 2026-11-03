@@ -300,7 +300,11 @@ const wake = () => { document.body.classList.remove('idle'); clearTimeout(idle);
 addEventListener('mousemove', wake); addEventListener('touchstart', wake); wake();
 
 // 사진을 다 받은 뒤에 시작해야 발표 중 빈 화면이 나오지 않는다
-Promise.all([...document.images].map(img => img.decode().catch(() => {}))).then(() => {
+const loaded = img => img.complete ? null : new Promise(r => { img.onload = img.onerror = r; });
+Promise.race([
+  Promise.all([...document.images].map(loaded)),
+  new Promise(r => setTimeout(r, 8000)) // 느린 망에서도 8초 뒤에는 시작한다
+]).then(() => {
   document.getElementById('load').remove();
   const q = new URLSearchParams(location.search).get('s');
   show(+q || 0); last = performance.now(); requestAnimationFrame(tick);
