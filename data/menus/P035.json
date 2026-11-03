@@ -1,0 +1,23 @@
+{
+  "menuCatalog": [
+    {
+      "name": "부리또",
+      "priceText": "4,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1419890035/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1419890035/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.01.05"
+    }
+  ]
+}

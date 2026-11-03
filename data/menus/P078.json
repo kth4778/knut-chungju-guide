@@ -1,0 +1,513 @@
+{
+  "menuCatalog": [
+    {
+      "name": "햄치즈루꼴라소금빵샌드",
+      "priceText": "5,800원",
+      "description": "수제소금빵 속에 돼지고기함량 높은 슬라이스 햄과 치즈, 루꼴라를 듬뿍담아 만든 샌드위치",
+      "image": "photos/menus/4f5edb58a1df45ce.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "버터떡",
+      "priceText": "2,000원",
+      "description": "버터의 풍미가 가득, 바삭하고 쫀득한 식감이 느껴지는 디저트",
+      "image": "photos/menus/0b6348daf6ae5e9e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "브라우니아이스크림",
+      "priceText": "6,500원",
+      "description": "꾸덕한 브라우니에 부드러운 아이스크림의 조합이 좋은 디저트",
+      "image": "photos/menus/d7d158d6a7472561.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "버터바",
+      "priceText": "5,300원",
+      "description": "아몬드가루가 들어가 고소하고 버터필링의 풍미가 가득한 플레인 버터바",
+      "image": "photos/menus/4ee87f31068cf8ca.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "갈릭크림치즈소금빵",
+      "priceText": "5,000원",
+      "description": "직접 만든 소금빵, 크림치즈와 수제마늘 소스를 더해 짭조름한 갈릭크림치즈소금빵",
+      "image": "photos/menus/54096527f4145301.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "모카소금빵",
+      "priceText": "4,500원",
+      "description": "커피향이 좋은 소금빵",
+      "image": "photos/menus/ba8b8973feaf5dca.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "수제소금빵",
+      "priceText": "2,800원",
+      "description": "아침마다 만들어 굽는 짭짤하고 부드러운 수제 소금빵",
+      "image": "photos/menus/94b8d86ecf3b19a6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "카스테라소금빵",
+      "priceText": "4,600원",
+      "description": "짭짤한 수제 소금빵 속에 생크림이 가득하고 겉은 부드러운 수제 카스테라가루가 올라간 소금빵",
+      "image": "photos/menus/5b9571f838c393cb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "불닭콘마요소금빵",
+      "priceText": "4,600원",
+      "description": "매콤한 불닭소스와 톡톡터지는 옥수수콘이 만난 소금빵",
+      "image": "photos/menus/31c5a517e3a887af.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "더블다쿠아즈",
+      "priceText": "4,100원",
+      "description": "트러플초코/ 소금/ 레몬요거트/ 말차팥앙금/ 고구마치즈/ 흑임자인절미 더블 다쿠아즈",
+      "image": "photos/menus/c8a05c493a350b09.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "아인슈페너플레인",
+      "priceText": "6,800원",
+      "description": "쌉쌀한 커피 위에 달달한 크림이 올라간 아인슈페너 (ONLY ICE)",
+      "image": "photos/menus/8dbf40f661648e87.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "라떼슈페너플레인",
+      "priceText": "7,100원",
+      "description": "고소한 라떼 위에 달달한 크림이 올라간 라떼슈페너플레인 (ONLY ICE)",
+      "image": "photos/menus/aff7e4c8c7690c61.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "아인슈페너그린말차",
+      "priceText": "7,100원",
+      "description": "쌉싸름한 말차와 녹차 조화가 이루어져 부드러운 크림이 올라간 아인슈페너 (ONLY ICE)",
+      "image": "photos/menus/08ad1190f3e58bc9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "얼그레이라떼",
+      "priceText": "7,100원",
+      "description": "커피와 얼그레이 맛이 어우러진 라떼 (ONLY ICE)",
+      "image": "photos/menus/1c905821fa9b4007.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "아몬드더블슈페너",
+      "priceText": "7,200원",
+      "description": "아몬드크림과 아몬드우유가 들어가 고소하고 달콤한 아몬드더블슈페너 (ONLY ICE)",
+      "image": "photos/menus/d5d0db268c48fa30.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "에스프레소",
+      "priceText": "5,000원",
+      "description": "샷이 2개들어가 진하고 초콜릿과 함께 즐기면 좋은 에스프레소",
+      "image": "photos/menus/d7910e2dbeacd35d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "아메리카노",
+      "priceText": "5,000원",
+      "description": "묵직한 바디감으로 풍미가 좋은 아메리카노 (hot, ice)",
+      "image": "photos/menus/430c287523220632.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "카페라떼",
+      "priceText": "5,500원",
+      "description": "샷이 2개들어가 진하고 부드러운 카페라떼 (샷 1개 가능) (ice, hot)",
+      "image": "photos/menus/bac7e67023ab94ab.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "카푸치노",
+      "priceText": "5,500원",
+      "description": "우유거품위에 시나몬 가루가 올라간 커피 (hot, ice)",
+      "image": "photos/menus/2ad8411e11672c87.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "바닐라라떼",
+      "priceText": "6,000원",
+      "description": "진한 바닐라라떼 (hot, ice)",
+      "image": "photos/menus/afa0e27b0ba22b7a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "헤이즐넛라떼",
+      "priceText": "6,000원",
+      "description": "달달한 헤이즐넛라떼 (hot, ice)",
+      "image": "photos/menus/8e52779298b2931b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "카라멜라떼",
+      "priceText": "6,300원",
+      "description": "카라멜소스가 들어간 달달한 라떼 (hot, ice)",
+      "image": "photos/menus/577ee5007ad87fe5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "카페모카",
+      "priceText": "6,300원",
+      "description": "초코소스가 들어가 더욱 풍미가 있는 카페모카레떼 휘핑X (hot, ice)",
+      "image": "photos/menus/9785d023c84f1150.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "연유라떼",
+      "priceText": "6,300원",
+      "description": "연유가 들어가 달달한 연유라떼 (hot, ice)",
+      "image": "photos/menus/b9d3aed3baab713f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "초코라떼",
+      "priceText": "6,000원",
+      "description": "진하고 부드러운 초코라떼 (hot, ice)",
+      "image": "photos/menus/574564dd711ea20f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "녹차라떼",
+      "priceText": "6,000원",
+      "description": "달달함과 쌉쌀함이 조화로운 라떼 (hot, ice)",
+      "image": "photos/menus/4f838f87721bfcc4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "고구마라떼",
+      "priceText": "6,000원",
+      "description": "진한 고구마 페이스트가 들어가 달콤한 라떼 (hot, ice)",
+      "image": "photos/menus/319fa85a6dd1a9ca.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "토피넛라떼",
+      "priceText": "6,000원",
+      "description": "커피향이 살짝나면서 고소한 견과류가 들어간 토피넛라떼 (hot, ice)",
+      "image": "photos/menus/68408c8c3dfa4c06.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "딸기라떼 (ONLY ICE)",
+      "priceText": "6,800원",
+      "description": "딸기청의 딸기가 씹히는 맛이 있는 딸기라떼 (ONLY ICE)",
+      "image": "photos/menus/842537cff583768f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "유자차",
+      "priceText": "6,000원",
+      "description": "상큼한 유자청이 들어간 유자차 (hot, ice)",
+      "image": "photos/menus/d8e3cc22937c6306.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "자몽차",
+      "priceText": "6,000원",
+      "description": "자몽청이 들어간 쌉쌀하면서 달달한 자몽차 (hot, ice)",
+      "image": "photos/menus/ae8d80f2d1b0f1ab.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "꿀생강차",
+      "priceText": "6,000원",
+      "description": "꿀의 달콤함과 생강의 살짝 매운느낌의 꿀생강차 (hot, ice)",
+      "image": "photos/menus/035c9a7877f1e29b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "청귤차",
+      "priceText": "6,000원",
+      "description": "청귤과육이 들어가 더욱 상큼한 청귤차 (hot, ice)",
+      "image": "photos/menus/473bbdf759a3a733.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "수제오미자차",
+      "priceText": "6,300원",
+      "description": "수제로 만든 색깔이 예쁜 오미자차 (hot, ice)",
+      "image": "photos/menus/fb3c14e0614a2acf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "캐모마일",
+      "priceText": "6,000원",
+      "description": "속이 편안해지는 캐모마일티 (hot, ice)",
+      "image": "photos/menus/ca2e806ae81bf64f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "페퍼민트",
+      "priceText": "6,000원",
+      "description": "입안이 상쾌해지는 페퍼민트티 (hot, ice)",
+      "image": "photos/menus/564cfb98ffae5073.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "얼그레이",
+      "priceText": "6,000원",
+      "description": "향긋한 홍차향이 좋은 얼그레이티 (hot, ice)",
+      "image": "photos/menus/d1fb9bca49f2d024.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "복숭아아이스티",
+      "priceText": "6,000원",
+      "description": "속이 시원해지는 복숭아맛 아이스티 (ONLY ICE)",
+      "image": "photos/menus/a6d47334e41a602e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "레몬에이드",
+      "priceText": "6,500원",
+      "description": "상큼하고 시원한 레몬에이드 (ONLY ICE)",
+      "image": "photos/menus/40e7257cdb26dda1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "자몽에이드",
+      "priceText": "6,500원",
+      "description": "자몽의 쌉쌀함과 달콤한 맛을 느낄 수 있는 자몽에이드 (ONLY ICE)",
+      "image": "photos/menus/29f71e571da7ae49.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "청귤에이드",
+      "priceText": "6,500원",
+      "description": "청귤과육이 들어가 상큼한 청귤에이드 (ONLY ICE)",
+      "image": "photos/menus/e0d1f40df29004db.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "자두에이드",
+      "priceText": "6,500원",
+      "description": "상큼한 자두과육이 씹히는 달콤한 자두에이드 (ONLY ICE)",
+      "image": "photos/menus/fb43861aefe32d53.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "패션후르츠에이드",
+      "priceText": "6,500원",
+      "description": "패션후르츠의 씨가 톡톡터지는 재미가 있는 패션후르츠에이드 (ONLY ICE)",
+      "image": "photos/menus/b85a5ce0a7b3520b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "소다에이드",
+      "priceText": "6,500원",
+      "description": "산뜻한 느낌을 주는 소다향이 가득한 소다에이드 (ONLY ICE)",
+      "image": "photos/menus/839ac103b5007f7b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "수제오미자에이드",
+      "priceText": "6,800원",
+      "description": "수제오미자 농축액에 탄산이 들어간 수제오미자에이드 (ONLY ICE)",
+      "image": "photos/menus/d7f748a2eee90c1d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "플레인요거트",
+      "priceText": "6,800원",
+      "description": "기본적인 상큼한 요거트 스무디 (ONLY ICE) (잔은 다를 수 있습니다.)",
+      "image": "photos/menus/b8c26207fb969a75.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "딸기요거트스무디",
+      "priceText": "7,000원",
+      "description": "상큼하면서 달콤한 딸기요거트스무디 (ONLY ICE)",
+      "image": "photos/menus/c775764da9db13d5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "블루베리요거트스무디",
+      "priceText": "7,000원",
+      "description": "상큼하면서 시원한 블루베리요거트스무디 (ONLY ICE)",
+      "image": "photos/menus/0e80056631b47672.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "토피넛스무디",
+      "priceText": "7,000원",
+      "description": "견과류가 들어가 고소하면서 커피향이 살짝들어간 토피넛스무디 (ONLY ICE)",
+      "image": "photos/menus/1cc80259054d83e3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    },
+    {
+      "name": "디카페인 추가",
+      "priceText": "1,000원",
+      "description": "모든 커피메뉴 디카페인으로 변경가능",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1200943881/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.09.11"
+    }
+  ]
+}

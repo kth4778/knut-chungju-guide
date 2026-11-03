@@ -1,0 +1,372 @@
+{
+  "menuCatalog": [
+    {
+      "name": "사과잼와플",
+      "priceText": "3,500원",
+      "variants": [
+        {
+          "text": ",3,500원",
+          "price": 3500
+        }
+      ],
+      "image": "photos/menus/bm-b1927c876276b2c9.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-04.png"
+    },
+    {
+      "name": "누텔라와플",
+      "priceText": "4,000원",
+      "variants": [
+        {
+          "text": ",4,000원",
+          "price": 4000
+        }
+      ],
+      "image": "photos/menus/bm-d1a19e9d577b351f.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-00.png"
+    },
+    {
+      "name": "로투스와플",
+      "priceText": "4,000원",
+      "variants": [
+        {
+          "text": ",4,000원",
+          "price": 4000
+        }
+      ],
+      "image": "photos/menus/bm-73c24f3a02a5caa5.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-00.png"
+    },
+    {
+      "name": "컵빙수",
+      "priceText": "4,500원",
+      "variants": [
+        {
+          "text": ",4,500원",
+          "price": 4500
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-00.png"
+    },
+    {
+      "name": "아메리카노",
+      "priceText": "3,000원",
+      "variants": [
+        {
+          "text": ",3,000원",
+          "price": 3000
+        }
+      ],
+      "image": "photos/menus/bm-e97f45540bb21eec.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-01.png"
+    },
+    {
+      "name": "아샷추",
+      "priceText": "3,500원",
+      "variants": [
+        {
+          "text": ",3,500원",
+          "price": 3500
+        }
+      ],
+      "image": "photos/menus/bm-034a45b753cd4af9.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-01.png"
+    },
+    {
+      "name": "카페라떼",
+      "priceText": "4,000원",
+      "variants": [
+        {
+          "text": ",4,000원",
+          "price": 4000
+        }
+      ],
+      "image": "photos/menus/bm-356d83bee94c97ff.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-01.png"
+    },
+    {
+      "name": "바닐라라떼",
+      "priceText": "4,500원",
+      "variants": [
+        {
+          "text": ",4,500원",
+          "price": 4500
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-02.png"
+    },
+    {
+      "name": "복숭아 아이스티",
+      "priceText": "3,000원",
+      "variants": [
+        {
+          "text": ",3,000원",
+          "price": 3000
+        }
+      ],
+      "image": "photos/menus/bm-b26769b08aded538.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-02.png"
+    },
+    {
+      "name": "아망추",
+      "priceText": "4,500원",
+      "variants": [
+        {
+          "text": ",4,500원",
+          "price": 4500
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-02.png"
+    },
+    {
+      "name": "청포도에이드",
+      "priceText": "3,500원",
+      "variants": [
+        {
+          "text": ",3,500원",
+          "price": 3500
+        }
+      ],
+      "image": "photos/menus/bm-87fe5800d7eb2752.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-02.png"
+    },
+    {
+      "name": "초코라떼",
+      "priceText": "4,000원",
+      "variants": [
+        {
+          "text": ",4,000원",
+          "price": 4000
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-03.png"
+    },
+    {
+      "name": "세작녹차(카페인)",
+      "priceText": "4,000원",
+      "variants": [
+        {
+          "text": ",4,000원",
+          "price": 4000
+        }
+      ],
+      "image": "photos/menus/bm-cb141b7c312d5200.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-03.png"
+    },
+    {
+      "name": "호지차(카페인)",
+      "priceText": "4,000원",
+      "variants": [
+        {
+          "text": ",4,000원",
+          "price": 4000
+        }
+      ],
+      "image": "photos/menus/bm-16b6874855e19a0f.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-03.png"
+    },
+    {
+      "name": "하동 잭살차(카페인)",
+      "priceText": "4,000원",
+      "variants": [
+        {
+          "text": ",4,000원",
+          "price": 4000
+        }
+      ],
+      "image": "photos/menus/bm-96d7b145976eb2bc.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-03.png"
+    },
+    {
+      "name": "이른 봄 쑥차(디카페인)",
+      "priceText": "4,000원",
+      "variants": [
+        {
+          "text": ",4,000원",
+          "price": 4000
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-04.png"
+    },
+    {
+      "name": "하동 감잎차(디카페인)",
+      "priceText": "4,000원",
+      "variants": [
+        {
+          "text": ",4,000원",
+          "price": 4000
+        }
+      ],
+      "image": "photos/menus/bm-75ce63770a9c3bf9.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-04.png"
+    },
+    {
+      "name": "하동 호박차(디카페인)",
+      "priceText": "4,000원",
+      "variants": [
+        {
+          "text": ",4,000원",
+          "price": 4000
+        }
+      ],
+      "image": "photos/menus/bm-75ce63770a9c3bf9.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-04.png"
+    },
+    {
+      "name": "두바이와플",
+      "priceText": "10,000원",
+      "variants": [
+        {
+          "text": ",10,000원",
+          "price": 10000
+        }
+      ],
+      "image": "photos/menus/bm-8379cee56c0c0315.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-05.png"
+    },
+    {
+      "name": "애플망고치즈 눈꽃빙수",
+      "priceText": "13,900원",
+      "variants": [
+        {
+          "text": ",13,900원",
+          "price": 13900
+        }
+      ],
+      "image": "photos/menus/bm-a1ee76ff70aa64b5.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-05.png"
+    },
+    {
+      "name": "팥인절미 눈꽃빙수",
+      "priceText": "11,900원",
+      "variants": [
+        {
+          "text": ",11,900원",
+          "price": 11900
+        }
+      ],
+      "image": "photos/menus/bm-04b86c8491b259f7.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-06.png"
+    },
+    {
+      "name": "초코눈꽃빙수",
+      "priceText": "14,900원",
+      "variants": [
+        {
+          "text": ",14,900원",
+          "price": 14900
+        }
+      ],
+      "image": "photos/menus/bm-41d6fef73464cef8.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-06.png"
+    },
+    {
+      "name": "[리뷰] 아이스 아메리카노",
+      "priceText": "1,000원",
+      "variants": [
+        {
+          "text": ",1,000원",
+          "price": 1000
+        }
+      ],
+      "image": "photos/menus/bm-034a45b753cd4af9.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-07.png"
+    },
+    {
+      "name": "[리뷰] 아이스티",
+      "priceText": "1,000원",
+      "variants": [
+        {
+          "text": ",1,000원",
+          "price": 1000
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P017-batch-menu-07.png"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "baemin",
+      "label": "배민 배달 메뉴",
+      "checked": "2026-10-24",
+      "note": "연결된 휴대폰의 배달 메뉴 화면에서 확인"
+    }
+  ]
+}

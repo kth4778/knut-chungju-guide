@@ -1,0 +1,113 @@
+{
+  "menuCatalog": [
+    {
+      "name": "황제소갈비살",
+      "priceText": "13,900원",
+      "description": "",
+      "image": "photos/menus/b2abfae2cd989f0d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list"
+    },
+    {
+      "name": "양념소갈비살",
+      "priceText": "14,900원",
+      "description": "",
+      "image": "photos/menus/a0acfdbc47fb2cdf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list"
+    },
+    {
+      "name": "매콤소갈비살",
+      "priceText": "14,900원",
+      "description": "",
+      "image": "photos/menus/bb45ec8ab92e4b66.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list"
+    },
+    {
+      "name": "생갈매기살",
+      "priceText": "12,900원",
+      "description": "",
+      "image": "photos/menus/c307b87a4c8cb495.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list"
+    },
+    {
+      "name": "매콤갈매기살",
+      "priceText": "13,900원",
+      "description": "",
+      "image": "photos/menus/fe7df1c31e16063f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list"
+    },
+    {
+      "name": "항정살",
+      "priceText": "14,900원",
+      "description": "",
+      "image": "photos/menus/f25e2b700c9f6116.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list"
+    },
+    {
+      "name": "꽃돼지",
+      "priceText": "10,900원",
+      "description": "",
+      "image": "photos/menus/023e56ca9998ce8d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list"
+    },
+    {
+      "name": "주먹고기",
+      "priceText": "10,900원",
+      "description": "",
+      "image": "photos/menus/6caba5845a39925a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list"
+    },
+    {
+      "name": "매콤무뼈닭발",
+      "priceText": "10,900원",
+      "description": "",
+      "image": "photos/menus/9d6e7d3b2dd53bbc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list"
+    },
+    {
+      "name": "매콤껍데기",
+      "priceText": "7,000원",
+      "description": "",
+      "image": "photos/menus/ccb4af9bac008455.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2012419404/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.07.09"
+    }
+  ]
+}

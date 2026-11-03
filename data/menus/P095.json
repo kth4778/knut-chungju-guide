@@ -1,0 +1,23 @@
+{
+  "menuCatalog": [
+    {
+      "name": "아메리카노",
+      "priceText": "1,500원",
+      "description": "원조커피 원조빽스치노 초코바나나빽스치노 아삿추(달콤아이스티+샷추가) 미숫가루 녹차라떼",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1094965330/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1094965330/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.02.16"
+    }
+  ]
+}

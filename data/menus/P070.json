@@ -1,0 +1,133 @@
+{
+  "menuCatalog": [
+    {
+      "name": "중원백면",
+      "priceText": "12,000원",
+      "description": "한국의 맑은 곰탕 육수에 쌀면을 넣어 만든 중원백면+밥제공",
+      "image": "photos/menus/68c5a214aac26f14.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "들기름육회비빔밥",
+      "priceText": "15,000원",
+      "description": "싱싱한 냉장 육회와 미나리, 들기름 그리고 특제 간장에 비벼먹는 육회비빔밥",
+      "image": "photos/menus/0cc4d8e5ca73fd98.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "능이 수육전골",
+      "priceText": "44,000원",
+      "description": "여름철 몸보신은 능이버섯과 함께",
+      "image": "photos/menus/cdef274113d01520.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "한우 육전",
+      "priceText": "20,000원",
+      "description": "주문과 동시에 부쳐내는 한우육전",
+      "image": "photos/menus/48c1a61b452e5712.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "중원홍면",
+      "priceText": "12,000원",
+      "description": "한국의 육개장느낌의 국물에 쌀면을 넣어 만든 중원홍면+밥제공",
+      "image": "photos/menus/6a4105da8c6e3561.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "한우 미나리 곰탕",
+      "priceText": "13,000원",
+      "description": "한우 사태 곰탕과 미나리의 조화",
+      "image": "photos/menus/a081b47b5a523e1f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "김치김말이",
+      "priceText": "4,000원",
+      "description": "오직 중원육면에서 즐기는 김치 김말이 튀김",
+      "image": "photos/menus/5376b3042837efdc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "불스지",
+      "priceText": "15,000원",
+      "description": "매운 불 소스로 볶은 쫄깃하고 탱글한 콜라겐 덩어리 스지",
+      "image": "photos/menus/c6140526b5cafaca.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "소고기수육",
+      "priceText": "34,000원",
+      "description": "한우 사태,스지를 한번에 즐기는 수육(진한 국물에 쌀국수사리와 떡 사리는 필수!)",
+      "image": "photos/menus/98d927a3875729c0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "한우 소곱창 전골",
+      "priceText": "34,000원",
+      "description": "한우 소곱창을 넣어 칼칼하게 끓여낸 곱창전골",
+      "image": "photos/menus/cb6501f04ae5ab65.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "한우육회",
+      "priceText": "32,000원",
+      "description": "신선한 육회와 중원육면만의 양념으로 맛을 낸 한우육회",
+      "image": "photos/menus/19709fd9e3cd1701.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    },
+    {
+      "name": "낙지젓들기름면",
+      "priceText": "13,000원",
+      "description": "간장베이스 소스의 비빔면과 낙지젓과 들기름을 넣어 만든 간장국수",
+      "image": "photos/menus/306f93e22b4d020a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2098766848/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.10.01"
+    }
+  ]
+}

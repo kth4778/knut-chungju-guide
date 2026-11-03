@@ -1,0 +1,83 @@
+{
+  "menuCatalog": [
+    {
+      "name": "콩나물국밥",
+      "priceText": "5,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35609409/menu/list"
+    },
+    {
+      "name": "김치콩나물국밥",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35609409/menu/list"
+    },
+    {
+      "name": "황태콩나물국밥",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35609409/menu/list"
+    },
+    {
+      "name": "굴콩나물국밥",
+      "priceText": "9,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35609409/menu/list"
+    },
+    {
+      "name": "육개장",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35609409/menu/list"
+    },
+    {
+      "name": "족발부추무침",
+      "priceText": "16,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35609409/menu/list"
+    },
+    {
+      "name": "오징어한마리",
+      "priceText": "14,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35609409/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/35609409/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.01.27"
+    }
+  ]
+}

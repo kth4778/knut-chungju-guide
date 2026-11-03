@@ -1,0 +1,413 @@
+{
+  "menuCatalog": [
+    {
+      "name": "핫윙봉(소스 미포함)",
+      "priceText": "18,000원",
+      "description": "핫윙봉16조각+치킨무+음료500ml",
+      "image": "photos/menus/d34c81f1fffaa6de.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "핫크리스피(소스 미포함)",
+      "priceText": "18,000원",
+      "description": "9호 냉장육 후라이드+콜라500ml+치킨무",
+      "image": "photos/menus/fbdb70f10e808ba7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "순살치킨(소스 미포함)(보통)",
+      "priceText": "17,000원",
+      "description": "순살500g+치킨무+음료500ml",
+      "image": "photos/menus/b140e3924fe439e8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "나혼자세트1번(소스 미포함)",
+      "priceText": "17,000원",
+      "description": "핫윙봉후라이드 8조각+떡볶이 1인분+치즈볼3개+음료500ml",
+      "image": "photos/menus/ea1fadd357de3a7a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "나혼자세트 2번(소스 미포함)",
+      "priceText": "17,000원",
+      "description": "순살후라이드 +떡볶이 1인분+치즈볼3개+음료500ml",
+      "image": "photos/menus/7f79bc531bc6347f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "순살세트(소스 미포함)",
+      "priceText": "27,000원",
+      "description": "순살500g+떡볶이2인분+토핑택1(치즈or쫄면or계란)+콜라1.25L+치킨무",
+      "image": "photos/menus/25a7e50db9099ddf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "치킨세트(소스 미포함)",
+      "priceText": "27,000원",
+      "description": "80년대치킨or90년대치킨+떡볶이1인분+콜라1.25L+치킨무",
+      "image": "photos/menus/bc5be1b6c1f84e9a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "순살 맵.단.짠",
+      "priceText": "29,000원",
+      "description": "[]순살 매콤양념+순살 양파닭+순살 매콤갈릭간장[]800g+음료500ml+치킨무",
+      "image": "photos/menus/12784cabd64374d8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "70년대 통닭(소스 미포함)",
+      "priceText": "13,000원",
+      "description": "70년대 옛날통닭+콜라500ml+치킨무",
+      "image": "photos/menus/d72fcc4ca9478c38.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "시대별치킨 후라이드(소스 미포함)(담백한 80년대 스타일)",
+      "priceText": "20,000원",
+      "description": "11호 냉장육 후라이드+콜라500ml+치킨무",
+      "image": "photos/menus/25d8229ab7abe3b1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "시대별치킨 후라이드(소스 미포함)(바삭한 90년대 스타일)",
+      "priceText": "20,000원",
+      "description": "11호 냉장육 후라이드+콜라500ml+치킨무",
+      "image": "photos/menus/25d8229ab7abe3b1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "핫 모이스트(소스 미포함)",
+      "priceText": "18,000원",
+      "description": "9호 냉장육 후라이드+콜라500ml+치킨무",
+      "image": "photos/menus/2da2bb533c64c98d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "순살콘치즈(보통)",
+      "priceText": "20,000원",
+      "description": "",
+      "image": "photos/menus/3bec82e9097aaba4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "순살맵콘치즈(보통)",
+      "priceText": "20,000원",
+      "description": "",
+      "image": "photos/menus/dd26dc37a12f0d3b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "순살 양파닭(보통)",
+      "priceText": "20,000원",
+      "description": "",
+      "image": "photos/menus/33f58fcb07c3e3b3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "순살 파닭(보통)",
+      "priceText": "20,000원",
+      "description": "",
+      "image": "photos/menus/f7c75fa79eb1fc60.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "80년대치킨 내 맘대로 반반",
+      "priceText": "22,000원",
+      "description": "맘대로 반반+콜라500ml+치킨무",
+      "image": "photos/menus/88e4d2dbe49a08d8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "90년대치킨 내 맘대로 반반",
+      "priceText": "22,000원",
+      "description": "맘대로반반+콜라500ml+치킨무",
+      "image": "photos/menus/2603ea137cfe40bf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "핫크리스피 반반",
+      "priceText": "20,000원",
+      "description": "바삭하고 매콤한 핫크리스피+콜라500ml",
+      "image": "photos/menus/6f8c768bb3ef9d18.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "핫모이스트반반",
+      "priceText": "20,000원",
+      "description": "후라이드+콜라500ml+치킨무",
+      "image": "photos/menus/eb06ebaffbe9c227.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "순살 내맘대로 반반(보통)",
+      "priceText": "19,000원",
+      "description": "순살500g+치킨무+음료500ml",
+      "image": "photos/menus/84878f9842d02f64.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "태권국물떡볶이(1인분)",
+      "priceText": "5,000원",
+      "description": "어린시절 먹었던 떡볶이맛 그대로~ 토핑까지 추가하면 환상~",
+      "image": "photos/menus/79b238c6b8cabe27.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "태권국물떡볶이(2인분)",
+      "priceText": "10,000원",
+      "description": "어린시절 먹었던 떡볶이맛 그대로~ 토핑까지 추가하면 환상~",
+      "image": "photos/menus/79b238c6b8cabe27.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "태권로제떡볶이(1인분)",
+      "priceText": "6,000원",
+      "description": "기본은 저렴하게~맛은 보장~토핑까지 추가하면 환상~",
+      "image": "photos/menus/62e2674e20f54019.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "태권로제떡볶이(2인분)",
+      "priceText": "12,000원",
+      "description": "기본은 저렴하게~맛은 보장~토핑까지 추가하면 환상~",
+      "image": "photos/menus/62e2674e20f54019.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "닭발",
+      "priceText": "14,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "똥집튀김",
+      "priceText": "15,000원",
+      "description": "똥집튀김+파채+조미소금+매콤갈릭간장소스",
+      "image": "photos/menus/862532b62aee5065.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "모듬튀김(7개)",
+      "priceText": "9,500원",
+      "description": "왕새우튀김1개+고추튀김1개+해쉬브라운1개+김말이2개+오징어튀김2개",
+      "image": "photos/menus/b2c05afb50878bbf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "케이준감자(200g)",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/c8eba7792fee9dd5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "해쉬브라운(2개)",
+      "priceText": "3,000원",
+      "description": "",
+      "image": "photos/menus/8ba82537f326e56f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "콜라(500ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "콜라(1.25L)",
+      "priceText": "3,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "제로콜라 500ml",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "사이다(500ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "사이다(1.25L)",
+      "priceText": "3,000원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "달콤양념소스",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "매콤양념소스",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "머스터드 소스",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "달콤갈릭간장소스",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    },
+    {
+      "name": "매콤갈릭간장소스",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1930313566/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

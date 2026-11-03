@@ -1,0 +1,658 @@
+{
+  "menuCatalog": [
+    {
+      "name": "짜장면",
+      "priceText": "6,000원",
+      "description": "돼지고기와 야채를 오랫동안 볶아 더욱 맛있고 진한 짜장",
+      "image": "photos/menus/f297baa5a16f183b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "탕수육 소 + 식사2 + 군만두(2인분)",
+      "priceText": "24,000원",
+      "description": "미니탕수육(기본제공) 식사2개 선택 짜장면, 짬뽕, 볶음밥",
+      "image": "photos/menus/0caca1a4df8dc5b1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "군만두5P + 식사(선택)",
+      "priceText": "9,000원",
+      "description": "군만두 5P(기본제공) 식사류 선택가능(짜장면,짬뽕,볶음밥)",
+      "image": "photos/menus/371cd9b6d26378e8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "미니탕수육 + 식사 + 군만두",
+      "priceText": "15,000원",
+      "description": "미니탕수육(기본제공) 식사류 선택가능(짜장면,짬뽕,볶음밥)",
+      "image": "photos/menus/9aa2778cfe3c4dfb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "군만두(2인)세트(2인분)",
+      "priceText": "17,000원",
+      "description": "군만두(10P) + 식사2(선택)",
+      "image": "photos/menus/371cd9b6d26378e8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "간짜장",
+      "priceText": "9,000원",
+      "description": "야채와 고기의 식감을 살린 마른짜장",
+      "image": "photos/menus/5b6a21c5de702752.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "해물짬뽕",
+      "priceText": "10,000원",
+      "description": "신선한 해산물과 야채가 어우러져 끌리는 맛이 일품인 해물짬뽕",
+      "image": "photos/menus/3e10fba6deb3811c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "육짬뽕",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/aa2f9f25012ea015.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "해물쟁반짜장 + 군만두5P",
+      "priceText": "25,000원",
+      "description": "진한 짜장소스에 해산물과 비법소스가 어우러진 프리미엄짜장",
+      "image": "photos/menus/e898db4d87484bb2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "짜장밥+짬뽕국물",
+      "priceText": "8,000원",
+      "description": "",
+      "image": "photos/menus/ac79b0639138a0cb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "새우볶음밥+짬뽕국물",
+      "priceText": "8,000원",
+      "description": "",
+      "image": "photos/menus/47b4cd5e3be664c1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "잡채밥+짬뽕국물",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/4d3417cc9fb4ee64.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "해물짬뽕밥",
+      "priceText": "11,000원",
+      "description": "",
+      "image": "photos/menus/08132c2164f0379f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "육짬뽕밥",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/5c7f51fd54a058af.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "리밍탕수육(소)",
+      "priceText": "13,000원",
+      "description": "국내산돼지고기만사용",
+      "image": "photos/menus/92d8a802dfd10a62.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "리밍탕수육(중)",
+      "priceText": "20,000원",
+      "description": "국내산돼지고기만사용",
+      "image": "photos/menus/92d8a802dfd10a62.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "칠리새우(특사이즈9P)",
+      "priceText": "22,000원",
+      "description": "",
+      "image": "photos/menus/7298544f2a35ee45.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "크림새우(특사이즈9P)",
+      "priceText": "22,000원",
+      "description": "",
+      "image": "photos/menus/bfc2530d29ce3061.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "유산슬 + 군만두5p",
+      "priceText": "30,000원",
+      "description": "",
+      "image": "photos/menus/5313855e632484ef.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "고기왕만두튀김(2p)",
+      "priceText": "3,500원",
+      "description": "",
+      "image": "photos/menus/1aeaa044fa97c994.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "고기왕만두튀김(4p)",
+      "priceText": "6,000원",
+      "description": "",
+      "image": "photos/menus/1aeaa044fa97c994.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "군만두(5P)",
+      "priceText": "3,000원",
+      "description": "",
+      "image": "photos/menus/b373ac90dc4a668d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "군만두(10P)",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/b373ac90dc4a668d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "짬뽕국물",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "펩시콜라(355ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/20ffbbf394e7d3b4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "펩시콜라제로(355ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/ad016330f910962b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "칠성사이다(355ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "칠성사이다제로(355ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "탐스 파인(355ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list"
+    },
+    {
+      "name": "리밍탕수육",
+      "priceText": "13,000원부터",
+      "variants": [
+        {
+          "text": "소,13,000원",
+          "price": 13000
+        },
+        {
+          "text": "중,20,000원",
+          "price": 20000
+        }
+      ],
+      "image": "photos/menus/bm-76169cb6b1c78716.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-06.png"
+    },
+    {
+      "name": "미니탕수육 + 식사 + 군만두",
+      "priceText": "15,000원",
+      "variants": [
+        {
+          "text": ",15,000원",
+          "price": 15000
+        }
+      ],
+      "image": "photos/menus/bm-febd243988f6a762.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-00.png"
+    },
+    {
+      "name": "짜장면",
+      "priceText": "6,000원",
+      "variants": [
+        {
+          "text": ",6,000원",
+          "price": 6000
+        }
+      ],
+      "image": "photos/menus/bm-22ee5be1a33adbbc.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-00.png"
+    },
+    {
+      "name": "새우볶음밥+짬뽕국물",
+      "priceText": "8,000원",
+      "variants": [
+        {
+          "text": ",8,000원",
+          "price": 8000
+        }
+      ],
+      "image": "photos/menus/bm-23a02612ec3e80ec.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-00.png"
+    },
+    {
+      "name": "육짬뽕",
+      "priceText": "10,000원",
+      "variants": [
+        {
+          "text": ",10,000원",
+          "price": 10000
+        }
+      ],
+      "image": "photos/menus/bm-a1e6064d8046de89.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-03.png"
+    },
+    {
+      "name": "간짜장",
+      "priceText": "9,000원",
+      "variants": [
+        {
+          "text": ",9,000원",
+          "price": 9000
+        }
+      ],
+      "image": "photos/menus/bm-24c0017da8b9ecfb.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-01.png"
+    },
+    {
+      "name": "군만두5P + 식사(선택)",
+      "priceText": "9,000원",
+      "variants": [
+        {
+          "text": ",9,000원",
+          "price": 9000
+        }
+      ],
+      "image": "photos/menus/bm-ccee71b6a2449322.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-01.png"
+    },
+    {
+      "name": "군만두(2인)세트",
+      "priceText": "17,000원",
+      "variants": [
+        {
+          "text": "2인분,17,000원",
+          "price": 17000
+        }
+      ],
+      "image": "photos/menus/bm-ccee71b6a2449322.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-02.png"
+    },
+    {
+      "name": "탕수육 소 + 식사2 + 군만두",
+      "priceText": "24,000원",
+      "variants": [
+        {
+          "text": "2인분,24,000원",
+          "price": 24000
+        }
+      ],
+      "image": "photos/menus/bm-b9ce5960330065dd.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-02.png"
+    },
+    {
+      "name": "해물짬뽕",
+      "priceText": "10,000원",
+      "variants": [
+        {
+          "text": ",10,000원",
+          "price": 10000
+        }
+      ],
+      "image": "photos/menus/bm-0bb8c84e861395b1.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-03.png"
+    },
+    {
+      "name": "해물쟁반짜장 + 군만두5P",
+      "priceText": "25,000원",
+      "variants": [
+        {
+          "text": ",25,000원",
+          "price": 25000
+        }
+      ],
+      "image": "photos/menus/bm-f4ebd39cdd60bf25.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-03.png"
+    },
+    {
+      "name": "해물볶음짬뽕 + 군만두5P",
+      "priceText": "27,000원",
+      "variants": [
+        {
+          "text": ",27,000원",
+          "price": 27000
+        }
+      ],
+      "image": "photos/menus/bm-83dba40f618f5bb2.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-03.png"
+    },
+    {
+      "name": "매운짜장면",
+      "priceText": "7,000원",
+      "variants": [
+        {
+          "text": ",7,000원",
+          "price": 7000
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-04.png"
+    },
+    {
+      "name": "해물지옥짬뽕",
+      "priceText": "11,000원",
+      "variants": [
+        {
+          "text": ",11,000원",
+          "price": 11000
+        }
+      ],
+      "image": "photos/menus/bm-d4f9d04b9f894c89.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-04.png"
+    },
+    {
+      "name": "지옥육짬뽕",
+      "priceText": "11,000원",
+      "variants": [
+        {
+          "text": ",11,000원",
+          "price": 11000
+        }
+      ],
+      "image": "photos/menus/bm-0aeeae9362551991.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-04.png"
+    },
+    {
+      "name": "짜장밥+짬뽕국물",
+      "priceText": "8,000원",
+      "variants": [
+        {
+          "text": ",8,000원",
+          "price": 8000
+        }
+      ],
+      "image": "photos/menus/bm-2cee00d36724758c.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-04.png"
+    },
+    {
+      "name": "잡채밥+짬뽕국물",
+      "priceText": "10,000원",
+      "variants": [
+        {
+          "text": ",10,000원",
+          "price": 10000
+        }
+      ],
+      "image": "photos/menus/bm-78bbc66d6667dc33.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-05.png"
+    },
+    {
+      "name": "해물짬뽕밥",
+      "priceText": "11,000원",
+      "variants": [
+        {
+          "text": ",11,000원",
+          "price": 11000
+        }
+      ],
+      "image": "photos/menus/bm-e14539d5ebe73c0f.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-05.png"
+    },
+    {
+      "name": "육짬뽕밥",
+      "priceText": "10,000원",
+      "variants": [
+        {
+          "text": ",10,000원",
+          "price": 10000
+        }
+      ],
+      "image": "photos/menus/bm-a178013fc92d2996.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-05.png"
+    },
+    {
+      "name": "유산슬덮밥+짬뽕국물",
+      "priceText": "13,000원",
+      "variants": [
+        {
+          "text": ",13,000원",
+          "price": 13000
+        }
+      ],
+      "image": "photos/menus/bm-54e0d6674d2fbe52.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-05.png"
+    },
+    {
+      "name": "칠리새우(특사이즈9P)",
+      "priceText": "22,000원",
+      "variants": [
+        {
+          "text": ",22,000원",
+          "price": 22000
+        }
+      ],
+      "image": "photos/menus/bm-8bbd2388a31828f0.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-06.png"
+    },
+    {
+      "name": "크림새우(특사이즈9P)",
+      "priceText": "22,000원",
+      "variants": [
+        {
+          "text": ",22,000원",
+          "price": 22000
+        }
+      ],
+      "image": "photos/menus/bm-b110ff02ae4f8056.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-06.png"
+    },
+    {
+      "name": "유산슬 + 군만두5p",
+      "priceText": "30,000원",
+      "variants": [
+        {
+          "text": ",30,000원",
+          "price": 30000
+        }
+      ],
+      "image": "photos/menus/bm-7bd40a3254b8cd14.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P019-menu-06.png"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1573411784/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    },
+    {
+      "source": "baemin",
+      "label": "배민 배달 메뉴",
+      "checked": "2026-10-24",
+      "note": "연결된 휴대폰의 배달 메뉴 화면에서 확인"
+    }
+  ]
+}

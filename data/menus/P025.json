@@ -1,0 +1,113 @@
+{
+  "menuCatalog": [
+    {
+      "name": "순메밀치킨 한마리",
+      "priceText": "19,000원",
+      "description": "껍질 벗긴 메밀과 비법 가루를 황금비율로 섞어 겉은 바삭, 속은 촉촉한 치킨입니다.",
+      "image": "photos/menus/41b51a84490b461b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list"
+    },
+    {
+      "name": "순메밀치킨 반마리",
+      "priceText": "10,000원",
+      "description": "한마리가 부담스러울때 , 가볍기 즐기기 좋은 반마리 구성 입니다.",
+      "image": "photos/menus/43858dc92fe52981.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list"
+    },
+    {
+      "name": "메밀 새싹 물막국수",
+      "priceText": "9,000원",
+      "description": "메밀과 고구마 전분을 황금비율로 섞은 면에 과일양념과 시원한 육수를 더한 한 그릇 입니다.",
+      "image": "photos/menus/e1d3a6c7edf5a90c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list"
+    },
+    {
+      "name": "메밀 새싹 비빔막국수",
+      "priceText": "9,000원",
+      "description": "과일로 낸 감칠맛 양념에 메밀면을 비벼낸 , 개운하고 부담 없는 비빔막국수 입니다.",
+      "image": "photos/menus/7a533585706a09cb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list"
+    },
+    {
+      "name": "충주사과 치킨소스",
+      "priceText": "무료",
+      "description": "충주 사과로 만든 치킨 사과소스입니다. 느끼함 없이 깔끔하게 드실 수 있습니다.",
+      "image": "photos/menus/15ca4a8de1fbdde6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list"
+    },
+    {
+      "name": "아기국수",
+      "priceText": "무료",
+      "description": "미취학 아동에게는 애기국수를 무료로 제공해드립니다.",
+      "image": "photos/menus/f95ded9a137979c0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list"
+    },
+    {
+      "name": "메밀반반만두",
+      "priceText": "6,000원",
+      "description": "꾕고기의 구수한맛과 김치만두의 매콤함을 한 접시에 반씩 담은 조화로운 구성 입니다.",
+      "image": "photos/menus/c250b1a6e426ceea.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list"
+    },
+    {
+      "name": "메밀 떡만두국 ( 판매종료)",
+      "priceText": "9,000원",
+      "description": "쫄깃한 메밀떡과 만두를 넣은 따듯하고 든든한 떡만두국 입니다.",
+      "image": "photos/menus/4c3e69b7499bdb66.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list"
+    },
+    {
+      "name": "메밀부침( 판매종료)",
+      "priceText": "7,000원",
+      "description": "겉은바삭, 속은 촉촉한 전통 메밀 부침 메뉴 입니다.",
+      "image": "photos/menus/201b508c0eed7118.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list"
+    },
+    {
+      "name": "메밀 들깨수제비 ( 판매종료)",
+      "priceText": "9,000원",
+      "description": "들깨 향이 진한 국물과 부드러운 수제비가 어우러진 따듯한 별미 입니다.",
+      "image": "photos/menus/d982db45bd99ee43.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/11817590/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.09.11"
+    }
+  ]
+}

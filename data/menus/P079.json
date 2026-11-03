@@ -1,0 +1,43 @@
+{
+  "menuCatalog": [
+    {
+      "name": "단월샌드[플레인]",
+      "priceText": "18,000원",
+      "description": "매장 방문시 구매 가능합니다. 1Box (10 EA) 1인 3Box 한정",
+      "image": "photos/menus/16d193961dd4f2a8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1969130145/menu/list"
+    },
+    {
+      "name": "단월샌드[딸기]",
+      "priceText": "18,000원",
+      "description": "매장 방문시 구매 가능합니다. 1Box (10 EA) 1인 3Box 한정",
+      "image": "photos/menus/e4e106941cf04ed5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1969130145/menu/list"
+    },
+    {
+      "name": "단월샌드[밤]",
+      "priceText": "20,000원",
+      "description": "매장 방문시 구매 가능합니다. 1Box (10 EA) 1인 3Box 한정",
+      "image": "photos/menus/acbd1c7d2fd0558a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1969130145/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1969130145/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 25.08.25"
+    }
+  ]
+}

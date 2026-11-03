@@ -1,0 +1,273 @@
+{
+  "menuCatalog": [
+    {
+      "name": "정통우동",
+      "priceText": "5,900원",
+      "description": "미친 가성비 메뉴 진한 국물과 쫄깃한 면의 정통 우동",
+      "image": "photos/menus/7d648ef81eec1b00.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "어묵 우동",
+      "priceText": "6,900원",
+      "description": "따뜻 깔끔한 국물에 어묵의 담백한 맛을 더한 우동",
+      "image": "photos/menus/d7aab571ce5af126.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "김치우동",
+      "priceText": "6,900원",
+      "description": "매콤한 김치로 감칠맛을 더한 따뜻한 우동",
+      "image": "photos/menus/c40a733d7cb5e61d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "어묵 김치 우동",
+      "priceText": "7,900원",
+      "description": "어묵의 담백함과 김치의 매콤함이 어우러진 감치맛 최고 우동",
+      "image": "photos/menus/d34af8c6f350e4e1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "대파제육 덮밥",
+      "priceText": "7,900원",
+      "description": "17가지 천연재료를 24시간 숙성하여 프리미엄급 도육으로 만든 제육덮밥",
+      "image": "photos/menus/fc4a493f3564d7ae.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "갈비양념덮밥",
+      "priceText": "7,900원",
+      "description": "숙성돼지고기 양념소스에 돈육을 48시간 재워 단짜단짠 감칠맛 나는 갈비양념 덮밥",
+      "image": "photos/menus/a6c81c853614a190.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "바베큐삼겹덮밥",
+      "priceText": "8,900원",
+      "description": "직화로 구운 삼겹살에 비법이 담긴 숙성간장을 넣은 삼겹살 덮밥",
+      "image": "photos/menus/717bd4f0182db97e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "곱창덮밥",
+      "priceText": "9,900원",
+      "description": "쫄깃한 곱창을 훈연하여 불소스에 직화로 한번 더 구운 곱창 덮밥",
+      "image": "photos/menus/65fee2592f62da47.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "막창덮밥",
+      "priceText": "9,900원",
+      "description": "부드러운 막창을 훈연하여 불소스에 직화로 구운 막창덮밥",
+      "image": "photos/menus/429566d0e4fd49af.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "고단백 목살 짜글이",
+      "priceText": "8,900원",
+      "description": "단백질 넘치는 목살과 양념이 어우러진 밥 도둑 짜글이",
+      "image": "photos/menus/9b8527e47d686ba5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "삼겹짜글이",
+      "priceText": "9,900원",
+      "description": "부드러운 삼겹살에 칼칼한 양념을 더한 깊은 맛의 짜글이",
+      "image": "photos/menus/34ad9b10d9aeb32d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "모둠 곱창전골 (2~3인분)",
+      "priceText": "19,900원",
+      "description": "소,돼지 곱창을 한 번에 즐기는 진한 국물 전골. 얼큰한 육수에 곱의 고소함이 우러난 전골",
+      "image": "photos/menus/f564535f05fe8e48.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "알곱창1인분 (100g당 4633원)",
+      "priceText": "13,900원",
+      "description": "불향 가득한 곱창에 매콤한 양념, 술을 부루는 진짜 안주, 밥이랑도 찰떡",
+      "image": "photos/menus/6f5570194ddc2547.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "야채곱창1인분(100g당 4966원)",
+      "priceText": "14,900원",
+      "description": "아삭한 채소와 쫄깃한 곱창을 매콤한 특제ㅐ 양념에 볶아 끝까지 질리지 않는 정석 야채곱창",
+      "image": "photos/menus/ec9b55e8d958c274.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "치즈알곱창1인분(100g당5300원)",
+      "priceText": "15,900원",
+      "description": "매콥한 알곱창 위에 고소한 치즈를 듬뿍 한 입 먹는 순간 부드럽게 녹아드는 중독적인 조합",
+      "image": "photos/menus/1779272efada8e72.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "치즈야채곱창1인분(100g당5633원",
+      "priceText": "16,900원",
+      "description": "치즈가 매운맛을 잡아주는 환상 조합. 술 안주, 밥반찬 모두 만족 시키는 환상의 맛",
+      "image": "photos/menus/c8491d9ddacd1e61.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "막창구이1인분(100g당 7450원)",
+      "priceText": "14,900원",
+      "description": "직화에 구워낸 쫀득한 막창, 불향 가득 씹을수록 고소한 맛",
+      "image": "photos/menus/f65599e15a1b91b0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "알곱창2인세트(계란찜+주먹밥)",
+      "priceText": "30,900원",
+      "description": "특제양념 알곱창에 계란찜과 주먹밥이 함께 나오는 가성비 갑 실속 세트",
+      "image": "photos/menus/bfb6f9545fc2f679.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "알곱창3인세트(계란찜+주먹밥)",
+      "priceText": "42,900원",
+      "description": "특제양념 알곱창에 계란찜과 주먹밥이 함께 나오는 가성비 갑 실속 세트",
+      "image": "photos/menus/90d816438d74aa3d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "알곱창4인세트(계란찜+주먹밥)",
+      "priceText": "52,900원",
+      "description": "특제양념 알곱창에 계란찜과 주먹밥이 함께 나오는 가성비 갑 실속 세트",
+      "image": "photos/menus/91f392f69d058eb5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "야채 곱창2인세트(계란찜+주먹밥)",
+      "priceText": "33,900원",
+      "description": "아삭한 채소 듬뿍 야채곱창에 계란찜과 주먹밥이 함께 나오는 실속 세트",
+      "image": "photos/menus/60f7553544d56357.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "야채곱창3인세트(계란찜+주먹밥)",
+      "priceText": "44,900원",
+      "description": "아삭한 채소 듬뿍 야채곱창에 계란찜과 주먹밥이 함께 나오는 실속 세트",
+      "image": "photos/menus/12fe3ebc6d3de138.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "야채 곱창4인세트(계란찜+주먹밥)",
+      "priceText": "53,900원",
+      "description": "아삭한 채소 듬뿍 야채곱창에 계란찜과 주먹밥이 나오는 실속 세트",
+      "image": "photos/menus/4cef79bb4b31c1fa.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "직화 막창2인세트(계란찜+주먹밥)",
+      "priceText": "34,900원",
+      "description": "직화로 구운 쫀득한 막창에 부드러운 계란찜과 든든한 주먹밥이 나오는 인기 세트",
+      "image": "photos/menus/f877cb071936806e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "직화 막창3인세트(계란찜+주먹밥)",
+      "priceText": "46,900원",
+      "description": "직화로 구운 쫀득한 막창에 부드러운 계란찜과 든든한 주먹밥이 나오는 인기 세트",
+      "image": "photos/menus/6d25794395323886.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    },
+    {
+      "name": "직화 막창4인세트(계란찜+주먹밥)",
+      "priceText": "56,900원",
+      "description": "직화로 구운 쫀득한 막창에 부드러운 계란찜과 든든한 주먹밥이 나오는 인기 세트",
+      "image": "photos/menus/ff170dfb9885cdea.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2037206419/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.01.06"
+    }
+  ]
+}

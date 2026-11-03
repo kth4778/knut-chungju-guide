@@ -1,0 +1,303 @@
+{
+  "menuCatalog": [
+    {
+      "name": "막국수 보쌈 도시락",
+      "priceText": "13,900원부터",
+      "variants": [
+        {
+          "text": "막국수 보쌈 도시락,13,900원",
+          "price": 13900
+        },
+        {
+          "text": "막국수보쌈 도시락(막국수곱빼기),15,900원",
+          "price": 15900
+        }
+      ],
+      "image": "photos/menus/bm-bc0156fe1eedf0ec.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-01.png"
+    },
+    {
+      "name": "막국수 불보쌈 도시락",
+      "priceText": "14,900원부터",
+      "variants": [
+        {
+          "text": "막국수 불보쌈 도시락,14,900원",
+          "price": 14900
+        },
+        {
+          "text": "막국수 불보쌈 도시락(막국수곱빼기),16,900원",
+          "price": 16900
+        }
+      ],
+      "image": "photos/menus/bm-f6ffbfa128727657.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-00.png"
+    },
+    {
+      "name": "막국수 마늘보쌈 도시락",
+      "priceText": "14,900원부터",
+      "variants": [
+        {
+          "text": "막국수 마늘보쌈 도시락,14,900원",
+          "price": 14900
+        },
+        {
+          "text": "막국수 마늘보쌈 도시락(막국수곱빼기),16,900원",
+          "price": 16900
+        }
+      ],
+      "image": "photos/menus/bm-999d5e7981390242.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-00.png"
+    },
+    {
+      "name": "막국수 불족발 도시락",
+      "priceText": "14,900원부터",
+      "variants": [
+        {
+          "text": "막국수 불족발 도시락,14,900원",
+          "price": 14900
+        },
+        {
+          "text": "막국수 불족발 도시락(막국수곱빼기),16,900원",
+          "price": 16900
+        }
+      ],
+      "image": "photos/menus/bm-2f1bcb4aac5e3c97.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-02.png"
+    },
+    {
+      "name": "야들야들 일만보쌈(가성비)",
+      "priceText": "27,400원부터",
+      "variants": [
+        {
+          "text": "일만보쌈 2인,27,400원",
+          "price": 27400
+        },
+        {
+          "text": "일만보쌈 3인,36,300원",
+          "price": 36300
+        },
+        {
+          "text": "일만보쌈 4인,42,300원",
+          "price": 42300
+        }
+      ],
+      "image": "photos/menus/bm-5c2bfe04fb2cb487.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-01.png"
+    },
+    {
+      "name": "몸에좋은 마늘족발(마늘소스 찍먹)",
+      "priceText": "28,400원부터",
+      "variants": [
+        {
+          "text": "마늘족발 2인,28,400원",
+          "price": 28400
+        },
+        {
+          "text": "마늘족발 3인,37,300원",
+          "price": 37300
+        },
+        {
+          "text": "마늘족발 4인,43,300원",
+          "price": 43300
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-03.png"
+    },
+    {
+      "name": "보쌈추가(100g)",
+      "priceText": "6,400원",
+      "variants": [
+        {
+          "text": ",6,400원",
+          "price": 6400
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-03.png"
+    },
+    {
+      "name": "불보쌈추가(100g)",
+      "priceText": "7,400원",
+      "variants": [
+        {
+          "text": ",7,400원",
+          "price": 7400
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-03.png"
+    },
+    {
+      "name": "쌈세트(상추,마늘,쌈장,새우젖)",
+      "priceText": "1,500원",
+      "variants": [
+        {
+          "text": ",1,500원",
+          "price": 1500
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-04.png"
+    },
+    {
+      "name": "수제비빔막국수",
+      "priceText": "4,900원부터",
+      "variants": [
+        {
+          "text": "비빔막국수,4,900원",
+          "price": 4900
+        },
+        {
+          "text": "비빔막국수(곱빼기),6,900원",
+          "price": 6900
+        }
+      ],
+      "image": "photos/menus/bm-475c96b0f880fb09.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-04.png"
+    },
+    {
+      "name": "후리가케주먹밥",
+      "priceText": "2,900원",
+      "variants": [
+        {
+          "text": ",2,900원",
+          "price": 2900
+        }
+      ],
+      "image": "photos/menus/bm-58829e7d5bad8b82.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-04.png"
+    },
+    {
+      "name": "상추 추가",
+      "priceText": "1,000원",
+      "variants": [
+        {
+          "text": ",1,000원",
+          "price": 1000
+        }
+      ],
+      "image": "photos/menus/bm-246b191b2caccfb6.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-04.png"
+    },
+    {
+      "name": "무김치(무말랭이) 추가",
+      "priceText": "1,000원",
+      "variants": [
+        {
+          "text": ",1,000원",
+          "price": 1000
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-04.png"
+    },
+    {
+      "name": "마늘소스추가",
+      "priceText": "3,000원",
+      "variants": [
+        {
+          "text": ",3,000원",
+          "price": 3000
+        }
+      ],
+      "image": "photos/menus/bm-6cd7be115e1aede0.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-05.png"
+    },
+    {
+      "name": "불족소스추가",
+      "priceText": "3,000원",
+      "variants": [
+        {
+          "text": ",3,000원",
+          "price": 3000
+        }
+      ],
+      "image": "photos/menus/bm-dbaf3a070d96bd13.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-05.png"
+    },
+    {
+      "name": "공기밥",
+      "priceText": "1,000원",
+      "variants": [
+        {
+          "text": ",1,000원",
+          "price": 1000
+        }
+      ],
+      "image": "photos/menus/bm-b8752d0b5606128f.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-05.png"
+    },
+    {
+      "name": "펩시콜라 500ml",
+      "priceText": "2,000원",
+      "variants": [
+        {
+          "text": "500ml,2,000원",
+          "price": 2000
+        }
+      ],
+      "image": "photos/menus/bm-bf754ed1dd87c0c7.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P021-menu-05.png"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "baemin",
+      "label": "배민 배달 메뉴",
+      "checked": "2026-10-24",
+      "note": "연결된 휴대폰의 배달 메뉴 화면에서 확인"
+    }
+  ]
+}

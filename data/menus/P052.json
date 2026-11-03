@@ -1,0 +1,33 @@
+{
+  "menuCatalog": [
+    {
+      "name": "칼국수",
+      "priceText": "6,000원",
+      "description": "",
+      "image": "photos/menus/e6a615e26a357033.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1015602357/menu/list"
+    },
+    {
+      "name": "검은콩국수",
+      "priceText": "9,000원",
+      "description": "5~8월 여름메뉴 입니다.",
+      "image": "photos/menus/ed0f69a2488299a2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1015602357/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1015602357/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.08.12"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "menuCatalog": [
+    {
+      "name": "순대국",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/36364240/menu/list"
+    },
+    {
+      "name": "소머리국밥",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/36364240/menu/list"
+    },
+    {
+      "name": "돼지머리국밥",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/36364240/menu/list"
+    },
+    {
+      "name": "순대수육",
+      "priceText": "15,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/36364240/menu/list"
+    },
+    {
+      "name": "순대전골 중",
+      "priceText": "25,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/36364240/menu/list"
+    },
+    {
+      "name": "순대전골 대",
+      "priceText": "30,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/36364240/menu/list"
+    },
+    {
+      "name": "불고기뚝배기",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/36364240/menu/list"
+    },
+    {
+      "name": "갈비탕",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/36364240/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/36364240/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

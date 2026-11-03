@@ -1,0 +1,173 @@
+{
+  "menuCatalog": [
+    {
+      "name": "고소한 들기름 메밀막국수",
+      "priceText": "11,000원",
+      "description": "방앗간에서 짜오는 고소한 들기름과 고품질 들깨가루와 메밀 막국수의 만남",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "새콤달콤 비빔 막국수",
+      "priceText": "10,000원",
+      "description": "옹심촌 만의 특제 비빔양념과 메밀막국수의 만남",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "시원한 메밀 물막국수",
+      "priceText": "10,000원",
+      "description": "옹심촌 만의 특제 육수와 메밀막국수의 만남",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "감자옹심이 메밀 칼국수",
+      "priceText": "10,000원",
+      "description": "직접만드는 감자옹심이와 구수한 감자육수와 메밀칼국수의 만남",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "들깨옹심이 메밀 칼국수",
+      "priceText": "10,000원",
+      "description": "직접만드는 감자옹심이와 녹진하고 진한들깨향 가득한 육수와 메밀칼국수의 만남",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "얼큰옹심이 메밀칼국수",
+      "priceText": "10,000원",
+      "description": "해장이 필요할때! 직접만드는 감자옹심이와 특제 양념장이 들어간 얼큰한육수와 메밀의 만남",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "감자 옹심이만",
+      "priceText": "12,000원",
+      "description": "구수한 감자육수와 직접만드는 감자옹심이만 한그릇 가득히~",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "들깨 옹심이만",
+      "priceText": "12,000원",
+      "description": "녹진하고 향긋한 들깨육수에 직접만드는 옹심이만 한그릇 가득~",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "얼큰 옹심이만",
+      "priceText": "12,000원",
+      "description": "해장이 필요할때! 얼큰한 특제 육수와 직접만드는 감자옹심이가 한그릇 가득~",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "직화 쭈꾸미 볶음(2인이상 주문가능)",
+      "priceText": "12,000원",
+      "description": "불맛가득한 직화 쭈꾸미! 보리밥에 비벼서 뚝딱 (2인 이상 주문 가능합니다)",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "충주사과 후라이드치킨(한마리)",
+      "priceText": "18,000원",
+      "description": "충주 사과를 이용하여 염지 및 연육한 옹심촌 만의 후라이드 치킨!",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "충주 사과 후라이드치킨(반마리)",
+      "priceText": "9,000원",
+      "description": "충주 사과를 이용하여 염지 및 연육한 옹심촌 만의 후라이드 치킨!",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "수제 미니 감자전",
+      "priceText": "6,000원",
+      "description": "감자만 80프로 들어간 진짜 감자전",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "메밀 김치전병 2개",
+      "priceText": "6,000원",
+      "description": "고소한 메밀피에 김치속이 가득",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "메밀 고기 왕만두 4알",
+      "priceText": "6,000원",
+      "description": "고소한 메밀피에 고기속 가득",
+      "image": "photos/menus/b0b59f29a7d15d27.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    },
+    {
+      "name": "어린이 떡갈비(유아용)",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2096050136/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.05.14"
+    }
+  ]
+}

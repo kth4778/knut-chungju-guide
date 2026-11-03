@@ -1,0 +1,283 @@
+{
+  "menuCatalog": [
+    {
+      "name": "봉구스밥버거",
+      "priceText": "3,500원",
+      "description": "기본이자 대표메뉴",
+      "image": "photos/menus/f42622813368fb64.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "햄밥버거",
+      "priceText": "4,500원",
+      "description": "잘 구워진 한 조각 햄",
+      "image": "photos/menus/1e2ac5dbec05bd32.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "치즈밥버거",
+      "priceText": "4,100원",
+      "description": "노오란 체다치즈가 쏘옥",
+      "image": "photos/menus/c94ad689ed7f83b1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "햄치즈밥버거",
+      "priceText": "5,100원",
+      "description": "봉구스의 인기만점 메뉴",
+      "image": "photos/menus/e376cfb6d8cdf030.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "제육밥버거",
+      "priceText": "4,500원",
+      "description": "제육볶음과의 환상적인 만남",
+      "image": "photos/menus/a432539671ddc1f9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "치즈제육밥버거",
+      "priceText": "5,100원",
+      "description": "제육볶음에 고소함 더하기",
+      "image": "photos/menus/a4e2acbe4a2d7c11.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "김치제육밥버거",
+      "priceText": "5,300원",
+      "description": "제육볶음에 깔끔한 뒷맛 더하기",
+      "image": "photos/menus/9035a91a5357e43d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "닭갈비밥버거",
+      "priceText": "4,000원",
+      "description": "닭 가슴살로 만든 매운 닭갈비",
+      "image": "photos/menus/d45f4a7a04b4c508.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "치즈닭갈비밥버거",
+      "priceText": "4,600원",
+      "description": "매운 닭갈비에 체다치즈",
+      "image": "photos/menus/c3fb383e644bea52.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "소불고기밥버거",
+      "priceText": "5,500원",
+      "description": "달콤한 소불고기가 가득",
+      "image": "photos/menus/d6ec9e165c5f06fd.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "김치불고기밥버거",
+      "priceText": "6,300원",
+      "description": "달콤한 소불고기와 새콤한 김치",
+      "image": "photos/menus/53355d034d1010a5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "청양불고기밥버거",
+      "priceText": "6,000원",
+      "description": "소불고기에 매운 청양고추",
+      "image": "photos/menus/e8dd0cc482e527ec.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "통살돈까스밥버거",
+      "priceText": "5,000원",
+      "description": "매콤 달콤한 통 등심살",
+      "image": "photos/menus/40955ad5cd3e279f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "통살돈까스마요밥버거",
+      "priceText": "6,000원",
+      "description": "어린이 입맛을 확 사로잡은 그 맛",
+      "image": "photos/menus/01a9b8b29cca6c0b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "몬스터봉구",
+      "priceText": "7,300원",
+      "description": "매콤한 소스와 닭갈비 바삭한 해쉬브라운까지 한끼 든든",
+      "image": "photos/menus/d69ea3a7ff14a7fa.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "봉구킹",
+      "priceText": "7,300원",
+      "description": "햄치즈에 마요와 김치 계란까지 여러가지 맛을 한 번에",
+      "image": "photos/menus/03b60d98a702eda8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "봉구퀸",
+      "priceText": "7,300원",
+      "description": "바삭한 치킨가라아게에 느끼하지 않게 볶음 김치를 더한 최고의 메뉴",
+      "image": "photos/menus/b743d6647bd27fb7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "고기3종컵밥",
+      "priceText": "6,300원",
+      "description": "봉구스 고기를 한 컵 가득",
+      "image": "photos/menus/2a2c5d1b28f08601.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "깻잎마요소불고기",
+      "priceText": "6,800원",
+      "description": "소고기와 깻잎의 조화",
+      "image": "photos/menus/e478e213bb995fd7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "데리야끼봉구",
+      "priceText": "6,000원",
+      "description": "기본 메뉴에 데리야끼 소스를 얹은 탄탄한 컵밥",
+      "image": "photos/menus/efc9c58bf9ecf007.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "돼불에햄",
+      "priceText": "6,000원",
+      "description": "스크럼블 에그와 간장돼지불고기의 구성",
+      "image": "photos/menus/edd50e9d6759ac93.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "매콤제육닭갈비",
+      "priceText": "5,600원",
+      "description": "매콤한 닭갈비에 제육 구성",
+      "image": "photos/menus/5863c318fbb751d7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "소고기봉된장",
+      "priceText": "5,600원",
+      "description": "소고기에 봉구스 된장 소스와 매콤한 고추까지 구성",
+      "image": "photos/menus/9759fb5bba237f4c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "점보치킨마요",
+      "priceText": "6,000원",
+      "description": "모두의 치킨마요 푸짐한 가라아게와 에그의 조화",
+      "image": "photos/menus/6a6137b7094b089a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "봉구도시락",
+      "priceText": "6,000원",
+      "description": "기본+제육볶음+치킨가라아게+참치마요",
+      "image": "photos/menus/ddf8edbe04708758.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "매콤봉구도시락",
+      "priceText": "7,000원",
+      "description": "기본+제육볶음+치킨가라아게+매콤닭갈비",
+      "image": "photos/menus/eb2ca9d45dd857f3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    },
+    {
+      "name": "고기봉구도시락",
+      "priceText": "7,000원",
+      "description": "기본+제육볶음+치킨가라아게+소불고기",
+      "image": "photos/menus/4fe500dfff026dc2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/32874983/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

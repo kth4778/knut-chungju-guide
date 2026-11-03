@@ -1,0 +1,133 @@
+{
+  "menuCatalog": [
+    {
+      "name": "시저 샐러드",
+      "priceText": "9,000원",
+      "description": "신선한 채소위에 크리미하고 고소한 수제 시저드레싱을 곁을인 샐러드",
+      "image": "photos/menus/49f8493b6d0c9057.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "그린살사 치킨 샐러드",
+      "priceText": "12,000원",
+      "description": "신선한 채소 위에 크리스피 하게 구운 치킨을 올리고 상큼한 수제 그린살사 소스를 곁들인",
+      "image": "photos/menus/d3f3120892381f06.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "훈제연어 샐러드",
+      "priceText": "13,000원",
+      "description": "신선한 채소위에 훈제연어와 톡 쏘는 수제 홀스래디쉬 드레싱을 곁들인 샐러드",
+      "image": "photos/menus/482989d33921c23d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "알리올리오",
+      "priceText": "11,000원",
+      "description": "",
+      "image": "photos/menus/470801dc6fa299c8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "봉골레",
+      "priceText": "13,000원",
+      "description": "",
+      "image": "photos/menus/536b8de8783d167a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "명란 오일 파스타",
+      "priceText": "14,000원",
+      "description": "",
+      "image": "photos/menus/f527d902f7375d40.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "핫 쉬림프 갈릭 파스타",
+      "priceText": "14,000원",
+      "description": "",
+      "image": "photos/menus/14dcdbfd16aacbb1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "쉬림프 바질 오일 파스타",
+      "priceText": "16,000원",
+      "description": "",
+      "image": "photos/menus/eef73e8b7f7f8801.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "보코치니 치즈 토마토 파스타",
+      "priceText": "13,000원",
+      "description": "",
+      "image": "photos/menus/68387a1b4b395c50.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "라구 페투치네",
+      "priceText": "15,000원",
+      "description": "",
+      "image": "photos/menus/042c88d156dff44f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "해산물 토마토 페투치네",
+      "priceText": "17,000원",
+      "description": "",
+      "image": "photos/menus/f0d966c369e41966.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    },
+    {
+      "name": "해산물 로제 파스타",
+      "priceText": "16,000원",
+      "description": "",
+      "image": "photos/menus/08661473effe4b49.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1045481775/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.01.20"
+    }
+  ]
+}

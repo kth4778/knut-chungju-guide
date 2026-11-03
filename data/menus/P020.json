@@ -1,0 +1,53 @@
+{
+  "menuCatalog": [
+    {
+      "name": "꿔바로우 (소)",
+      "priceText": "12,000원",
+      "description": "",
+      "image": "photos/menus/e1ebb5fd5035e29d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1838741329/menu/list"
+    },
+    {
+      "name": "쥔장마음대로 마라샹궈(1~2인분)",
+      "priceText": "19,900원",
+      "description": "마라의 얼얼함과 불맛을 함께 즐겨보세요",
+      "image": "photos/menus/65f8abf6ce1db845.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1838741329/menu/list"
+    },
+    {
+      "name": "[쥔장마음대로] 마라탕 (1인분)",
+      "priceText": "13,000원",
+      "description": "오늘 먹고 또 먹고 싶은 마라탕",
+      "image": "photos/menus/49a649921be41ac2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1838741329/menu/list"
+    },
+    {
+      "name": "[내맘대로셀프] 마라탕(1-2인분)",
+      "priceText": "9,900원",
+      "description": "모든재료 취향대로 선택하시면 선택한 재료만 담아드립니다.",
+      "image": "photos/menus/17a41041d746e168.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1838741329/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1838741329/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 25.09.09"
+    }
+  ]
+}

@@ -1,0 +1,1295 @@
+{
+  "P035": {
+    "menuSummary": {
+      "count": 1,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1419890035/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.01.05"
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P019": {
+    "menuSummary": {
+      "count": 52,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1573411784/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        },
+        {
+          "source": "baemin",
+          "label": "배민 배달 메뉴",
+          "checked": "2026-10-24",
+          "note": "연결된 휴대폰의 배달 메뉴 화면에서 확인"
+        }
+      ],
+      "photos": 49
+    }
+  },
+  "P091": {
+    "menuSummary": {
+      "count": 51,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1765058761/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 51
+    }
+  },
+  "P008": {
+    "menuSummary": {
+      "count": 22,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1516813343/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.10.14"
+        }
+      ],
+      "photos": 10
+    }
+  },
+  "P040": {
+    "menuSummary": {
+      "count": 10,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/21755270/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 10
+    }
+  },
+  "P028": {
+    "menuSummary": {
+      "count": 25,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2029564505/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 15
+    }
+  },
+  "P067": {
+    "menuSummary": {
+      "count": 8,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/19888528/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 5
+    }
+  },
+  "P003": {
+    "menuSummary": {
+      "count": 7,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/17522809/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.07.29"
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P011": {
+    "menuSummary": {
+      "count": 17,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1360232479/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 17
+    }
+  },
+  "P013": {
+    "menuSummary": {
+      "count": 31,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/588538255/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 28
+    }
+  },
+  "P014": {
+    "menuSummary": {
+      "count": 3,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2081450576/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 25.12.13"
+        }
+      ],
+      "photos": 3
+    }
+  },
+  "P020": {
+    "menuSummary": {
+      "count": 4,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1838741329/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 25.09.09"
+        }
+      ],
+      "photos": 4
+    }
+  },
+  "P024": {
+    "menuSummary": {
+      "count": 48,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1295066404/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 48
+    }
+  },
+  "P025": {
+    "menuSummary": {
+      "count": 10,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/11817590/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.09.11"
+        }
+      ],
+      "photos": 10
+    }
+  },
+  "P094": {
+    "menuSummary": {
+      "count": 43,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1190980151/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 26
+    }
+  },
+  "P095": {
+    "menuSummary": {
+      "count": 1,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1094965330/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.02.16"
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P038": {
+    "menuSummary": {
+      "count": 5,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1973130023/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 5
+    }
+  },
+  "P039": {
+    "menuSummary": {
+      "count": 1,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1315999606/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 23.07.19"
+        }
+      ],
+      "photos": 1
+    }
+  },
+  "P046": {
+    "menuSummary": {
+      "count": 12,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1293892201/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.07.30"
+        }
+      ],
+      "photos": 7
+    }
+  },
+  "P056": {
+    "menuSummary": {
+      "count": 8,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/36364240/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P057": {
+    "menuSummary": {
+      "count": 4,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/17505093/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 23.12.18"
+        }
+      ],
+      "photos": 1
+    }
+  },
+  "P060": {
+    "menuSummary": {
+      "count": 25,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2042144911/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 23
+    }
+  },
+  "P062": {
+    "menuSummary": {
+      "count": 7,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/17569759/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 7
+    }
+  },
+  "P066": {
+    "menuSummary": {
+      "count": 9,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1501866962/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 25.08.31"
+        }
+      ],
+      "photos": 9
+    }
+  },
+  "P068": {
+    "menuSummary": {
+      "count": 26,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2037206419/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.01.06"
+        }
+      ],
+      "photos": 26
+    }
+  },
+  "P078": {
+    "menuSummary": {
+      "count": 50,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1200943881/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.09.11"
+        }
+      ],
+      "photos": 49
+    }
+  },
+  "P080": {
+    "menuSummary": {
+      "count": 2,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1596794272/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.02.19"
+        }
+      ],
+      "photos": 1
+    }
+  },
+  "P082": {
+    "menuSummary": {
+      "count": 9,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/35597782/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.01.06"
+        }
+      ],
+      "photos": 7
+    }
+  },
+  "P086": {
+    "menuSummary": {
+      "count": 12,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1045481775/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.01.20"
+        }
+      ],
+      "photos": 12
+    }
+  },
+  "P090": {
+    "menuSummary": {
+      "count": 80,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/37005727/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 80
+    }
+  },
+  "P001": {
+    "menuSummary": {
+      "count": 7,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/35609409/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.01.27"
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P002": {
+    "menuSummary": {
+      "count": 20,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/499343294/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 12
+    }
+  },
+  "P006": {
+    "menuSummary": {
+      "count": 17,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2077730017/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 8
+    }
+  },
+  "P007": {
+    "menuSummary": {
+      "count": 38,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1057582602/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.10.07"
+        }
+      ],
+      "photos": 32
+    }
+  },
+  "P009": {
+    "menuSummary": {
+      "count": 32,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1027293990/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.10.03"
+        }
+      ],
+      "photos": 8
+    }
+  },
+  "P010": {
+    "menuSummary": {
+      "count": 21,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1353118575/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.02.26"
+        }
+      ],
+      "photos": 21
+    }
+  },
+  "P015": {
+    "menuSummary": {
+      "count": 8,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1265676787/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 25.03.14"
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P016": {
+    "menuSummary": {
+      "count": 26,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1273966958/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.06.19"
+        }
+      ],
+      "photos": 15
+    }
+  },
+  "P018": {
+    "menuSummary": {
+      "count": 14,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1013982378/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 10
+    }
+  },
+  "P022": {
+    "menuSummary": {
+      "count": 23,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2046244301/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.09.14"
+        }
+      ],
+      "photos": 19
+    }
+  },
+  "P023": {
+    "menuSummary": {
+      "count": 7,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1398096538/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P026": {
+    "menuSummary": {
+      "count": 14,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1089475881/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.09.01"
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P027": {
+    "menuSummary": {
+      "count": 10,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1433653009/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P029": {
+    "menuSummary": {
+      "count": 67,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1269554279/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.10.19"
+        }
+      ],
+      "photos": 43
+    }
+  },
+  "P031": {
+    "menuSummary": {
+      "count": 14,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1633700715/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 11
+    }
+  },
+  "P032": {
+    "menuSummary": {
+      "count": 27,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/32874983/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 27
+    }
+  },
+  "P033": {
+    "menuSummary": {
+      "count": 4,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1869525189/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.05.14"
+        }
+      ],
+      "photos": 4
+    }
+  },
+  "P034": {
+    "menuSummary": {
+      "count": 17,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2007241286/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.06.22"
+        }
+      ],
+      "photos": 3
+    }
+  },
+  "P036": {
+    "menuSummary": {
+      "count": 10,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1354535546/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.04.15"
+        }
+      ],
+      "photos": 7
+    }
+  },
+  "P041": {
+    "menuSummary": {
+      "count": 44,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1250616851/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 39
+    }
+  },
+  "P043": {
+    "menuSummary": {
+      "count": 6,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/35314189/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P044": {
+    "menuSummary": {
+      "count": 30,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1387803106/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 22
+    }
+  },
+  "P047": {
+    "menuSummary": {
+      "count": 15,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2002146170/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.09.03"
+        }
+      ],
+      "photos": 13
+    }
+  },
+  "P048": {
+    "menuSummary": {
+      "count": 16,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2080472744/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.09.11"
+        }
+      ],
+      "photos": 8
+    }
+  },
+  "P050": {
+    "menuSummary": {
+      "count": 6,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/37656960/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.09.13"
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P051": {
+    "menuSummary": {
+      "count": 6,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/37081756/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.10.11"
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P052": {
+    "menuSummary": {
+      "count": 2,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1015602357/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.08.12"
+        }
+      ],
+      "photos": 2
+    }
+  },
+  "P053": {
+    "menuSummary": {
+      "count": 18,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1952540278/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.09.19"
+        }
+      ],
+      "photos": 17
+    }
+  },
+  "P054": {
+    "menuSummary": {
+      "count": 5,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/17506922/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P055": {
+    "menuSummary": {
+      "count": 9,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1019680026/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.07.08"
+        }
+      ],
+      "photos": 9
+    }
+  },
+  "P058": {
+    "menuSummary": {
+      "count": 6,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/17503896/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P059": {
+    "menuSummary": {
+      "count": 16,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2096050136/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.05.14"
+        }
+      ],
+      "photos": 1
+    }
+  },
+  "P061": {
+    "menuSummary": {
+      "count": 8,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/33771231/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.10.01"
+        }
+      ],
+      "photos": 8
+    }
+  },
+  "P063": {
+    "menuSummary": {
+      "count": 14,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/35202133/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 14
+    }
+  },
+  "P064": {
+    "menuSummary": {
+      "count": 15,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/17530089/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 25.10.06"
+        }
+      ],
+      "photos": 1
+    }
+  },
+  "P065": {
+    "menuSummary": {
+      "count": 15,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1058887404/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 8
+    }
+  },
+  "P069": {
+    "menuSummary": {
+      "count": 5,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1620939304/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 0
+    }
+  },
+  "P070": {
+    "menuSummary": {
+      "count": 12,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2098766848/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.10.01"
+        }
+      ],
+      "photos": 12
+    }
+  },
+  "P071": {
+    "menuSummary": {
+      "count": 10,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2018280022/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.10.14"
+        }
+      ],
+      "photos": 3
+    }
+  },
+  "P072": {
+    "menuSummary": {
+      "count": 1,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/36655170/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.08.18"
+        }
+      ],
+      "photos": 1
+    }
+  },
+  "P073": {
+    "menuSummary": {
+      "count": 11,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1494638270/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.08.17"
+        }
+      ],
+      "photos": 9
+    }
+  },
+  "P074": {
+    "menuSummary": {
+      "count": 10,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1147121929/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.02.24"
+        }
+      ],
+      "photos": 4
+    }
+  },
+  "P076": {
+    "menuSummary": {
+      "count": 5,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1875506164/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 25.10.03"
+        }
+      ],
+      "photos": 5
+    }
+  },
+  "P077": {
+    "menuSummary": {
+      "count": 36,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1208664909/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.07.28"
+        }
+      ],
+      "photos": 35
+    }
+  },
+  "P079": {
+    "menuSummary": {
+      "count": 3,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1969130145/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 25.08.25"
+        }
+      ],
+      "photos": 3
+    }
+  },
+  "P096": {
+    "menuSummary": {
+      "count": 7,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/95839327/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.10.09"
+        }
+      ],
+      "photos": 6
+    }
+  },
+  "P081": {
+    "menuSummary": {
+      "count": 5,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/17524105/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 25.01.28"
+        }
+      ],
+      "photos": 1
+    }
+  },
+  "P083": {
+    "menuSummary": {
+      "count": 34,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1430351152/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.07.14"
+        }
+      ],
+      "photos": 1
+    }
+  },
+  "P084": {
+    "menuSummary": {
+      "count": 12,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1752545553/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.08.26"
+        }
+      ],
+      "photos": 1
+    }
+  },
+  "P085": {
+    "menuSummary": {
+      "count": 40,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1930313566/menu/list",
+          "checked": "2026-10-24",
+          "updated": null
+        }
+      ],
+      "photos": 31
+    }
+  },
+  "P088": {
+    "menuSummary": {
+      "count": 6,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1196620055/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.09.22"
+        }
+      ],
+      "photos": 6
+    }
+  },
+  "P092": {
+    "menuSummary": {
+      "count": 10,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/2012419404/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.07.09"
+        }
+      ],
+      "photos": 10
+    }
+  },
+  "P093": {
+    "menuSummary": {
+      "count": 9,
+      "sources": [
+        {
+          "source": "naver",
+          "label": "네이버 등록 메뉴",
+          "page": "https://m.place.naver.com/restaurant/1989912532/menu/list",
+          "checked": "2026-10-24",
+          "updated": "최근 업데이트 26.10.08"
+        }
+      ],
+      "photos": 9
+    }
+  },
+  "P017": {
+    "menuSummary": {
+      "count": 24,
+      "sources": [
+        {
+          "source": "baemin",
+          "label": "배민 배달 메뉴",
+          "checked": "2026-10-24",
+          "note": "연결된 휴대폰의 배달 메뉴 화면에서 확인"
+        }
+      ],
+      "photos": 18
+    }
+  },
+  "P021": {
+    "menuSummary": {
+      "count": 17,
+      "sources": [
+        {
+          "source": "baemin",
+          "label": "배민 배달 메뉴",
+          "checked": "2026-10-24",
+          "note": "연결된 휴대폰의 배달 메뉴 화면에서 확인"
+        }
+      ],
+      "photos": 12
+    }
+  },
+  "P042": {
+    "menuSummary": {
+      "count": 19,
+      "sources": [
+        {
+          "source": "baemin",
+          "label": "배민 배달 메뉴",
+          "checked": "2026-10-24",
+          "note": "연결된 휴대폰의 배달 메뉴 화면에서 확인"
+        }
+      ],
+      "photos": 15
+    }
+  }
+}

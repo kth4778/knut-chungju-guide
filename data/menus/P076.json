@@ -1,0 +1,63 @@
+{
+  "menuCatalog": [
+    {
+      "name": "안심카츠",
+      "priceText": "11,000원",
+      "description": "부드럽고 촉촉한 식감의 프리미엄 카츠",
+      "image": "photos/menus/e9b2da62262440e5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1875506164/menu/list"
+    },
+    {
+      "name": "등심카츠(미박)",
+      "priceText": "11,000원",
+      "description": "300시간 이상 숙성하여 육향이 풍부한 프리미엄 카츠",
+      "image": "photos/menus/2a43ccca19682dfe.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1875506164/menu/list"
+    },
+    {
+      "name": "특등심카츠[한정수량]",
+      "priceText": "12,000원",
+      "description": "등심에 특수부위인 가브리살이 포함된 프리미엄 카츠.",
+      "image": "photos/menus/e87905d045699267.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1875506164/menu/list"
+    },
+    {
+      "name": "치즈카츠",
+      "priceText": "11,000원",
+      "description": "깔끔하고 진한 모짜렐라 치즈 카츠.",
+      "image": "photos/menus/b5b81f29e5ef913e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1875506164/menu/list"
+    },
+    {
+      "name": "모듬카츠(안심+등심+치즈)",
+      "priceText": "14,500원",
+      "description": "골고루 즐기고 싶을 때.",
+      "image": "photos/menus/a2ad191e65f47954.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1875506164/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1875506164/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 25.10.03"
+    }
+  ]
+}

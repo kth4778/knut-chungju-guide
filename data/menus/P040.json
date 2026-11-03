@@ -1,0 +1,113 @@
+{
+  "menuCatalog": [
+    {
+      "name": "뼈해장국",
+      "priceText": "9,500원",
+      "description": "뼈해장국(1인분)+(공기밥포함)+깍두기+간장양파절임+소스",
+      "image": "photos/menus/163ebfbf8d2a6dcf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list"
+    },
+    {
+      "name": "우거지감자탕(비조리)(대(4人))",
+      "priceText": "45,000원",
+      "description": "우거지감자탕+깍두기+간장양파절임+소스 (공기밥미포함)",
+      "image": "photos/menus/289a81444c99358c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list"
+    },
+    {
+      "name": "우거지감자탕(비조리)(중(3人))",
+      "priceText": "37,000원",
+      "description": "우거지감자탕+깍두기+간장양파절임+소스 (공기밥미포함)",
+      "image": "photos/menus/289a81444c99358c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list"
+    },
+    {
+      "name": "우거지감자탕(비조리)(소(2人))",
+      "priceText": "29,000원",
+      "description": "우거지감자탕+깍두기+간장양파절임+소스 (공기밥미포함)",
+      "image": "photos/menus/289a81444c99358c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list"
+    },
+    {
+      "name": "묵은지감자탕(비조리)(대(4人))",
+      "priceText": "45,000원",
+      "description": "묵은지감자탕+깍두기+간장양파절임+소스 (공기밥미포함)",
+      "image": "photos/menus/62f60d4dab987d1d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list"
+    },
+    {
+      "name": "공기밥",
+      "priceText": "1,000원",
+      "description": "",
+      "image": "photos/menus/9c3b344ff8fa9eda.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list"
+    },
+    {
+      "name": "직화불고기(1분)",
+      "priceText": "9,000원",
+      "description": "직화불고기",
+      "image": "photos/menus/74f24e46254d52e5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list"
+    },
+    {
+      "name": "콜라",
+      "priceText": "1,800원",
+      "description": "",
+      "image": "photos/menus/20ffbbf394e7d3b4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list"
+    },
+    {
+      "name": "제로콜라",
+      "priceText": "1,800원",
+      "description": "",
+      "image": "photos/menus/ad016330f910962b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list"
+    },
+    {
+      "name": "사이다",
+      "priceText": "1,800원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/21755270/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

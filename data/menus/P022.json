@@ -1,0 +1,243 @@
+{
+  "menuCatalog": [
+    {
+      "name": "(다찌) 런치 스시 오마카세",
+      "priceText": "70,000원",
+      "description": "한 점 한 점 정성으로 완성한 런치 오마카세 코스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(다찌) 디너 오마카세",
+      "priceText": "130,000원",
+      "description": "셰프의 철학과 제철 스시&사시미를 담은 디너 코스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 정식) 노미카이 정식",
+      "priceText": "69,000원",
+      "description": "푸짐한 사시미와 우동이 포함된 정식 코스",
+      "image": "photos/menus/719940f9dfd53c7e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 정식) 특선 노미카이 정식",
+      "priceText": "89,000원",
+      "description": "특선 사시미와 특선요리를 담은 프리미엄 정식 코스",
+      "image": "photos/menus/c151f22663a19f34.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품)사시미 모리아와세 2인",
+      "priceText": "45,000원",
+      "description": "당일 가장 신선한 활어로 구성한 모둠 사시미",
+      "image": "photos/menus/90504dba6d3aa07b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품)사시미 모리아와세 3인",
+      "priceText": "59,000원",
+      "description": "당일 가장 신선한 활어로 구성한 모둠 사시미",
+      "image": "photos/menus/d455f54942d57fe7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품)사시미 모리아와세 4인",
+      "priceText": "79,000원",
+      "description": "당일 가장 신선한 활어로 구성한 모둠 사시미",
+      "image": "photos/menus/3ca05dbc69a21a6c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 사시미 정식",
+      "priceText": "45,000원",
+      "description": "사시미와 따뜻한 식사류를 함께 즐기는 정식",
+      "image": "photos/menus/15e70ab5cf4b753c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 스시 정식(12점)",
+      "priceText": "45,000원",
+      "description": "셰프의 손끝으로 완성한 12점 스시와 따뜻한 식사류를 포함한 정식",
+      "image": "photos/menus/efa3bdf622c834e7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 도미머리조림 정식",
+      "priceText": "35,000원",
+      "description": "달콤한 간장풍미의 도미조림이 포함된 정식",
+      "image": "photos/menus/7cc0717ce05628d5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 덴뿌라 모리아와세",
+      "priceText": "30,000원",
+      "description": "제철 해산물과 채소를 바삭하게 튀긴 모둠튀김",
+      "image": "photos/menus/854a366e06320b5d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 민물장어 정식",
+      "priceText": "35,000원",
+      "description": "진한 풍미의 장어구이를 담은 든든한 정식",
+      "image": "photos/menus/9c22cb85cf8493c9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 민물장어 덮밥",
+      "priceText": "35,000원",
+      "description": "부드러운 장어와 특제소스가 어우러진 덮밥",
+      "image": "photos/menus/49b9882d22356d7e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 카이센동",
+      "priceText": "35,000원",
+      "description": "신선한 해산물을 가득 담아낸 프리미엄 덮밥",
+      "image": "photos/menus/7978b1f4abe7e2ef.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 전복죽",
+      "priceText": "25,000원",
+      "description": "전복의 깊은 풍미를 담아 정성껏 끓인 죽",
+      "image": "photos/menus/bb56829a9232acd8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 요세나베 우동",
+      "priceText": "30,000원",
+      "description": "해산물과 채소를 푸짐하게 담은 전골 우동",
+      "image": "photos/menus/9f403aa1b2531226.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 나츠카시 우동",
+      "priceText": "15,000원",
+      "description": "유자와 후추향이 어우러진 일본식 우동",
+      "image": "photos/menus/0e253c049f01d557.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(룸 / 단품) 민어탕",
+      "priceText": "30,000원",
+      "description": "기력 회복에 탁월한 민어가 들어간 여름 특선 보양식",
+      "image": "photos/menus/20e7fba2a6bb2307.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(포장) 사시미 모리아와세 2인",
+      "priceText": "45,000원",
+      "description": "신선한 활어만 엄선한 포장 모둠 사시미",
+      "image": "photos/menus/f3f3aee0e76ff1f7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(포장) 사시미 모리아와세 3인",
+      "priceText": "59,000원",
+      "description": "신선한 활어만 엄선한 포장 모둠 사시미",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(포장) 사시미 모리아와세 4인",
+      "priceText": "79,000원",
+      "description": "신선한 활어만 엄선한 포장 모둠 사시미",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(포장) 민물장어 덮밥",
+      "priceText": "30,000원",
+      "description": "든든한 장어와 특제소스를 담은 포장 덮밥",
+      "image": "photos/menus/6fd2c1efd0cef0ac.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    },
+    {
+      "name": "(포장) 스시 정식 12P",
+      "priceText": "35,000원",
+      "description": "셰프의 정성을 담은 12점 스시 포장 정식",
+      "image": "photos/menus/bdcd645260d25d19.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2046244301/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.09.14"
+    }
+  ]
+}

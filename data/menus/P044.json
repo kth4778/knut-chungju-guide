@@ -1,0 +1,313 @@
+{
+  "menuCatalog": [
+    {
+      "name": "애플망고치즈 눈꽃빙수",
+      "priceText": "14,900원",
+      "description": "우유향 가득한 눈꽃 얼음에 달콤한 애플망고와 큐브치즈를 듬뿍 올렸어요.",
+      "image": "photos/menus/5742665c882207f1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "팥인절미 눈꽃빙수",
+      "priceText": "12,900원",
+      "description": "우유향 가득한 눈꽃 얼음에 쫀득한 인절미와 팥을 듬뿍 올렸어요.",
+      "image": "photos/menus/23b2cea3aa1b2740.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "[시즌메뉴] 메론요거트 눈꽃빙수",
+      "priceText": "18,900원",
+      "description": "우유향 가득한 눈꽃 얼음에 요거트 아이스크림, 달콤한 메론, 치즈큐브, 씨리얼을 가득 올렸어요.",
+      "image": "photos/menus/810fb682e046883f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "두바이 쫀득 초코 눈꽃빙수",
+      "priceText": "17,500원",
+      "description": "피스타치오 스프레드 + 카다이프 + 초코 마시멜로우 + 초코칩 + 부드러운 크림 / 맛 없없 조합",
+      "image": "photos/menus/9b6fce835afc40d3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "하겐다즈 초코 눈꽃빙수",
+      "priceText": "17,500원",
+      "description": "우유향 가득한 눈꽃 얼음에 하겐다즈 아이스크림과 각종 초코를 듬뿍 올렸어요.",
+      "image": "photos/menus/f16ee086841c098d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "하겐다즈 녹차 눈꽃빙수",
+      "priceText": "17,500원",
+      "description": "우유향 가득한 눈꽃 얼음에 하겐다즈 녹차 아이스크림과 팥, 인절미를 듬뿍 올렸어요.",
+      "image": "photos/menus/f3d9ff5008ae9a95.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "하겐다즈 녹차 초코 눈꽃빙수",
+      "priceText": "17,500원",
+      "description": "우유향 가득한 눈꽃 얼음에 하겐다즈 녹차 아이스크림과 각종 초코를 듬뿍 올렸어요.",
+      "image": "photos/menus/e8f40c4ec3fb9621.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "사과잼 와플",
+      "priceText": "3,800원",
+      "description": "와플의 정석, 사과잼과 와플크림의 조화",
+      "image": "photos/menus/e1b77291669600f4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "블루베리 와플",
+      "priceText": "3,800원",
+      "description": "와플 크림과 블루베리 리플잼의 조화",
+      "image": "photos/menus/1e07145530385ad6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "로투스 와플",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/ed80b37b29cc5f19.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "오레오 와플",
+      "priceText": "4,000원",
+      "description": "진짜 오레오 쿠키가 가득 담겼어요",
+      "image": "photos/menus/e697131c1630ef9e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "누텔라 와플",
+      "priceText": "4,300원",
+      "description": "근본 누텔라와 와플 크림의 환상적인 조화",
+      "image": "photos/menus/fd955dad6ce40eb6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "에그타르트",
+      "priceText": "3,500원",
+      "description": "파사삭 맛있는 에그타르트",
+      "image": "photos/menus/2b2cbd0559f69fba.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "초코칩 휘낭시에",
+      "priceText": "3,200원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "솔티 초코 휘낭시에",
+      "priceText": "3,300원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "고구마 맛탕 휘낭시에",
+      "priceText": "3,900원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "초코 미니 쿠키",
+      "priceText": "4,500원",
+      "description": "",
+      "image": "photos/menus/92c00e49835bf4aa.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "생초코 모찌",
+      "priceText": "3,200원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "앙버터 모찌",
+      "priceText": "3,800원",
+      "description": "(시판용) 쫀득쫀득한 모찌와 고급 버터의 조화",
+      "image": "photos/menus/eb17715072eee241.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "샤인머스켓 모찌",
+      "priceText": "4,000원",
+      "description": "(시판용) 쫀득쫀득한 모찌와 청포도의 조화",
+      "image": "photos/menus/2ee5407d5d0e3508.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "골드키위 모찌",
+      "priceText": "4,200원",
+      "description": "(시판용) 쫀득한 찹쌀떡에 과일 조합",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "생과일모찌) 샤인머스켓 요거트 모찌",
+      "priceText": "4,900원",
+      "description": "(냉장 필수) 녹색 한지로 포장 되어있습니다",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "요거트 아이스크림((S))",
+      "priceText": "5,000원",
+      "description": "소프트X. 고급스러운 요거트 아이스크림",
+      "image": "photos/menus/06b4bf87b668301d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "요거트 아이스크림((M))",
+      "priceText": "7,000원",
+      "description": "소프트X. 고급스러운 요거트 아이스크림",
+      "image": "photos/menus/06b4bf87b668301d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "요거트 아이스크림((L))",
+      "priceText": "8,500원",
+      "description": "소프트X. 고급스러운 요거트 아이스크림",
+      "image": "photos/menus/06b4bf87b668301d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "꾸덕한 소소 그릭요거트(100g)",
+      "priceText": "4,800원",
+      "description": "꾸우~ 덕한 그릭요거트",
+      "image": "photos/menus/002971af22c7f2c2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "꾸덕한 소소 그릭요거트(200g)",
+      "priceText": "9,000원",
+      "description": "꾸우~ 덕한 그릭요거트",
+      "image": "photos/menus/002971af22c7f2c2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "밀크티(300ml)",
+      "priceText": "5,000원",
+      "description": "진한 밀크티를 얼음 빼고 가득 넣었습니다.",
+      "image": "photos/menus/f2216af7b3303153.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "초코 우유(300ml)",
+      "priceText": "5,000원",
+      "description": "진 ~ 한 초코 우유 얼음 없이 가득 담았습니다.",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    },
+    {
+      "name": "딸기 우유(300ml)",
+      "priceText": "5,500원",
+      "description": "얼음 없이 수제 딸기청과 우유를 가득 담았어요.",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1387803106/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

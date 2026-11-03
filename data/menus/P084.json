@@ -1,0 +1,133 @@
+{
+  "menuCatalog": [
+    {
+      "name": "군만두",
+      "priceText": "3,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "백짬뽕",
+      "priceText": "13,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "굴짬뽕",
+      "priceText": "13,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "간짬뽕",
+      "priceText": "13,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "해물간짜장",
+      "priceText": "12,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "탕수육",
+      "priceText": "18,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "짜장면",
+      "priceText": "7,000원",
+      "description": "",
+      "image": "photos/menus/318a29bd17efc6fd.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "간짜장",
+      "priceText": "9,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "해물우동",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "잡채밥",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "직화해물짬뽕",
+      "priceText": "12,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    },
+    {
+      "name": "직화고기짬뽕",
+      "priceText": "12,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1752545553/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.08.26"
+    }
+  ]
+}

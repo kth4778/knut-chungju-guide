@@ -1,0 +1,163 @@
+{
+  "menuCatalog": [
+    {
+      "name": "사워크림(50g)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/c63eba3f7df297c7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "닭고기부리또",
+      "priceText": "6,300원",
+      "description": "",
+      "image": "photos/menus/84b4755a666af9cb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "믹스부리또",
+      "priceText": "6,500원",
+      "description": "",
+      "image": "photos/menus/67bffd74c8bcc9ef.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "소고기부리또",
+      "priceText": "6,700원",
+      "description": "",
+      "image": "photos/menus/22bfe1d1882f3025.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "김치닭고기부리또",
+      "priceText": "6,800원",
+      "description": "",
+      "image": "photos/menus/e122a61f43e90dc7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "김치믹스부리또",
+      "priceText": "7,000원",
+      "description": "",
+      "image": "photos/menus/b0d3550ef517d9ac.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "김치소고기부리또",
+      "priceText": "7,200원",
+      "description": "",
+      "image": "photos/menus/7972f4695987e809.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "불닭부리또",
+      "priceText": "7,200원",
+      "description": "",
+      "image": "photos/menus/daa1f164276d585a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "새우부리또",
+      "priceText": "8,500원",
+      "description": "",
+      "image": "photos/menus/d7aca350947a1dce.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "기본치미창가",
+      "priceText": "11,000원",
+      "description": "",
+      "image": "photos/menus/d3da3ea5be349067.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "김치치미창가",
+      "priceText": "12,000원",
+      "description": "",
+      "image": "photos/menus/6acf41038d5f3c55.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "감자튀김",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/b4876c915f854ad1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "어니언링",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/b4af72a76afbb19e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "음료(코카콜라,펩시제로,사이다,환타)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    },
+    {
+      "name": "그외 토핑류",
+      "priceText": "가격 변동",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2002146170/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.09.03"
+    }
+  ]
+}

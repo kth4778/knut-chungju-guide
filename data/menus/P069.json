@@ -1,0 +1,63 @@
+{
+  "menuCatalog": [
+    {
+      "name": "제주생삼겹살",
+      "priceText": "13,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1620939304/menu/list"
+    },
+    {
+      "name": "제주생목살",
+      "priceText": "13,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1620939304/menu/list"
+    },
+    {
+      "name": "국산막창구이",
+      "priceText": "11,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1620939304/menu/list"
+    },
+    {
+      "name": "국산곱창전골",
+      "priceText": "20,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1620939304/menu/list"
+    },
+    {
+      "name": "차돌박이된장찌개",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1620939304/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1620939304/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

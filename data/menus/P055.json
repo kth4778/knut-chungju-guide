@@ -1,0 +1,103 @@
+{
+  "menuCatalog": [
+    {
+      "name": "모듬카츠",
+      "priceText": "14,000원",
+      "description": "대표메뉴인 로스와 히레를 함께 즐길수 있어요^^",
+      "image": "photos/menus/e6b25d32a18b605c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1019680026/menu/list"
+    },
+    {
+      "name": "히레카츠",
+      "priceText": "12,000원",
+      "description": "부드럽고 육즙 가득한 제주도야지 안심카츠",
+      "image": "photos/menus/79f23024af0e6631.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1019680026/menu/list"
+    },
+    {
+      "name": "로스카츠",
+      "priceText": "11,000원",
+      "description": "72시간 숙성시킨 최고급 제주산 돼지를 이용한 부드럽고 풍미 가득한 등심 돈카츠",
+      "image": "photos/menus/d198f1d203da51e0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1019680026/menu/list"
+    },
+    {
+      "name": "특로스카츠",
+      "priceText": "13,000원",
+      "description": "",
+      "image": "photos/menus/e7aab028044a3faa.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1019680026/menu/list"
+    },
+    {
+      "name": "치즈카츠",
+      "priceText": "12,000원",
+      "description": "",
+      "image": "photos/menus/b11ddf6b3a486eec.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1019680026/menu/list"
+    },
+    {
+      "name": "달고기 생선카츠",
+      "priceText": "13,000원",
+      "description": "부드러운 흰살생선 제주 달고기로 만든 담백한 생선카츠",
+      "image": "photos/menus/59ced88470300d37.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1019680026/menu/list"
+    },
+    {
+      "name": "카츠커리",
+      "priceText": "12,000원",
+      "description": "홋카이도 스타일의 부드러운 우유카레와 미니 로스카츠",
+      "image": "photos/menus/88585c5da24fa532.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1019680026/menu/list"
+    },
+    {
+      "name": "가츠동",
+      "priceText": "11,000원",
+      "description": "타레소스와 양파, 추가계란 토핑과 바삭한 로스카츠가 올라간 덮밥",
+      "image": "photos/menus/f8d7acd7b6d6280c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1019680026/menu/list"
+    },
+    {
+      "name": "히레동",
+      "priceText": "12,000원",
+      "description": "",
+      "image": "photos/menus/39ce572385c359eb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1019680026/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1019680026/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.07.08"
+    }
+  ]
+}

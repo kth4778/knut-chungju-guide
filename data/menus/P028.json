@@ -1,0 +1,263 @@
+{
+  "menuCatalog": [
+    {
+      "name": "아메리카노",
+      "priceText": "3,500원",
+      "description": "",
+      "image": "photos/menus/32ac320fc9e3e683.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "카페라떼",
+      "priceText": "4,500원",
+      "description": "",
+      "image": "photos/menus/557e9ec441c78669.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "바닐라라떼",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/77fbf42518e54f7d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "카라멜라떼",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/317ce50ea67d983e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "모카라떼",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/9dbf86140bf738ac.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "플라워 밀크티",
+      "priceText": "5,200원",
+      "description": "",
+      "image": "photos/menus/f912de5e2df42c63.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "얼그레이 밀크티",
+      "priceText": "5,200원",
+      "description": "",
+      "image": "photos/menus/ef4d07c39756223b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "바닐라 밀크티 (디카페인)",
+      "priceText": "5,200원",
+      "description": "디카페인",
+      "image": "photos/menus/53d35e2245ea24b0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "민트 밀크티",
+      "priceText": "5,200원",
+      "description": "",
+      "image": "photos/menus/d8720e55cfbf2728.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "충주 밀크티",
+      "priceText": "5,200원",
+      "description": "",
+      "image": "photos/menus/ace5461639cfec65.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "플라워 밀크티 500미리 (얼음없이 가득)(2~3인용)",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "얼그레이 밀크티 500미리 (얼음없이 가득)(2~3인용)",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "바닐라 밀크티 500미리 (얼음없이 가득)(2~3인용)",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "민트 밀크티 500미리 (얼음없이 가득)(2~3인용)",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "충주 밀크티 500미리 (얼음없이 가득)(2~3인용)",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "루이보스 카라멜 티",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/0d8fcd306f4a576a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "시나몬 티",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/2b3dfec922c08c92.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "레몬생강 티",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/e51b35ae431c3550.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "얼그레이 티",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/4017e0aa10739687.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "히비스커스 티",
+      "priceText": "4,500원",
+      "description": "",
+      "image": "photos/menus/8ac570a89449e93f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "크렌베리 쿠키",
+      "priceText": "3,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "얼그레이 스콘",
+      "priceText": "4,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "크랜베리 스콘",
+      "priceText": "4,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "얼그레이 케이크",
+      "priceText": "7,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    },
+    {
+      "name": "치즈 케이크",
+      "priceText": "7,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2029564505/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

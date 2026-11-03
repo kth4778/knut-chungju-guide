@@ -1,0 +1,63 @@
+{
+  "menuCatalog": [
+    {
+      "name": "돼지생막창",
+      "priceText": "13,000원",
+      "description": "",
+      "image": "photos/menus/7b0aeb57e044e201.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17524105/menu/list"
+    },
+    {
+      "name": "훈제양념막창",
+      "priceText": "15,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17524105/menu/list"
+    },
+    {
+      "name": "훈제양념곱창",
+      "priceText": "13,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17524105/menu/list"
+    },
+    {
+      "name": "소막창",
+      "priceText": "20,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17524105/menu/list"
+    },
+    {
+      "name": "뭉티기삼겹살",
+      "priceText": "15,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17524105/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/17524105/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 25.01.28"
+    }
+  ]
+}

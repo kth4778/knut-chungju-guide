@@ -1,0 +1,123 @@
+{
+  "menuCatalog": [
+    {
+      "name": "해물짬뽕",
+      "priceText": "9,000원",
+      "description": "신선한 재료로 즉석에서 볶은 얼큰하고 진한맛의 짬뽕입니다",
+      "image": "photos/menus/f4b1a7685ef0beaa.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    },
+    {
+      "name": "육짬뽕",
+      "priceText": "12,000원",
+      "description": "소고기를 이용한 진하고 구수한짬뽕",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    },
+    {
+      "name": "문어짬뽕",
+      "priceText": "12,000원",
+      "description": "쫄깃한 문어가들어간 짬뽕",
+      "image": "photos/menus/f816de2dbf17b061.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    },
+    {
+      "name": "짜장면",
+      "priceText": "7,000원",
+      "description": "고소하고깊은 춘장의맛과 물타지않은 채수로만 갓볶은듯한 짜장면",
+      "image": "photos/menus/f8e3296e5e857de9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    },
+    {
+      "name": "볶음밥",
+      "priceText": "8,000원",
+      "description": "",
+      "image": "photos/menus/208941392686b7c5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    },
+    {
+      "name": "문어해물감자탕 2인분",
+      "priceText": "35,000원",
+      "description": "짬뽕스타일의 얼큰하고 시원한 감자탕",
+      "image": "photos/menus/b7f375dfcdfa8d8d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    },
+    {
+      "name": "문어해물감자탕3인분",
+      "priceText": "53,000원",
+      "description": "짬뽕스타일의 얼큰하고 시원한 감자탕",
+      "image": "photos/menus/7530fbaa9fde3780.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    },
+    {
+      "name": "문어해물감자탕4인분",
+      "priceText": "69,000원",
+      "description": "짬뽕스타일의 얼큰하고 시원한 감자탕",
+      "image": "photos/menus/ddb3d80f984f9d49.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    },
+    {
+      "name": "탕수육",
+      "priceText": "18,000원",
+      "description": "바삭하게 바로튀겨 소스와의 환상궁합",
+      "image": "photos/menus/786e5a367447c5ec.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    },
+    {
+      "name": "군만두",
+      "priceText": "7,000원",
+      "description": "",
+      "image": "photos/menus/7ce46225cb6b9cbc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    },
+    {
+      "name": "라면사리",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1494638270/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.08.17"
+    }
+  ]
+}

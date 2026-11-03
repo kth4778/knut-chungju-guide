@@ -1,0 +1,333 @@
+{
+  "menuCatalog": [
+    {
+      "name": "치킨난반",
+      "priceText": "14,000원",
+      "description": "잘 튀겨낸 치킨과 타르타르 소스를 함께 먹는 일본식 치밥",
+      "image": "photos/menus/b12831dd035c49a4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "신규",
+      "priceText": "17,000원",
+      "description": "포르치니 버섯 크림 파스타 제철 버섯에 포르치니를 더해 풍미를 올린 크림 파스타",
+      "image": "photos/menus/119ca6e54fcdb49c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "라구 가지덮밥",
+      "priceText": "13,000원",
+      "description": "라구소스에 미소소스를 더해 일식풍으로 해석한 가지덮밥",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "얼큰 우삼겹 나베",
+      "priceText": "22,000원",
+      "description": "각종 야채와 우삼겹이 어우러진 전골 요리",
+      "image": "photos/menus/b313491d7209b7a0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "신규",
+      "priceText": "25,000원",
+      "description": "꼬보 스키야키 달콤한 간장 육수에 소고기 등 다양한 재료를 끓여 먹는 요리",
+      "image": "photos/menus/0cd85768613b37ab.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "신규",
+      "priceText": "19,000원",
+      "description": "철판 콘치즈 살시차 소시지 수제 이탈리아 소시지 + 콘치즈",
+      "image": "photos/menus/f0c1ee9257031a42.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "치킨가라아게",
+      "priceText": "19,000원",
+      "description": "어간장으로 맛을 낸 '꼬보'표 가라아게",
+      "image": "photos/menus/43899588baa6f939.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "이탈리아식 가지 튀김",
+      "priceText": "9,000원",
+      "description": "상큼한 토마토 소스와 같이 먹는 가지 튀김",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "트러플 감자 튀김",
+      "priceText": "9,000원",
+      "description": "잠봉뵈르+감자튀김+어니언소스 조합",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "신규",
+      "priceText": "12,000원",
+      "description": "스트라치아텔라 치즈 부드러운 치즈에 유자청과 빵을 곁들여 먹는 요리",
+      "image": "photos/menus/15cfb408afa9f3ad.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "라투가 샐러드",
+      "priceText": "9,000원",
+      "description": "수제 랜치 드레싱과 토핑으로 맛을 낸 전채 요리",
+      "image": "photos/menus/3f461600838bf43d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "빵추가",
+      "priceText": "3,000원",
+      "description": "천연 르방으로 발효한 고단백, 저당 빵",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "계절 와인(bottle)",
+      "priceText": "50,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "계절 사케(bottle)",
+      "priceText": "50,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "기린 생맥주 300ml",
+      "priceText": "6,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "기린 생맥주 400ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "글라스 와인 120ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "산토리 하이볼 400ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "생 레몬 사와 400ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "미도리 사와 400ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "라무네 사와 400ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "포도 사와 400ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "도쿠리 사케(가모츠루 킨몬)220ml",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "도쿠리 사케(센노 유메) 220ml",
+      "priceText": "6,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "Non-알콜 유자 사와 350ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "Non-알콜 거봉 사와 350ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "Non-알콜 진토닉 350ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "무알콜 와인 350ml",
+      "priceText": "9,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "무알콜 맥주 350ml",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "코카콜라",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "펩시제로",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    },
+    {
+      "name": "스프라이트",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1027293990/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.10.03"
+    }
+  ]
+}

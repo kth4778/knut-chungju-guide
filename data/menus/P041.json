@@ -1,0 +1,453 @@
+{
+  "menuCatalog": [
+    {
+      "name": "수정과 클래식 팥빙수",
+      "priceText": "14,900원",
+      "description": "서리꽃에서만 판매하는 옛날 수정과로 만든 부드러운 빙수와 팥 그리고 고소한 고명과 곶감의 조화가 환상인 인기쟁이 수정과빙수입니다 :)",
+      "image": "photos/menus/edfb04f24751abd1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "카이막 서리꽃빙수(1~3인분)",
+      "priceText": "25,000원",
+      "description": "직접 만든 정성가득 카이막과 수입솜사탕,벌집꿀, 피스타치오 외 서리꽃만의 시크릿레시피",
+      "image": "photos/menus/00c701c5a34e0ab1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "티라미수 커피빙수",
+      "priceText": "17,900원",
+      "description": "직접내린 에스프레소로 만든 진한 커피눈꽃빙수와 수제티라미수볼이 올라간 인기만점 메뉴입니다 :) 재주문 많은 디저트입니다~",
+      "image": "photos/menus/f3a260d345b833b6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "서리꽃 수제 바닐라 아이스크림 라떼",
+      "priceText": "7,000원",
+      "description": "서리꽃이 온 힘을 다해 직접 만든 바닐라 아이스크림이 퐁당 담긴 아이스수제바닐라라떼입니다 :) (하루하루 수량이 한정되어있습니다 ~)",
+      "image": "photos/menus/770bab9fce81f6c5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "마스카포네 크림치즈 딸기 눈꽃빙수",
+      "priceText": "14,900원",
+      "description": "",
+      "image": "photos/menus/9c5133cf141b84d8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "망고 큐브치즈 눈꽃빙수",
+      "priceText": "14,900원",
+      "description": "",
+      "image": "photos/menus/7f57f9df67226808.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "아메리카노",
+      "priceText": "5,300원",
+      "description": "Kenya othaya cinga+Columbia Antioqia +Gutemala Antigua+Indonesia Mandhing 각종원두가 블랜딩된 고급 원두로 내린 커피입니다 :)",
+      "image": "photos/menus/cde8111eac3c9be8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "서리꽃 수제 바닐라빈라떼 hot/ice",
+      "priceText": "6,800원",
+      "description": "서리꽃에서 직접 만든 수제바닐라빈 시럽이 들어간 뜨끈한 바닐라라떼입니다 :) 아이스 바닐라라떼와 다르게 아이스크림은 안들어갑니다 :) (바닐라빈이 듬뿍 들어가서 검정 점이 보일수 있는데 그것은 바닐라 빈이랍니당~)",
+      "image": "photos/menus/6aec6adbc177f6b8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "카페라떼",
+      "priceText": "5,800원",
+      "description": "고급원두로 만든 에스프레소와 엄선한 고소한 우유가 들어간 서리꽃의 카페라떼입니다 :)",
+      "image": "photos/menus/9bb5bcb9daa18483.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "수제 사이공 라떼 (수제 연유라떼)",
+      "priceText": "6,000원",
+      "description": "직접 만든 수제 연유로 만들어 풍미가 더욱 가득한 서리꽃만의 연유라떼입니다 :)",
+      "image": "photos/menus/a4d35636a50896e3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "딸기라떼",
+      "priceText": "6,000원",
+      "description": "딸기라떼이지만 겨울엔 따듯하게도 가능합니다 :)",
+      "image": "photos/menus/dc13fe9bdfa437fb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "망고라떼",
+      "priceText": "6,300원",
+      "description": "생망고가 들어간 달달한 망고라떼 입니다 :) 망고라떼이지만 겨울엔 따듯하게도 가능합니다 :)",
+      "image": "photos/menus/e33bd830ca13ca01.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "무설탕 말차라떼",
+      "priceText": "6,000원",
+      "description": "설탕이 첨가되지 않았으며 제주에서 날아온 말차로 만든 라떼입니다 :)",
+      "image": "photos/menus/789b93ec4d1fe3ba.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "말차크림 라떼",
+      "priceText": "6,500원",
+      "description": "유기농 제주말차 크림과 우유의 조화 :)",
+      "image": "photos/menus/64d246d3343639e7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "제주당근라떼",
+      "priceText": "6,500원",
+      "description": "신선하고 맛있는 제주당근을 사장님이 직접 청으로 만들어 달달한 당근향과 아삭한 식감이 일품인 라떼여요 :)",
+      "image": "photos/menus/5bae5f4c9b0c8229.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "에티오피아 시다모",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "레몬에이드",
+      "priceText": "6,300원",
+      "description": "수제 레몬청과 생과일 레몬이 들어간 상큼한 비타민만탕 레몬에이드입니다 :)",
+      "image": "photos/menus/3d779ac7f91d45c7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "자몽에이드",
+      "priceText": "6,300원",
+      "description": "수제 자몽청과 생과일 자몽이 들어간 싱그러운 자몽에이드입니다 :)",
+      "image": "photos/menus/7ef91e9ea930425d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "망고에이드",
+      "priceText": "6,500원",
+      "description": "수제 망고퓨레와 생망고가 들어간 달달허이 시원한 망고에이드입니다 :)",
+      "image": "photos/menus/e9a2407261f25fc2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "베리베리에이드",
+      "priceText": "6,800원",
+      "description": "각종 베리들로 만든 수제청과 각종베리 생과일이 들어간 달콤상콤한 서리꽃만의 에이드입니다 :) 어린아이들이 너무 좋아해요~",
+      "image": "photos/menus/5c0c013970ab1c47.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "패션후르츠에이드",
+      "priceText": "6,500원",
+      "description": "수제백향과 청과 생백향과가 들어간 달달 시원 에이드입니다 :) 상큼하니 너어무 맛있어요 ~.~",
+      "image": "photos/menus/dc510d46c485a86b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "딸기 스무디",
+      "priceText": "6,500원",
+      "description": "생딸기로 만든 시원한 딸기 스무디입니다 :) 엄마 손맛의 하우스스타일 딸기스무디라고 할수잇죵 :)",
+      "image": "photos/menus/b52722aab2fc2654.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "망고 스무디",
+      "priceText": "6,500원",
+      "description": "생망고가 들어간 달달하고 부드러운 망고스무디 입니다 :)",
+      "image": "photos/menus/8b9c8ab122b43b8e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "키위 스무디",
+      "priceText": "6,500원",
+      "description": "골드키위, 그린키위가 모두 들어간 엄마 손맛 키위스무디 :) (바나나 추가하면 더 맛있어요~.~)",
+      "image": "photos/menus/6ef52a87b26eedfe.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "제주감귤스무디",
+      "priceText": "6,800원",
+      "description": "겨울엔 따듯한 이불속에서 뀰 스무디 :)",
+      "image": "photos/menus/b2a924753e6e991f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "멜론스무디",
+      "priceText": "6,800원",
+      "description": "직접 개발하고 만든 수제 멜론청으로 만든멜론향이 물씬 풍기는 달콤한 스무디",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "순수 레몬차",
+      "priceText": "5,800원",
+      "description": "직접 담근 수제청으로 만든 비타민 듬뿍 레몬차입니다 :)",
+      "image": "photos/menus/1f557db1df1956c7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "순수 자몽차",
+      "priceText": "5,800원",
+      "description": "직접 담근 자몽청으로 만든 새콤달콤쌉싸름 자몽차입니다 :)",
+      "image": "photos/menus/0b5df813dcf33147.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "순수유자차",
+      "priceText": "5,500원",
+      "description": "수제 유자청으로 만든 달콤상콤 유자차",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "순수 청귤차",
+      "priceText": "5,800원",
+      "description": "수제 청귤청으로 만든 비타민 만땅 청귤차입니다 :)",
+      "image": "photos/menus/2b3fdc1ce5a9cfc0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "순수 배도라지 생강차",
+      "priceText": "6,500원",
+      "description": "직접 담근 배도라지청으로 만든 차 (감기야 물러가랏 ~ )",
+      "image": "photos/menus/905b34995c5a5261.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "쿨허벌",
+      "priceText": "5,600원",
+      "description": "Blending : 감초뿌리, 말린사과조각, 레몬그라스, 페퍼민트, 레몬향, 자몽향",
+      "image": "photos/menus/daeb302a27a6a7c2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "씨브리즈",
+      "priceText": "5,600원",
+      "description": "Blending : 그린루이보스, 비타민나무열매 (sea buckthorn), 파인애플, 당근, 천수국꽃잎",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "그린 자스민트",
+      "priceText": "5,600원",
+      "description": "Blending : 유기농 자스민녹차, 유기농 스피어민트, 스피어민트 오일",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "테린느 (치즈 / 초코오레오 / 말차)",
+      "priceText": "6,500원",
+      "description": "꾸덕꾸덕한 생초콜릿 식감의 디저트로 저희만의 비법 크림과 같이 제공됩니다 :)",
+      "image": "photos/menus/195ce6f47c01835e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "수제티라미수 푸딩",
+      "priceText": "6,300원",
+      "description": "매일 직접 만들 동글동글 수제 티라미수 푸딩입니다 :) 쫜득함과 부드러운 식감과 함께 적당히 달달해 인기만점입니다 :)",
+      "image": "photos/menus/1dbc43ba38a50fb8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "카이막 쿠키 세트",
+      "priceText": "9,500원",
+      "description": "카이막, 쿠키4~5종 을 보내드려요",
+      "image": "photos/menus/7d9b73b9d9306b4d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "서리꽃 카이막크로플(1~2인분)",
+      "priceText": "14,900원",
+      "description": "고급진 수제 카이막+서리꽃만의 당근소스와 라페 그리고 각종 야채가 올라간 신메뉴 카이막크로플입니다 :)",
+      "image": "photos/menus/990edcde88c1c5fd.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "티라미수 슈슈",
+      "priceText": "9,400원",
+      "description": "동글동글 새일심같은 달달한 티라미수와 단맛을 살짝 중화시켜주는 고급스런 크림이 잘 어우러지는 서리꽃만의 맛의 조화",
+      "image": "photos/menus/5bb6c409547365c4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "호두 무화과 치즈곶감단지",
+      "priceText": "8,500원",
+      "description": "저희가 직접 말아 만든 고소하고 담백한 치즈호두곶감단지입니다 :) 아메리카노와 너무 잘어울려요 ~.~",
+      "image": "photos/menus/569cea2497cd6d85.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "씨앗 유자 치즈곶감단지",
+      "priceText": "8,500원",
+      "description": "저희가 직접 말아 만든 상큼하고 부드러운 고소한 수제 치즈씨앗유자곶감단지입니다 :)",
+      "image": "photos/menus/9eff89b8fa948426.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "체리페퍼 카나페",
+      "priceText": "8,000원",
+      "description": "독측한 향의 체리페퍼가 올라간 달콤한 피자맛이 나는 카나페입니다 :) 와인과 맥주 안주용으로 딱이에요~",
+      "image": "photos/menus/88eee76d828bd031.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "브리치즈 카나페",
+      "priceText": "12,000원",
+      "description": "부드러운 브리치즈구이와 꼬소한 견과류가 듬뿍 뿌려진 달콤고소부들부들 메뉴입니다~ 와인과 맥주 안주용으로 딱 좋아요 :)",
+      "image": "photos/menus/685cb0c47e8d30cc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    },
+    {
+      "name": "현미 가래떡 구이와 조청은 국룰",
+      "priceText": "8,000원",
+      "description": "입이 심심할땐 가래떡과 조청은 국룰입니다 :) 대표 코리안 디저트라고 할수 있죠~ 떡구이 굽기 요청사항에 적어주세요(크리스피 혹은 소프트~)",
+      "image": "photos/menus/e3d9fcf2671711f7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1250616851/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

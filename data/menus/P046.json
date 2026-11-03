@@ -1,0 +1,133 @@
+{
+  "menuCatalog": [
+    {
+      "name": "포장메뉴",
+      "priceText": "14,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "모듬세트10p(포장)",
+      "priceText": "14,000원",
+      "description": "모듬초밥세트",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "특 모듬세트16p.(포장)",
+      "priceText": "22,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "평일 점심 특선(테이블한정메뉴)",
+      "priceText": "16,000원",
+      "description": "모듬초밥12p+미니우동",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "사시미 한상 2~3인(테이블한정메뉴)",
+      "priceText": "65,000원",
+      "description": "전채요리+초밥+메인사시미+요리+구이+튀김+누룽지탕",
+      "image": "photos/menus/fba0f8a89210a083.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "사시미 한상 4~5인(테이블한정메뉴)",
+      "priceText": "110,000원",
+      "description": "전채요리+초밥+메인사시미+요리+구이+튀김+누룽지탕",
+      "image": "photos/menus/423902dd022e083c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "초밥한접시",
+      "priceText": "1,990원",
+      "description": "회전초밥한접시 1990원",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "미니유부우동",
+      "priceText": "3,000원",
+      "description": "사이드로 즐기는 후식메뉴",
+      "image": "photos/menus/cacf1c5afb38acdc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "미니메밀소바",
+      "priceText": "3,000원",
+      "description": "사이드로 즐기는 후식메뉴",
+      "image": "photos/menus/8cc721f0d0d3ec13.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "김치어묵우동(미니)",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/41aebeca8d906ba9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "새우튀김우동(미니)",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/1511737efdb5ca01.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    },
+    {
+      "name": "차돌마제소바(미니)",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/f144d75e8474f853.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1293892201/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.07.30"
+    }
+  ]
+}

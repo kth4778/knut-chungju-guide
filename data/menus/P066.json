@@ -1,0 +1,103 @@
+{
+  "menuCatalog": [
+    {
+      "name": "닭갈비2인분",
+      "priceText": "19,000원",
+      "description": "2인분",
+      "image": "photos/menus/1c32ee8a4faabafb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1501866962/menu/list"
+    },
+    {
+      "name": "닭갈비(중)",
+      "priceText": "28,000원",
+      "description": "3~4인분",
+      "image": "photos/menus/d4cd2c69e6c1b252.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1501866962/menu/list"
+    },
+    {
+      "name": "닭갈비(대)",
+      "priceText": "38,000원",
+      "description": "4~5인분",
+      "image": "photos/menus/3c093c8d8502fb6f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1501866962/menu/list"
+    },
+    {
+      "name": "닭갈비삼겹살2인분",
+      "priceText": "20,000원",
+      "description": "2인분",
+      "image": "photos/menus/2a98c3a260379a1d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1501866962/menu/list"
+    },
+    {
+      "name": "닭갈비삼겹살(중)",
+      "priceText": "30,000원",
+      "description": "3~4인분",
+      "image": "photos/menus/eb461f13512ffe83.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1501866962/menu/list"
+    },
+    {
+      "name": "닭갈비삼겹살(대)",
+      "priceText": "40,000원",
+      "description": "4~5인분",
+      "image": "photos/menus/efac3a472eb1bf71.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1501866962/menu/list"
+    },
+    {
+      "name": "볶음밥",
+      "priceText": "2,000원",
+      "description": "닭갈비의 마지막을 장식할 볶음밥, (사리로 우동, 라면, 떡도 있고 각 2,000원)",
+      "image": "photos/menus/62e1dbd4bf429403.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1501866962/menu/list"
+    },
+    {
+      "name": "막걸리 한주전자 (2,000cc)",
+      "priceText": "6,000원",
+      "description": "양조장 막걸리라 맛있어요",
+      "image": "photos/menus/1a9648b563b84f58.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1501866962/menu/list"
+    },
+    {
+      "name": "막걸리 반주전자 (1,000cc)",
+      "priceText": "3,000원",
+      "description": "양조장 막걸리라 맛있어요.",
+      "image": "photos/menus/bc28d78c497f0d24.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1501866962/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1501866962/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 25.08.31"
+    }
+  ]
+}

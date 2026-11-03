@@ -1,0 +1,183 @@
+{
+  "menuCatalog": [
+    {
+      "name": "핵매운순두부부대찌개",
+      "priceText": "12,000원",
+      "description": "",
+      "image": "photos/menus/149089158fcb76ec.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "치즈듬뿍부대찌개",
+      "priceText": "12,000원",
+      "description": "",
+      "image": "photos/menus/561bb28f3e3ad054.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "부대찌개",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/110805abf772734a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "부대찌개(포장)",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "계란말이",
+      "priceText": "6,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "물만두",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "모듬사리",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "소세지사리",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "햄사리",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "물만두사리",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "라면사리",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "당면사리",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "두부사리",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "치즈사리",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "소주",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "맥주",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    },
+    {
+      "name": "음료",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2007241286/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.06.22"
+    }
+  ]
+}

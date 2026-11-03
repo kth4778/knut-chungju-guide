@@ -1,0 +1,493 @@
+{
+  "menuCatalog": [
+    {
+      "name": "(ICE)아메리카노",
+      "priceText": "2,000원",
+      "description": "(기본 2샷) 메가MGC커피 블렌드 원두로 추출한 에스프레소에 물을 더해, 풍부한 바디감을 느낄 수 있는 스탠다드 커피",
+      "image": "photos/menus/b761918203b8fdb7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(ICE)메가리카노",
+      "priceText": "3,300원",
+      "description": "대용량 1L 아이스 아메리카노~",
+      "image": "photos/menus/7ae884d0e6068a33.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(ICE)큐브라떼",
+      "priceText": "4,200원",
+      "description": "연유를 섞은 라떼에 에스프레소를 얼린 커피큐브를 올려, 녹을수록 더 진한 커피가 느껴지는 라떼",
+      "image": "photos/menus/4a4784492430edec.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "복숭아아이스티",
+      "priceText": "3,000원",
+      "description": "홍차의 깊은 맛과 풍부한 복숭아 향이 어우러진 달콤한 여름철 인기 음료",
+      "image": "photos/menus/980d63f54585cf6e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "쿠키프라페",
+      "priceText": "3,900원",
+      "description": "오레오의 특유의 맛과 부드러운 우유, 그리고 바닐라 향의 조화를 느낄 수 있는 메가MGC커피 베스트 메뉴",
+      "image": "photos/menus/b33b923278c5ca4f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "나 혼자만 드랍 UP 은랑 큐브 레몬에이드",
+      "priceText": "3,900원",
+      "description": "메가MGC커피 시스템을 해킹해 버린 은랑 LV.999가 블루베리 레몬에이드에 에테르 큐브를 잔뜩 드랍해놨다. 새콤달콤 시원한 에이드 곳곳에 숨어있는 큐브(나타드코코)를 하나씩 공략하는 재미가 있는 붕괴: 스타레일 한정판 음료",
+      "image": "photos/menus/c213879243e7c096.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "음, 괜찮은 휴식이군 블레이드 초코크림커피",
+      "priceText": "3,900원",
+      "description": "아무리 오래 무뎌진 마음도, 이 한 잔의 다정함은 이기지 못해 깔끔한 아메리카노 위로 진한 초코 크림이 듬뿍~ 블레이드조차 인정한 달콤 쌉쌀한 붕괴: 스타레일 한정판 음료",
+      "image": "photos/menus/cecc04d35dda2db5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(ICE)하우스밀크 라떼",
+      "priceText": "3,500원",
+      "description": "메가MGC커피만의 하우스밀크로 고소하고 부드러운 맛과 은은한 단맛은 더하고 깊은 풍미의 에스프레소 샷을 블렌딩해 더욱 조화로운 밸런스를 완성한 카페라떼",
+      "image": "photos/menus/2ebd3cab8a5ed7c7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(ICE)무카페인 오르조라떼",
+      "priceText": "3,300원",
+      "description": "이탈리아산 크라스탄 오르조와 고소하고 부드러운 우유가 만나 카페라떼 그대로의 깊은 풍미를 부담없이 무카페인으로 즐길 수 있는 라떼",
+      "image": "photos/menus/e5ab49a134386969.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "저당 골든애플 블랙티",
+      "priceText": "3,500원",
+      "description": "저당으로 부담없는 달콤상큼한 사과와 깊고 깔끔한 블랙티의 조화로 더욱 풍부하고 산뜻하게 즐길 수 있는 티플레져 (대체당(알룰로스)을 과도하게 섭취 시 개인에 따라 복통 및 설사 등을 유발 할 수 있으니 주의하세요.)",
+      "image": "photos/menus/904e726f9ab9b9b4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "감자빵+커피 2인 모닝팩",
+      "priceText": "11,000원",
+      "description": "감자빵 2개 + (ICE)아메리카노 OR (HOT)헛개리카노 OR (ICE)헛개리카노 OR 메가리카노 2개",
+      "image": "photos/menus/43bcd7bffb597f05.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "쿠키+마카롱+메가칩 스낵파티팩",
+      "priceText": "8,900원",
+      "description": "메가쿠키(마카다미아 OR 초코) + 초코스모어 쿠키 + 마카롱(초코 OR 유니콘 OR 딸기) + 엠지씨네 메가칩",
+      "image": "photos/menus/1c8ddace84caf6a2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "핫도그+에이드+쿠키 한끼팩",
+      "priceText": "8,600원",
+      "description": "와앙뽀득핫도그 + 제로부스트에이드 OR 자몽에이드 OR 왕메가아이스티 + 메가쿠키(초코 OR 마카다미아)",
+      "image": "photos/menus/32e510c2096106c6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "치즈감자빵+커피+쿠키 브런치팩",
+      "priceText": "10,100원",
+      "description": "치즈 품은 감자빵 + 큐브라떼 OR 왕메가초코 OR 왕메가카페라떼 + 메가쿠키(마카다미아 OR 초코)",
+      "image": "photos/menus/76636bfeac6ab25f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "허니브레드+주스+쿠키 스위트팩",
+      "priceText": "11,400원",
+      "description": "허니브레드 + 딸기바나나주스 + 초코스모어 쿠키",
+      "image": "photos/menus/2b7635db76cff33e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "왕메가카페라떼",
+      "priceText": "4,400원",
+      "description": "진한 에스프레소와 부드러운 우유가 어우러져 고소한 풍미를 완성한 메가MGC커피만의 왕메가사이즈 라떼",
+      "image": "photos/menus/2830ac1406e240ff.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(ICE)할메가커피",
+      "priceText": "2,300원",
+      "description": "우리 할머니께서 즐겨드시던 달달한 믹스 커피 스타일로 만든 메가MGC커피만의 시원한 커피 음료",
+      "image": "photos/menus/fc2683ca525296d6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(ICE)왕할메가커피",
+      "priceText": "3,400원",
+      "description": "우리 할머니께서 즐겨드시던 달달한 믹스 커피 스타일로 만든 메가MGC커피만의 메가사이즈 커피 음료",
+      "image": "photos/menus/3118000b891f2f6e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(HOT)아메리카노",
+      "priceText": "1,700원",
+      "description": "(기본 2샷) 메가MGC커피 블렌드 원두로 추출한 에스프레소에 물을 더해, 풍부한 바디감을 느낄 수 있는 스탠다드 커피",
+      "image": "photos/menus/5cbb73a4e4b6ccc5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "왕메가아이스티",
+      "priceText": "3,900원",
+      "description": "깊은 맛의 홍차와 달콤한 복숭아의 은은한 향이 어우러진 왕 메가 사이즈 아이스티",
+      "image": "photos/menus/e480e20292f0cd08.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "제로 복숭아 아이스티",
+      "priceText": "3,000원",
+      "description": "깊게 우려진 홍차와 은은한 복숭아향의 아이스티를 제로슈가, 제로칼로리로 즐길 수 있는 음료",
+      "image": "photos/menus/6953eaaa7e9ba896.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "왕메가사과유자차",
+      "priceText": "4,400원",
+      "description": "애플티의 향긋함과 유자청의 상큼달콤함을 느낄 수 있는 메가MGC커피만의 왕메가사이즈 과일티",
+      "image": "photos/menus/1820de3209a65a09.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(HOT)사과유자차",
+      "priceText": "3,500원",
+      "description": "애플 티의 향긋함과 유자청의 상큼함이 어우러진 과일 티",
+      "image": "photos/menus/9009fa49ab2865ec.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "딸기바나나주스",
+      "priceText": "4,000원",
+      "description": "상큼한 딸기와 부드러운 바나나가 만나, 새콤달콤한 매력이 살아 있는 과일 음료",
+      "image": "photos/menus/f03816c37f04e8d5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "딸기주스",
+      "priceText": "4,000원",
+      "description": "탱글하게 살아 있는 딸기 과육의 상큼함을 만끽할 수 있는 과일 음료",
+      "image": "photos/menus/81aae81927657394.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "골드키위주스",
+      "priceText": "4,000원",
+      "description": "상큼달콤한 프리미엄 골드키위에 밀크씨슬을 더해 일상의 활력을 선사하는 건강한 블렌딩 주스",
+      "image": "photos/menus/0e25253c17ad8444.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "체리콜라",
+      "priceText": "3,300원",
+      "description": "체리의 새콤함에 콜라의 청량함을 더해, 남녀노소 좋아하는 에이드",
+      "image": "photos/menus/18328d460df2a265.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "제로 부스트 에이드",
+      "priceText": "3,000원",
+      "description": "지친 현대인들에게 필요한 한 잔의 에너지 타우린 1,000mg이 들어가 활력이 충전되는 에너지드링크맛 제로 칼로리 에이드",
+      "image": "photos/menus/80b01da6bc8daf90.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "코코넛커피 스무디",
+      "priceText": "4,800원",
+      "description": "바삭하고 고소한 코코넛 칩을 올리고 쌉싸름한 커피와 달콤한 코코넛이 조화로운 스무디",
+      "image": "photos/menus/ed176de617873a83.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "초코허니퐁크러쉬",
+      "priceText": "3,900원",
+      "description": "리얼 벌꿀이 들어가 더 달콤한 허니퐁시리얼과 달콤한 초코가 만나 시원하게 즐기는 달달한 프라페",
+      "image": "photos/menus/21123bf14d53c3e9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "플레인퐁크러쉬",
+      "priceText": "3,900원",
+      "description": "우유와 퐁시리얼, 얼음을 함께 갈아 시원하게 즐기는 달달한 프라페 음료",
+      "image": "photos/menus/1211cfe4c3983ccc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "딸기퐁크러쉬",
+      "priceText": "3,900원",
+      "description": "우유와 퐁시리얼, 상큼한 딸기를 믹스하고, 얼음을 함께 갈아 시원하게 즐기는 달달한 프라페 음료",
+      "image": "photos/menus/cb4880f428cb4678.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "바나나퐁크러쉬",
+      "priceText": "3,900원",
+      "description": "우유와 퐁시리얼, 부드러운 바나나를 믹스하고, 얼음을 함께 갈아 시원하게 즐기는 달달한 프라페 음료",
+      "image": "photos/menus/ba673d4aeb0a4daf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "메가베리 아사이볼",
+      "priceText": "3,900원",
+      "description": "상큼달콤 아사이볼 속에 세가지의 달콤한 베리와 건강한 그래놀라가 더해져 시원 달달하게 즐길 수 있는 딸기시즌 한정 디저트",
+      "image": "photos/menus/23b135b0d0b7f28b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "요거젤라또 씨리얼 초코베리믹스",
+      "priceText": "3,900원",
+      "description": "초코쉘을 입힌 기존 요거트 젤라또에, 팥빙에서 즐기던 바삭한 믹스씨리얼을 베리믹스와 함께 듬뿍 더한 시원바삭 요거볼 (요거젤라또+믹스씨리얼+초코쉘+트리플믹스베리 조합)",
+      "image": "photos/menus/184bddf0416b3786.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "요거젤라또 초코베리믹스",
+      "priceText": "3,900원",
+      "description": "초코쉘을 입힌 요거트 젤라또에 세가지 달콤상큼 베리와 초코링, 고소한 그래놀라를 더한, 시원달달 요거볼",
+      "image": "photos/menus/0a5f8b65d5df0314.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "초코젤라또크로플",
+      "priceText": "3,500원",
+      "description": "따뜻하고 바삭한 크로플 위에 진하고 꾸덕한 초코 젤라또를 올려 만든 매력적인 베이커리 메뉴",
+      "image": "photos/menus/5ee2c45c1880da89.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "치즈 품은 감자빵",
+      "priceText": "3,900원",
+      "description": "풍미 깊은 치즈와 포슬포슬한 감자를 가득 담아 낸 쌀가루로 만든 건강한 빵",
+      "image": "photos/menus/0ab9dbbe175f8ac6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "왕메가초코",
+      "priceText": "4,400원",
+      "description": "부드러운 우유에 진한 초코소스가 어우러져 달콤하게 입맛을 깨우는 왕 메가 사이즈 초코음료",
+      "image": "photos/menus/b61f37809575bcb7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "딸기라떼",
+      "priceText": "3,700원",
+      "description": "딸기과육이 풍부히 느껴지는 스테디 셀러 산뜻하고 달콤한 딸기가 가득해 부드러운 우유와 어우러져 더욱 기분 좋게 즐기는 아이스 라떼",
+      "image": "photos/menus/3e8c79006249d065.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "밀크쉐이크",
+      "priceText": "2,900원",
+      "description": "우유 그대로의 부드러움에 달콤함을 더해 꾸덕하고 진~한 풍미를 느낄 수 있는 겨울시즌 한정 밀크쉐이크",
+      "image": "photos/menus/cc82514434a3029e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(ICE)오레오초코라떼",
+      "priceText": "3,900원",
+      "description": "달콤한 초콜릿의 풍미와 아삭한 오레오 살아있는 아이스 초코음료",
+      "image": "photos/menus/d0c9569a22a1b5c6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "핫초코",
+      "priceText": "3,500원",
+      "description": "부드러운 우유에 진한 초코소스가 어우러져 달콤하게 입맛을 깨우는 초콜릿 음료",
+      "image": "photos/menus/c6e68097e7a8b4e6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(HOT)콜드브루오리지널",
+      "priceText": "3,500원",
+      "description": "차가운 물에 장시간 우려내 깔끔한 목넘김을 느낄 수 있는 콜드브루",
+      "image": "photos/menus/5a90b363489ce4c1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(ICE)콜드브루오리지널",
+      "priceText": "3,500원",
+      "description": "차가운 물에 장시간 우려내 깔끔한 목넘김을 느낄 수 있는 콜드브루",
+      "image": "photos/menus/5c26ce217ca542fd.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(HOT)콜드브루라떼",
+      "priceText": "4,000원",
+      "description": "콜드브루에 고소한 우유를 섞어, 깔끔함과 부드러움을 잡은 콜드브루 라떼",
+      "image": "photos/menus/196913d56dfebb3d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "(ICE)콜드브루라떼",
+      "priceText": "4,000원",
+      "description": "콜드브루에 고소한 우유를 섞어, 깔끔함과 부드러움을 잡은 콜드브루 라떼",
+      "image": "photos/menus/72cc6a1508534015.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    },
+    {
+      "name": "콜드브루상품용",
+      "priceText": "20,000원",
+      "description": "1L 콜드브루 원액입니다.",
+      "image": "photos/menus/72650810fb56cc16.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1295066404/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

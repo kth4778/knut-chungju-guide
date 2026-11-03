@@ -1,0 +1,73 @@
+{
+  "menuCatalog": [
+    {
+      "name": "떡볶이",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37656960/menu/list"
+    },
+    {
+      "name": "치즈떡볶이",
+      "priceText": "6,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37656960/menu/list"
+    },
+    {
+      "name": "오뎅튀김 5개",
+      "priceText": "1,700원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37656960/menu/list"
+    },
+    {
+      "name": "만두튀김 5개",
+      "priceText": "1,700원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37656960/menu/list"
+    },
+    {
+      "name": "김말이튀김 3개",
+      "priceText": "1,700원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37656960/menu/list"
+    },
+    {
+      "name": "로제프리미엄(모듬토핑기본포함)",
+      "priceText": "12,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37656960/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/37656960/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.09.13"
+    }
+  ]
+}

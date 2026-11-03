@@ -1,0 +1,153 @@
+{
+  "menuCatalog": [
+    {
+      "name": "프렌치 햄치즈",
+      "priceText": "4,000원",
+      "description": "달콤하고 촉촉한 프렌치 토스트와 이삭토스트 시그니처 햄치즈의 만남",
+      "image": "photos/menus/608e245b3711005a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "스크램블 햄치즈",
+      "priceText": "4,200원",
+      "description": "부드러운 스크램블과 햄치즈의 만남",
+      "image": "photos/menus/b5298edfa3020423.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "계란후라이 스페셜",
+      "priceText": "4,400원",
+      "description": "고소한 반숙 계란후라이와 대파마요 소스, 풍성한 양배주의 조화",
+      "image": "photos/menus/9e72f0b99740a29e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "계란후라이 햄치즈",
+      "priceText": "4,200원",
+      "description": "고소한 반숙 계란후라이와 햄치즈의 완벽한 조화",
+      "image": "photos/menus/a5828d47b2b82590.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "스크램블 베이컨",
+      "priceText": "5,100원",
+      "description": "부드러운 스크램블과 베이컨, 치즈의 조화",
+      "image": "photos/menus/fe3ea2eb9e9dc57a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "햄치즈 토스트",
+      "priceText": "3,600원",
+      "description": "햄&치즈 신선한 계란이 들어간 토스트",
+      "image": "photos/menus/3708ba271ed7995b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "햄스페셜",
+      "priceText": "4,100원",
+      "description": "햄치즈 토스트에 신선한 양배추 찹을 추가한 토스트",
+      "image": "photos/menus/e97873a1ced8f91e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "햄치즈 포테이토",
+      "priceText": "4,600원",
+      "description": "햄치즈에 담백한 해쉬포테이토! 이삭 꿀조합 메뉴",
+      "image": "photos/menus/96569e9b52776c3d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "베이컨베스트",
+      "priceText": "4,500원",
+      "description": "달콤한 이삭소스가 발린 토스트에 베이컨,치즈,양배추를 올린 인기 토스트!",
+      "image": "photos/menus/4b7b14590709d5f6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "감자 스페셜",
+      "priceText": "5,000원",
+      "description": "짭짤한 베이컨과 양배추로 풍성하게",
+      "image": "photos/menus/788310d1110b616d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "베이컨 포테이토 피자",
+      "priceText": "5,500원",
+      "description": "쫄깃한 모짜렐라 치즈, 해쉬브라운과 베이컨의 만남",
+      "image": "photos/menus/73a8f4e7fa2289ec.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "그릴드 불갈비",
+      "priceText": "5,100원",
+      "description": "불갈비 패티에 바베큐 소스가 더해져 진한 그릴 향을 느껴보세요",
+      "image": "photos/menus/87c9f25fd1ecc5f2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "딥치즈 베이컨",
+      "priceText": "4,800원",
+      "description": "짭조름한 베이컨과 쫄깃한 모짜렐라치즈, 부드러운 치즈소스가 듬뿍!",
+      "image": "photos/menus/a59affebd505acd1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    },
+    {
+      "name": "딥치즈 베이컨 포테이토",
+      "priceText": "5,500원",
+      "description": "더 크게, 더 맛있게! 딥치즈소스와 베이컨, 해쉬브라운의 풍성한 조화",
+      "image": "photos/menus/6682352fb164875f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/35202133/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

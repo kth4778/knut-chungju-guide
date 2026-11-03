@@ -1,0 +1,523 @@
+{
+  "menuCatalog": [
+    {
+      "name": "매운부타덮밥",
+      "priceText": "11,900원",
+      "description": "화끈하게 매운 특제 소스에 돼지고기를 강한 불로 볶아 불향을 입힌 매운 덮밥",
+      "image": "photos/menus/befbfe1c16d687e5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "큐브스테이크덮밥",
+      "priceText": "13,900원",
+      "description": "토시살을 강한 불에 빠르게 볶아 깊은 불향을 입히고, 육즙과 풍미를 살린 큐브스테이크 덮밥",
+      "image": "photos/menus/b76f3c958f2478b9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "항정살덮밥",
+      "priceText": "11,900원",
+      "description": "고소한 풍미와 쫄깃한 항정살에 매콤한 특제 소스를 더해 풍미와 감칠맛을 살린 덮밥",
+      "image": "photos/menus/24acea77f687699f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "마제소바",
+      "priceText": "11,900원",
+      "description": "비법 민찌에 특제 소스와 신선한 야채를 더해, 탱글한 면과 함께 비벼 먹는 소바",
+      "image": "photos/menus/01ad3a88a704a991.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "매운경양식왕돈까스",
+      "priceText": "11,900원",
+      "description": "바삭한 왕돈까스에 매콤한 특제 소스를 더해, 강렬한 매운맛과 자꾸 생각나는 돈까스",
+      "image": "photos/menus/e3e9d018f29ac89e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "경양식왕돈까스",
+      "priceText": "11,900원",
+      "description": "바삭한 왕돈까스에 깊고 진한 데미그라스 소스를 듬뿍 곁들인 경양식왕돈까스",
+      "image": "photos/menus/94871eb4bcc41241.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "고기듬뿍덮밥",
+      "priceText": "10,900원",
+      "description": "돼지목심을 특제 양념에 부드럽게 조리해, 촉촉한 식감과 풍성한 고기 맛을 담은 덮밥",
+      "image": "photos/menus/55cbda39d2360127.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "돼지갈비양념덮밥",
+      "priceText": "10,900원",
+      "description": "달콤짭짤한 돼지갈비 양념으로 맛을 낸 감칠맛 가득한 돼지고기 덮밥",
+      "image": "photos/menus/caa33198e4d3433c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "대창덮밥",
+      "priceText": "14,900원",
+      "description": "고소하고 쫄깃한 한우대창에 매콤한 특제 소스를 더하고 양파로 깔끔한 맛을 더한 덮밥",
+      "image": "photos/menus/9b6337391813898d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "새우장덮밥",
+      "priceText": "13,900원",
+      "description": "탱글한 새우를 직접 만든 비법 간장소스에 12시간 숙성해 새우의 풍미와 감칠맛을 살린 덮밥",
+      "image": "photos/menus/4c9c0a7026dc6253.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "연어덮밥",
+      "priceText": "15,900원",
+      "description": "접 숙성하고 손질한 연어를 도톰하게 썰어 담아 고소한 노른자에 찍어 먹는 덮밥",
+      "image": "photos/menus/2f62995c6a39ca15.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "연어새우장덮밥",
+      "priceText": "14,900원",
+      "description": "직접 숙성한 도톰한 연어와 비법 소스에 숙성한 탱글한 새우장을 한 번에 즐기는 풍성한 덮밥",
+      "image": "photos/menus/50e6ecb054e9e0d5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "치킨마요덮밥",
+      "priceText": "9,900원",
+      "description": "바삭한 닭튀김과 고소한 마요소스가 어우러진 남녀노소 인기 덮밥",
+      "image": "photos/menus/4059a9c454209421.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "카라이라멘",
+      "priceText": "11,000원",
+      "description": "진한 돈코츠 육수에 차슈와 특제 간장 숙성 계란장, 깊은 풍미가 있는 향미유를 더한 라멘",
+      "image": "photos/menus/9a163292c838c9af.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "돈코츠라멘",
+      "priceText": "11,000원",
+      "description": "진하고 고소한 돈코츠 육수에 차슈와 특제 간장 숙성 계란장을 더해 깊은 풍미가 있는 라멘",
+      "image": "photos/menus/c179cd9823382abf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "후쿠오카우동",
+      "priceText": "9,500원",
+      "description": "깊고 깔끔한 가쓰오 육수에 꼬치어묵과 바삭한 텐카츠, 풍성한 야채튀김을 더한 우동",
+      "image": "photos/menus/6708fb47dfce573a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "얼큰후쿠오카우동",
+      "priceText": "9,500원",
+      "description": "알싸한 매운맛을 더해 얼큰함을 살리고, 풍성한 건더기와 깊은 감칠맛을 즐기는 우동",
+      "image": "photos/menus/09ca21e5e17750d2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "닭튀김카레덮밥",
+      "priceText": "11,900원",
+      "description": "버섯과 양파의 풍미를 담은 부드러운 핵밥 카레에 바삭한 닭튀김과 양파후레이크를 더한 카레",
+      "image": "photos/menus/c3d56e16f82b03ad.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "고기듬뿍카레덮밥",
+      "priceText": "12,900원",
+      "description": "버섯과 양파의 풍미를 담은 부드러운 핵밥 카레에 목심을 가득 볶아 깊은 불향을 입힌 카레",
+      "image": "photos/menus/f202d0d7920a9075.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "돈카츠카레덮밥",
+      "priceText": "13,900원",
+      "description": "부드러운 핵밥 카레에 바삭하게 튀겨낸 등심돈까스를 듬뿍 얹른 카레",
+      "image": "photos/menus/597a72974d699ca1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]매운부타덮밥",
+      "priceText": "14,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/040ff27f34b76e0b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]큐브스테이크덮밥",
+      "priceText": "16,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/fa729d5ef83df70f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]항정살덮밥",
+      "priceText": "14,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/fbe77527ff4377af.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]고기듬뿍덮밥",
+      "priceText": "13,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/c2203b287e9377ea.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]돼지갈비양념덮밥",
+      "priceText": "13,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/9fdebd3ac153cfb4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]대창덮밥",
+      "priceText": "17,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/588f5d53649d355e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]새우장덮밥",
+      "priceText": "16,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/b3c2cdeae9a947ca.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]연어덮밥",
+      "priceText": "18,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/0642bd3a47fd70dd.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]연어새우장덮밥",
+      "priceText": "17,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/a9d67897fdccfb06.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]치킨마요덮밥",
+      "priceText": "12,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/632c4654c49b029c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]辛미소라멘(돈카츠)",
+      "priceText": "16,000원",
+      "description": "辛미소라멘+돈카츠",
+      "image": "photos/menus/408c81ae4f376874.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]辛미소라멘(닭튀김)",
+      "priceText": "15,500원",
+      "description": "辛미소라멘+닭튀김5pcs",
+      "image": "photos/menus/bfa335299e2c8991.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]카라이라멘(돈카츠)",
+      "priceText": "16,000원",
+      "description": "카라이라멘+돈카츠",
+      "image": "photos/menus/89a01dd8c958d519.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]카라이라멘(닭튀김)",
+      "priceText": "15,500원",
+      "description": "카라이라멘+닭튀김5pcs",
+      "image": "photos/menus/1701aafb54716eb3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]돈코츠라멘(돈카츠)",
+      "priceText": "16,000원",
+      "description": "돈코츠라멘+돈카츠",
+      "image": "photos/menus/3856d8f049edf7f2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]돈코츠라멘(닭튀김)",
+      "priceText": "15,500원",
+      "description": "돈코츠라멘+닭튀김 5개",
+      "image": "photos/menus/91500bdc31ecbbc4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]마제소바(돈카츠)",
+      "priceText": "16,900원",
+      "description": "마제소바+돈카츠",
+      "image": "photos/menus/26acf357f3842666.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]마제소바(닭튀김)",
+      "priceText": "16,400원",
+      "description": "마제소바+닭튀김5pcs",
+      "image": "photos/menus/327c430891005f7f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]후쿠오카우동(돈카츠)",
+      "priceText": "14,500원",
+      "description": "후쿠오카우동+돈카츠",
+      "image": "photos/menus/c2ffe34116cccf47.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]후쿠오카우동(닭튀김)",
+      "priceText": "14,000원",
+      "description": "후쿠오카우동+닭튀김5pcs",
+      "image": "photos/menus/3cebdb65ff718a73.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]얼큰후쿠오카우동(돈카츠)",
+      "priceText": "14,500원",
+      "description": "얼큰후쿠오카우동+돈카츠",
+      "image": "photos/menus/fff1ab77c5bb8b0f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]얼큰후쿠오카우동(닭튀김)",
+      "priceText": "14,000원",
+      "description": "얼큰후쿠오카우동+닭튀김5pcs",
+      "image": "photos/menus/cf251863ac470ef8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]닭튀김카레덮밥",
+      "priceText": "14,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/1279a3d520394b7e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]고기듬뿍카레덮밥",
+      "priceText": "15,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/d1e380f3076ee530.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "[정식]돈카츠카레덮밥",
+      "priceText": "16,900원",
+      "description": "미니우동+닭튀김2pcs 추가",
+      "image": "photos/menus/bfaaaf4aa3f6d521.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "매운미니돈까스",
+      "priceText": "5,500원",
+      "description": "바삭한 미니 돈까스에 매콤한 특제 소스를 더해, 작지만 강렬한 매운맛을 즐기는 메뉴",
+      "image": "photos/menus/d1e0d2132c5624cf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "닭튀김5pcs",
+      "priceText": "4,900원",
+      "description": "겉은 바삭하고 속은 촉촉하게 즐기는 한입 크기의 바삭한 닭튀김",
+      "image": "photos/menus/e8e7143385c4923c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "감자고로케 3pcs",
+      "priceText": "3,500원",
+      "description": "바삭한 튀김옷에 부드러운 감자가 가득한 감자고로케",
+      "image": "photos/menus/06a487055cd6d0ae.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "미니오꼬노미야끼 2pcs",
+      "priceText": "3,000원",
+      "description": "부드러운 반죽에 비법 소스와 가쓰오가루를 더한 미니 오꼬노미야끼",
+      "image": "photos/menus/597507f9339cf60e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "미니우동",
+      "priceText": "2,500원",
+      "description": "깊은 가쓰오 국물에 쫄깃한 우동면을 담아 깔끔하고 따뜻하게 즐기는 미니우동",
+      "image": "photos/menus/a9b8e39289fd7cd6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    },
+    {
+      "name": "미니 카레",
+      "priceText": "4,000원",
+      "description": "버섯과 양파의 풍미를 담은 부드러운 카레에 은은한 감칠맛을 더해 부담 없이 즐기는 미니카레",
+      "image": "photos/menus/58968a7f4d0c2e38.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1765058761/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

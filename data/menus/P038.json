@@ -1,0 +1,63 @@
+{
+  "menuCatalog": [
+    {
+      "name": "삼겹살도시락",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/1bbb8b0f037f3e74.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1973130023/menu/list"
+    },
+    {
+      "name": "제육도시락",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/306f98426e26aa40.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1973130023/menu/list"
+    },
+    {
+      "name": "돼지불백도시락",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/f8dec1e5fe50ca6c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1973130023/menu/list"
+    },
+    {
+      "name": "물냉면",
+      "priceText": "7,000원",
+      "description": "",
+      "image": "photos/menus/ef149a7889264752.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1973130023/menu/list"
+    },
+    {
+      "name": "비빔냉면",
+      "priceText": "7,000원",
+      "description": "",
+      "image": "photos/menus/a54fba36f7ab1f72.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1973130023/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1973130023/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

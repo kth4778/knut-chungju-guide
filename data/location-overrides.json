@@ -1,0 +1,1301 @@
+{
+  "P089": {
+    "latlng": [
+      36.9694356,
+      127.8721454
+    ],
+    "location": {
+      "precision": "building",
+      "building": "대학본부별관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/1737051079/location?filter=location&selected_place_id=1737051079",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P004": {
+    "latlng": [
+      36.9694356,
+      127.8721454
+    ],
+    "location": {
+      "precision": "building",
+      "building": "대학본부별관",
+      "floor": "3층",
+      "source": "https://m.place.naver.com/school/1737051079/location?filter=location&selected_place_id=1737051079",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P245": {
+    "latlng": [
+      36.9694598,
+      127.8711658
+    ],
+    "location": {
+      "precision": "building",
+      "building": "종합강의관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/17792199/location?filter=location&selected_place_id=17792199",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P246": {
+    "latlng": [
+      36.9694598,
+      127.8711658
+    ],
+    "location": {
+      "precision": "building",
+      "building": "종합강의관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/17792199/location?filter=location&selected_place_id=17792199",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P271": {
+    "latlng": [
+      36.9693869,
+      127.8713295
+    ],
+    "location": {
+      "precision": "building",
+      "building": "우체국",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/place/337322083/location?filter=location&selected_place_id=337322083",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P205": {
+    "latlng": [
+      36.9699969,
+      127.8726008
+    ],
+    "map": "https://map.naver.com/p/entry/place/20973405",
+    "location": {
+      "precision": "building",
+      "building": "대학본부",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/place/20973405/location",
+      "official": "https://www.ut.ac.kr/kor/sub06_02_03.do",
+      "checked": "2026-10-24",
+      "note": "보건실 공식 안내의 대학본부 1층 기준 · 기존 별관 링크 수정"
+    }
+  },
+  "P201": {
+    "latlng": [
+      36.9689477,
+      127.8726674
+    ],
+    "location": {
+      "precision": "building",
+      "building": "국원피트니스클럽",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/64705339/location?filter=location&selected_place_id=64705339",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P150": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "3층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P256": {
+    "latlng": [
+      36.9694356,
+      127.8721454
+    ],
+    "location": {
+      "precision": "building",
+      "building": "대학본부별관",
+      "floor": "2층",
+      "source": "https://m.place.naver.com/school/1737051079/location?filter=location&selected_place_id=1737051079",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P257": {
+    "latlng": [
+      36.9698376,
+      127.8709713
+    ],
+    "location": {
+      "precision": "building",
+      "building": "휴스퀘어관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1852265906/location?filter=location&selected_place_id=1852265906",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P180": {
+    "latlng": [
+      36.9680459,
+      127.8699379
+    ],
+    "location": {
+      "precision": "building",
+      "building": "CU 국립한국교통대도서관",
+      "floor": "3층",
+      "source": "https://m.place.naver.com/cvs/38243686/location?filter=location&selected_place_id=38243686",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P183": {
+    "latlng": [
+      36.9696409,
+      127.8714809
+    ],
+    "location": {
+      "precision": "building",
+      "building": "CU 한국교통대생활관점",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/cvs/36605664/location?filter=location&selected_place_id=36605664",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P190": {
+    "latlng": [
+      36.9693768,
+      127.871429
+    ],
+    "location": {
+      "precision": "building",
+      "building": "NH농협은행 한국교통대출장소",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/place/13409634/location?filter=location&selected_place_id=13409634",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P105": {
+    "latlng": null,
+    "location": {
+      "precision": "unverified",
+      "note": "세부 위치 확인 중 · 원본 지도 링크를 확인하세요",
+      "checked": "2026-10-24"
+    }
+  },
+  "P206": {
+    "latlng": [
+      36.9687839,
+      127.8711021
+    ],
+    "location": {
+      "precision": "near-building",
+      "building": "대학원",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792211/location?filter=location&selected_place_id=17792211",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "주변 건물 기준 · 야외 지점의 정확한 위치는 확인 중"
+    }
+  },
+  "P216": {
+    "latlng": [
+      36.9729763,
+      127.8725749
+    ],
+    "location": {
+      "precision": "building",
+      "building": "인문사회관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/17792205/location?filter=location&selected_place_id=17792205",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P123": {
+    "latlng": [
+      36.9729268,
+      127.8725993
+    ],
+    "location": {
+      "precision": "building",
+      "building": "블루포트 한국교통대학교점",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/restaurant/1693570853/location?filter=location&selected_place_id=1693570853",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P140": {
+    "latlng": [
+      36.972955,
+      127.8726735
+    ],
+    "location": {
+      "precision": "building",
+      "building": "국립인문사회예술대학",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1685371545/location?filter=location&selected_place_id=1685371545",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P244": {
+    "latlng": [
+      36.9713501,
+      127.871802
+    ],
+    "location": {
+      "precision": "building",
+      "building": "건축관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792150/location?filter=location&selected_place_id=17792150",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P247": {
+    "latlng": [
+      36.9694598,
+      127.8711658
+    ],
+    "location": {
+      "precision": "building",
+      "building": "종합강의관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/17792199/location?filter=location&selected_place_id=17792199",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P167": {
+    "latlng": [
+      36.9679115,
+      127.8710826
+    ],
+    "location": {
+      "precision": "building",
+      "building": "국원노천극장",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1512985053/location?filter=location&selected_place_id=1512985053",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P170": {
+    "latlng": [
+      36.9694598,
+      127.8711658
+    ],
+    "location": {
+      "precision": "building",
+      "building": "종합강의관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792199/location?filter=location&selected_place_id=17792199",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P172": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P189": {
+    "latlng": null,
+    "location": {
+      "precision": "unverified",
+      "note": "세부 위치 확인 중 · 원본 지도 링크를 확인하세요",
+      "checked": "2026-10-24"
+    }
+  },
+  "P101": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "3층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P114": {
+    "latlng": [
+      36.9736229,
+      127.8744162
+    ],
+    "location": {
+      "precision": "reported-point",
+      "building": "원본 지도 제보 지점",
+      "floor": "",
+      "source": "https://map.naver.com/p/entry/coordinates/3zTh8m,2AnaE5?c=3zTgxt%2C2Ana7g%2C17.53%2C0%2C0%2C0%2Cdh",
+      "checked": "2026-10-24",
+      "note": "수집 자료에 첨부된 네이버 지도 핀을 복원함 · 산책 경로 전체나 현장 출입구를 확인한 위치는 아니에요."
+    }
+  },
+  "P133": {
+    "latlng": [
+      36.9740109,
+      127.8727812
+    ],
+    "location": {
+      "precision": "building",
+      "building": "예성중원관리동",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1425332252/location?filter=location&selected_place_id=1425332252",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P149": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "2층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P152": {
+    "latlng": [
+      36.973454,
+      127.871749
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중원생활관",
+      "floor": "6층",
+      "source": "https://m.place.naver.com/place/19916329/location?filter=location&selected_place_id=19916329",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P153": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "2·3층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P251": {
+    "latlng": [
+      36.9694598,
+      127.8711658
+    ],
+    "location": {
+      "precision": "building",
+      "building": "종합강의관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/17792199/location?filter=location&selected_place_id=17792199",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P255": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P267": {
+    "latlng": [
+      36.9685345,
+      127.8735586
+    ],
+    "location": {
+      "precision": "building",
+      "building": " 국제청년협력센터",
+      "floor": "3층",
+      "source": "https://m.place.naver.com/school/2146256583/location?filter=location&selected_place_id=2146256583",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P169": {
+    "latlng": [
+      36.9679182,
+      127.8687099
+    ],
+    "location": {
+      "precision": "building",
+      "building": "대운동장",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1867870762/location?filter=location&selected_place_id=1867870762",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P272": {
+    "latlng": [
+      36.9688816,
+      127.8727814
+    ],
+    "location": {
+      "precision": "building",
+      "building": "학생회관",
+      "floor": "205호",
+      "source": "https://m.place.naver.com/school/17792159/location?filter=location&selected_place_id=17792159",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P173": {
+    "latlng": [
+      36.9698376,
+      127.8709713
+    ],
+    "location": {
+      "precision": "building",
+      "building": "휴스퀘어관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1852265906/location?filter=location&selected_place_id=1852265906",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P186": {
+    "latlng": [
+      36.973455,
+      127.8738613
+    ],
+    "location": {
+      "precision": "building",
+      "building": "GS25 교통대생활관점",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/cvs/1106629601/location?filter=location&selected_place_id=1106629601",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P097": {
+    "latlng": [
+      36.9695231,
+      127.8688167
+    ],
+    "location": {
+      "precision": "near-building",
+      "building": "IT관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792201/location?filter=location&selected_place_id=17792201",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "주변 건물 기준 · 야외 지점의 정확한 위치는 확인 중"
+    }
+  },
+  "P098": {
+    "latlng": [
+      36.9692129,
+      127.8738366
+    ],
+    "map": "https://map.naver.com/p/entry/place/32302660",
+    "location": {
+      "precision": "building",
+      "building": "경영항공관 · SPACE K",
+      "floor": "",
+      "source": "https://m.place.naver.com/place/32302660/location",
+      "official": "https://ysc.ut.ac.kr/cop/smt/1/SCH2/kor/sub01_01_03/monthCal.do?month=1&year=2022",
+      "checked": "2026-10-24",
+      "note": "공식 개관 일정의 경영항공관 SPACE K 기준 · 실별 출입구와 층은 확인 중"
+    }
+  },
+  "P099": {
+    "latlng": [
+      36.9692129,
+      127.8738366
+    ],
+    "location": {
+      "precision": "building",
+      "building": "경영항공관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/32302660/location?filter=location&selected_place_id=32302660",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P100": {
+    "latlng": [
+      36.9692129,
+      127.8738366
+    ],
+    "map": "https://map.naver.com/p/entry/place/32302660",
+    "location": {
+      "precision": "building",
+      "building": "경영항공관 · SPACE K",
+      "floor": "",
+      "source": "https://m.place.naver.com/place/32302660/location",
+      "official": "https://ysc.ut.ac.kr/cop/smt/1/SCH2/kor/sub01_01_03/monthCal.do?month=1&year=2022",
+      "checked": "2026-10-24",
+      "note": "공식 개관 일정의 경영항공관 SPACE K 기준 · 실별 출입구와 층은 확인 중"
+    }
+  },
+  "P103": {
+    "latlng": [
+      36.9722512,
+      127.8719375
+    ],
+    "location": {
+      "precision": "near-building",
+      "building": "건설환경관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792120/location?filter=location&selected_place_id=17792120",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "주변 건물 기준 · 야외 지점의 정확한 위치는 확인 중"
+    }
+  },
+  "P104": {
+    "latlng": null,
+    "location": {
+      "precision": "unverified",
+      "note": "세부 위치 확인 중 · 원본 지도 링크를 확인하세요",
+      "checked": "2026-10-24"
+    }
+  },
+  "P193": {
+    "latlng": [
+      36.9710192,
+      127.8719912
+    ],
+    "location": {
+      "precision": "reported-point",
+      "building": "원본 지도 제보 지점",
+      "floor": "",
+      "source": "https://map.naver.com/p/entry/coordinates/3zTaPe,2An3S8?c=3zTaGa%2C2An3QT%2C19.23%2C0%2C0%2C0%2Cdh",
+      "checked": "2026-10-24",
+      "note": "수집 자료에 첨부된 네이버 지도 핀을 복원함 · 산책 경로 전체나 현장 출입구를 확인한 위치는 아니에요."
+    }
+  },
+  "P194": {
+    "latlng": null,
+    "location": {
+      "precision": "unverified",
+      "note": "세부 위치 확인 중 · 원본 지도 링크를 확인하세요",
+      "checked": "2026-10-24"
+    }
+  },
+  "P279": {
+    "latlng": [
+      36.9679182,
+      127.8687099
+    ],
+    "location": {
+      "precision": "building",
+      "building": "대운동장",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1867870762/location?filter=location&selected_place_id=1867870762",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P109": {
+    "latlng": [
+      36.9668342,
+      127.873402
+    ],
+    "location": {
+      "precision": "building",
+      "building": "국원생활관",
+      "floor": "5층",
+      "source": "https://m.place.naver.com/school/17792204/location?filter=location&selected_place_id=17792204",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P110": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P113": {
+    "latlng": [
+      36.9735198,
+      127.8738752
+    ],
+    "location": {
+      "precision": "building",
+      "building": "대원생활관",
+      "floor": "2층",
+      "source": "https://m.place.naver.com/school/1995623757/location?filter=location&selected_place_id=1995623757",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P203": {
+    "latlng": [
+      36.9735198,
+      127.8738752
+    ],
+    "location": {
+      "precision": "building",
+      "building": "대원생활관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1995623757/location?filter=location&selected_place_id=1995623757",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P115": {
+    "latlng": null,
+    "location": {
+      "precision": "unverified",
+      "note": "세부 위치 확인 중 · 원본 지도 링크를 확인하세요",
+      "checked": "2026-10-24"
+    }
+  },
+  "P116": {
+    "latlng": [
+      36.9699969,
+      127.8726008
+    ],
+    "location": {
+      "precision": "building",
+      "building": "대학본부",
+      "floor": "3층",
+      "source": "https://m.place.naver.com/school/20973405/location?filter=location&selected_place_id=20973405",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P117": {
+    "latlng": [
+      36.9699969,
+      127.8726008
+    ],
+    "location": {
+      "precision": "near-building",
+      "building": "대학본부",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/20973405/location?filter=location&selected_place_id=20973405",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "주변 건물 기준 · 야외 지점의 정확한 위치는 확인 중"
+    }
+  },
+  "P118": {
+    "latlng": [
+      36.9699969,
+      127.8726008
+    ],
+    "location": {
+      "precision": "near-building",
+      "building": "대학본부",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/20973405/location?filter=location&selected_place_id=20973405",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "주변 건물 기준 · 야외 지점의 정확한 위치는 확인 중"
+    }
+  },
+  "P119": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P284": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "near-building",
+      "building": "중앙도서관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "주변 건물 기준 · 야외 지점의 정확한 위치는 확인 중"
+    }
+  },
+  "P208": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P122": {
+    "latlng": [
+      36.9713744,
+      127.8693068
+    ],
+    "location": {
+      "precision": "reported-point",
+      "building": "원본 지도 제보 지점",
+      "floor": "",
+      "source": "https://map.naver.com/p/entry/coordinates/3zT3Qg,2An4Nq?c=3zT06r%2C2An4Nq%2C16.54%2C0%2C0%2C0%2Cdh",
+      "checked": "2026-10-24",
+      "note": "수집 자료에 첨부된 네이버 지도 핀을 복원함 · 산책 경로 전체나 현장 출입구를 확인한 위치는 아니에요."
+    }
+  },
+  "P124": {
+    "latlng": [
+      36.9682333,
+      127.8730216
+    ],
+    "location": {
+      "precision": "building",
+      "building": "테크노관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792168/location?filter=location&selected_place_id=17792168",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P126": {
+    "latlng": [
+      36.9668258,
+      127.8730097
+    ],
+    "location": {
+      "precision": "building",
+      "building": "소담스퀘어 충북",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/place/1037614711/location?filter=location&selected_place_id=1037614711",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P128": {
+    "latlng": null,
+    "location": {
+      "precision": "unverified",
+      "note": "세부 위치 확인 중 · 원본 지도 링크를 확인하세요",
+      "checked": "2026-10-24"
+    }
+  },
+  "P129": {
+    "latlng": [
+      36.9709217,
+      127.8742459
+    ],
+    "location": {
+      "precision": "near-building",
+      "building": "스마트ICT관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1287064570/location?filter=location&selected_place_id=1287064570",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "주변 건물 기준 · 야외 지점의 정확한 위치는 확인 중"
+    }
+  },
+  "P131": {
+    "latlng": [
+      36.971813,
+      127.8760657
+    ],
+    "location": {
+      "precision": "reported-point",
+      "building": "원본 지도 제보 지점",
+      "floor": "",
+      "source": "https://map.naver.com/p/entry/coordinates/3zTlqp,2An5Wa?c=3zTgno%2C2An3Ld%2C16.33%2C0%2C0%2C0%2Cdh",
+      "checked": "2026-10-24",
+      "note": "수집 자료에 첨부된 네이버 지도 핀을 복원함 · 산책 경로 전체나 현장 출입구를 확인한 위치는 아니에요."
+    }
+  },
+  "P132": {
+    "latlng": [
+      36.9740109,
+      127.8727812
+    ],
+    "location": {
+      "precision": "building",
+      "building": "예성중원관리동",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1425332252/location?filter=location&selected_place_id=1425332252",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P134": {
+    "latlng": [
+      36.9740109,
+      127.8727812
+    ],
+    "location": {
+      "precision": "building",
+      "building": "예성중원관리동",
+      "floor": "2층",
+      "source": "https://m.place.naver.com/school/1425332252/location?filter=location&selected_place_id=1425332252",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P239": {
+    "latlng": [
+      36.9685345,
+      127.8735586
+    ],
+    "location": {
+      "precision": "building",
+      "building": " 국제청년협력센터",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/2146256583/location?filter=location&selected_place_id=2146256583",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P138": {
+    "latlng": [
+      36.9729268,
+      127.8725993
+    ],
+    "location": {
+      "precision": "building",
+      "building": "블루포트 한국교통대학교점",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/restaurant/1693570853/location?filter=location&selected_place_id=1693570853",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P139": {
+    "latlng": [
+      36.9729763,
+      127.8725749
+    ],
+    "location": {
+      "precision": "near-building",
+      "building": "인문사회관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792205/location?filter=location&selected_place_id=17792205",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "주변 건물 기준 · 야외 지점의 정확한 위치는 확인 중"
+    }
+  },
+  "P141": {
+    "latlng": [
+      36.9729763,
+      127.8725749
+    ],
+    "location": {
+      "precision": "building",
+      "building": "인문사회관",
+      "floor": "옥상",
+      "source": "https://m.place.naver.com/school/17792205/location?filter=location&selected_place_id=17792205",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P142": {
+    "latlng": null,
+    "location": {
+      "precision": "unverified",
+      "note": "세부 위치 확인 중 · 원본 지도 링크를 확인하세요",
+      "checked": "2026-10-24"
+    }
+  },
+  "P143": {
+    "latlng": [
+      36.9729763,
+      127.8725749
+    ],
+    "location": {
+      "precision": "near-building",
+      "building": "인문사회관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792205/location?filter=location&selected_place_id=17792205",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "주변 건물 기준 · 야외 지점의 정확한 위치는 확인 중"
+    }
+  },
+  "P144": {
+    "latlng": [
+      36.9694598,
+      127.8711658
+    ],
+    "location": {
+      "precision": "building",
+      "building": "종합강의관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/17792199/location?filter=location&selected_place_id=17792199",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P145": {
+    "latlng": [
+      36.9694598,
+      127.8711658
+    ],
+    "location": {
+      "precision": "building",
+      "building": "종합강의관",
+      "floor": "3층",
+      "source": "https://m.place.naver.com/school/17792199/location?filter=location&selected_place_id=17792199",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P146": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "2층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P147": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "2층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P148": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "2층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P248": {
+    "latlng": [
+      36.9679343,
+      127.8698709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중앙도서관",
+      "floor": "5층",
+      "source": "https://m.place.naver.com/school/17792124/location?filter=location&selected_place_id=17792124",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P151": {
+    "latlng": [
+      36.973454,
+      127.871749
+    ],
+    "location": {
+      "precision": "building",
+      "building": "중원생활관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/place/19916329/location?filter=location&selected_place_id=19916329",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P154": {
+    "latlng": [
+      36.9691299,
+      127.8696093
+    ],
+    "location": {
+      "precision": "near-building",
+      "building": "미래융합정보관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792102/location?filter=location&selected_place_id=17792102",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "주변 건물 기준 · 야외 지점의 정확한 위치는 확인 중"
+    }
+  },
+  "P309": {
+    "latlng": [
+      36.9694598,
+      127.8711658
+    ],
+    "location": {
+      "precision": "building",
+      "building": "종합강의관",
+      "floor": "1층",
+      "source": "https://m.place.naver.com/school/17792199/location?filter=location&selected_place_id=17792199",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P261": {
+    "latlng": [
+      36.9682333,
+      127.8730216
+    ],
+    "location": {
+      "precision": "building",
+      "building": "테크노관",
+      "floor": "2층",
+      "source": "https://m.place.naver.com/school/17792168/location?filter=location&selected_place_id=17792168",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P163": {
+    "latlng": [
+      36.9717583,
+      127.8714499
+    ],
+    "location": {
+      "precision": "reported-point",
+      "building": "원본 지도 제보 지점",
+      "floor": "",
+      "source": "https://map.naver.com/p/entry/coordinates/3zT9pV,2An5Nl?c=3zT9UG%2C2An6dP%2C19.35%2C0%2C0%2C0%2Cdh",
+      "checked": "2026-10-24",
+      "note": "수집 자료에 첨부된 네이버 지도 핀을 복원함 · 산책 경로 전체나 현장 출입구를 확인한 위치는 아니에요."
+    }
+  },
+  "P164": {
+    "latlng": [
+      36.9688816,
+      127.8727814
+    ],
+    "location": {
+      "precision": "building",
+      "building": "학생회관",
+      "floor": "3층",
+      "source": "https://m.place.naver.com/school/17792159/location?filter=location&selected_place_id=17792159",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P165": {
+    "latlng": [
+      36.9688816,
+      127.8727814
+    ],
+    "location": {
+      "precision": "building",
+      "building": "학생회관",
+      "floor": "4층",
+      "source": "https://m.place.naver.com/school/17792159/location?filter=location&selected_place_id=17792159",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P166": {
+    "latlng": [
+      36.972955,
+      127.8726735
+    ],
+    "location": {
+      "precision": "building",
+      "building": "국립인문사회예술대학",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1685371545/location?filter=location&selected_place_id=1685371545",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P270": {
+    "latlng": [
+      36.9668342,
+      127.873402
+    ],
+    "location": {
+      "precision": "building",
+      "building": "국원생활관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/17792204/location?filter=location&selected_place_id=17792204",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P168": {
+    "latlng": [
+      36.9666237,
+      127.8723709
+    ],
+    "location": {
+      "precision": "building",
+      "building": "국원쉼터",
+      "floor": null,
+      "source": "https://m.place.naver.com/place/19912846/location?filter=location&selected_place_id=19912846",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P319": {
+    "latlng": [
+      36.9735198,
+      127.8738752
+    ],
+    "location": {
+      "precision": "building",
+      "building": "대원생활관",
+      "floor": null,
+      "source": "https://m.place.naver.com/school/1995623757/location?filter=location&selected_place_id=1995623757",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P171": {
+    "latlng": [
+      36.9705139,
+      127.8687143
+    ],
+    "location": {
+      "precision": "building",
+      "building": "주차장",
+      "floor": null,
+      "source": "https://m.place.naver.com/place/1569375294/location?filter=location&selected_place_id=1569375294",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  },
+  "P320": {
+    "latlng": [
+      36.9687839,
+      127.8711021
+    ],
+    "location": {
+      "precision": "building",
+      "building": "대학원",
+      "floor": "302호",
+      "source": "https://m.place.naver.com/school/17792211/location?filter=location&selected_place_id=17792211",
+      "official": "https://www.ut.ac.kr/prog/campusMap/kor/sub01_07_02/list.do?campus_code=dorm1",
+      "checked": "2026-10-24",
+      "note": "건물 위치 기준 · 층과 호실은 수집 주소 참고"
+    }
+  }
+}

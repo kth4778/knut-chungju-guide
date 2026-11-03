@@ -1,0 +1,273 @@
+{
+  "menuCatalog": [
+    {
+      "name": "감자하드볼",
+      "priceText": "5,800원",
+      "description": "고소한 바게트 빵속에 부드러운 감자가 듬뿍.롤치즈,크림치즈,햄,마요버터소스와 같이 즐기세요",
+      "image": "photos/menus/1fa97c21f370484f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "소금빵",
+      "priceText": "2,800원",
+      "description": "겉바속촉의 정석. 고소한 무염버터가 속을 촉촉하게, 겉은 바삭바삭. 듀레베이커리의 대표빵",
+      "image": "photos/menus/886f6ca713878e85.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "버터떡",
+      "priceText": "2,800원",
+      "description": "겉은 바삭하고, 속은 쫀득쫀득, 고소한 버터풍미 자꾸만 손이 가는 듀레 버터떡!",
+      "image": "photos/menus/e7784813a1c0d4ee.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "통마늘빵",
+      "priceText": "6,300원",
+      "description": "듀레베이커리의 시그니처 빵",
+      "image": "photos/menus/d684dfe5c8fa2250.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "홍국쌀식빵",
+      "priceText": "7,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "티슈식빵",
+      "priceText": "6,500원",
+      "description": "",
+      "image": "photos/menus/e27d0283dbf0d939.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "순우유1호",
+      "priceText": "35,000원",
+      "description": "순수한 맛의 케이크를 원하실때는 우유크림으로 만든 순우유케이크를 선택하세요!",
+      "image": "photos/menus/87c6688f407ad3b7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "블루베리생크림2호",
+      "priceText": "45,000원",
+      "description": "촉촉한 시트, 영양많은 블루베리와 동물성생크림으로 만들어 고소한 블루베리 크림",
+      "image": "photos/menus/2b4f04648279ee70.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "키리쉬2호",
+      "priceText": "45,000원",
+      "description": "초코시트와 생크림, 새콤달콤한 사워체리가 샌드된 초코케이크",
+      "image": "photos/menus/b724fc147ca71179.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "블루베리생크림미니",
+      "priceText": "19,000원",
+      "description": "1인∼2인이 드시기 딱 좋은 앙증맞은 미니케이크! 맛있는 블루베리와 블루베리잼 샌드!",
+      "image": "photos/menus/df6a4972158be02a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "[시즌종료]딸기생크림1호",
+      "priceText": "39,000원",
+      "description": "촉촉한 시트 속에 맛있는 생딸기를 듬뿍, 동물성생크림으로 만들어 고소한 크림",
+      "image": "photos/menus/3d2d8e9798f506ab.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "[시즌종료]초코딸기생크림1호",
+      "priceText": "39,000원",
+      "description": "촉촉한 초코시트,생딸기 듬뿍,동물성생크림으로 만든 고소한 생크림, 다크초콜릿을 뿌린 케이크",
+      "image": "photos/menus/bbf66a50a1475a3a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "[시즌종료]초코딸기생크림2호",
+      "priceText": "45,000원",
+      "description": "촉촉한 초코시트,생딸기 듬뿍,동물성생크림으로 만든 고소한 생크림, 다크초콜릿을 뿌린 케이크",
+      "image": "photos/menus/3b1ee3978b34fa99.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "[시즌종료]딸기생크림미니",
+      "priceText": "19,000원",
+      "description": "1인∼2인이 드시기 딱 좋은 앙증맞은 미니케이크! 딸기 샌드, 동물성생크림 사용!",
+      "image": "photos/menus/700287bae4acdde3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "[시즌종료]초코딸기생크림미니",
+      "priceText": "19,000원",
+      "description": "1인∼2인이 드시기 딱 좋은 앙증맞은 미니케이크! 다크초콜릿을 우수수 뿌린 맛있는 케이크",
+      "image": "photos/menus/3cbea603620f1846.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "[시즌종료] 딸기생크림2호",
+      "priceText": "45,000원",
+      "description": "촉촉한 시트 속에 맛있는 생딸기를 듬뿍, 동물성생크림으로 만들어 고소한 크림",
+      "image": "photos/menus/6aa59416cd4e22e1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "[1일전예약] 4호케이크",
+      "priceText": "가격 변동",
+      "description": "망고, 키리쉬, 블루베리, 순우유 4호 케이크 주문 가능합니다",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "[1일전예약] 4호2단케이크",
+      "priceText": "가격 변동",
+      "description": "특별한 날엔 4호2단 케이크를 주문하세요. (망고, 키리쉬, 블루베리, 순우유 가능)",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "카페라떼",
+      "priceText": "6,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "바닐라라떼",
+      "priceText": "6,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "소금커피",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "흑임자아인슈패너",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "화이트아인슈페너",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "땅콩크림라떼",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "초코라떼",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    },
+    {
+      "name": "[시즌음료]홍강보신차",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1273966958/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.06.19"
+    }
+  ]
+}

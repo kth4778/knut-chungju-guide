@@ -1,0 +1,153 @@
+{
+  "menuCatalog": [
+    {
+      "name": "국내산생삼겹살",
+      "priceText": "10,900원",
+      "description": "국내산 생삼겹살 (180g)",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "물냉면",
+      "priceText": "5,900원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "비빔냉면",
+      "priceText": "5,900원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "된장찌개",
+      "priceText": "3,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "잔치국수",
+      "priceText": "5,900원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "냄비라면",
+      "priceText": "3,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "셀프볶음밥",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "공기밥",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "소주",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "맥주",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "청하",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "별빛청하",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "막걸리",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    },
+    {
+      "name": "음료수",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1089475881/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.09.01"
+    }
+  ]
+}

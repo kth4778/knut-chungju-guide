@@ -1,0 +1,93 @@
+{
+  "menuCatalog": [
+    {
+      "name": "순대국(비조리)(보통)",
+      "priceText": "11,000원",
+      "description": "순대국(비조리)",
+      "image": "photos/menus/8376b88aad69d6e8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/19888528/menu/list"
+    },
+    {
+      "name": "힐데스하임",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/19888528/menu/list"
+    },
+    {
+      "name": "공기밥",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/19888528/menu/list"
+    },
+    {
+      "name": "펩시콜라",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/20ffbbf394e7d3b4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/19888528/menu/list"
+    },
+    {
+      "name": "칠성사이다",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/19888528/menu/list"
+    },
+    {
+      "name": "갈아만든배",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/9bff4d8aba8cd9a6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/19888528/menu/list"
+    },
+    {
+      "name": "탐스제로 파인애플",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/19888528/menu/list"
+    },
+    {
+      "name": "갈배사이다",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/52b55cc01b8e5160.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/19888528/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/19888528/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

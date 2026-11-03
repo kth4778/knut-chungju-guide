@@ -1,0 +1,443 @@
+{
+  "menuCatalog": [
+    {
+      "name": "버터 크루아상",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/bb5f19907676ea43.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "소금 크루아상",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/2c78c727003ad215.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "퀸아망",
+      "priceText": "4,500원",
+      "description": "",
+      "image": "photos/menus/6ff0cfe8abe62593.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "에그마요소금빵",
+      "priceText": "4,500원",
+      "description": "",
+      "image": "photos/menus/8934d6ba3ca9826c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "베이글샌드위치(반개)",
+      "priceText": "3,800원",
+      "description": "소스+상추+치즈+토마토+햄",
+      "image": "photos/menus/4cde565932bf2a39.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "단호박베이글샌드위치(반개)",
+      "priceText": "4,200원",
+      "description": "단호박+크림치즈+토마토+상추",
+      "image": "photos/menus/dc5d1e3208e79eac.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "크루아상샌드위치",
+      "priceText": "6,800원",
+      "description": "컷팅은 어렵습니다:)",
+      "image": "photos/menus/cd459b953b6d22e2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "초코 크루아상",
+      "priceText": "5,300원",
+      "description": "",
+      "image": "photos/menus/72a59fcd0386fede.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "오자망 크루아상",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/f400ba7beba303e6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "카야잼크루아상",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "고구마 깜빠뉴",
+      "priceText": "6,500원",
+      "description": "건포도 액종을 숙성시켜 만든 발효종으로 반죽을 하여 하루 더 숙성시켜서 만드는 깜빠뉴에 삶아 설탕을 입힌 고구마와 콜비잭 치즈를 넣어 만드는 빵입니다. 계란, 버터, 개량제를 넣지 않습니다. 치즈가 들어있는 빵이라 드시기 직전 치즈가 살짝녹도록 전자렌지에 1분정도 데워드시는 것이 식감과 맛을 더 좋게 해줍니다.",
+      "image": "photos/menus/a9ada4e45e1f9adc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "토마토치즈 깜빠뉴",
+      "priceText": "6,500원",
+      "description": "",
+      "image": "photos/menus/d5f4e43ed1f6d242.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "무화과 깜빠뉴",
+      "priceText": "6,000원",
+      "description": "건포도 액종을 숙성시켜 만든 발효종으로 반죽을 하여 하루 더 숙성시켜서 만드는 깜빠뉴에 와인에 졸인 무화과를 넣어 만듭니다. 계란, 버터, 설탕, 개량제가 들어가지 않는 비건빵입니다. 와인에 졸인 무화과의 단맛과 큼직한 무화과가 씹히는 식감을 즐기실 수 있습니다.",
+      "image": "photos/menus/fd93d084fc60f5ed.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "단호박크림치즈 깜빠뉴",
+      "priceText": "6,800원",
+      "description": "건포도 액종을 숙성시켜 만든 발효종으로 반죽을 하여 하루 더 숙성시켜서 만드는 깜빠뉴에 단호박과 크림치즈를 넣어 만듭니다. 사워한 크림치즈와 어우러지는 단호박의 맛을 느끼실 수 있습니다.",
+      "image": "photos/menus/8b27bac0679099d9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "크랜베리 깜빠뉴",
+      "priceText": "4,800원",
+      "description": "건포도 액종을 숙성시켜 만든 발효종으로 반죽을 하여 하루 더 숙성시켜서 만드는 깜빠뉴에 크랜베리와 구운 호두를 넣었습니다. 계란, 버터, 설탕, 개량제가 들어가지 않는 비건빵입니다. 보기보다 단단하지 않고 씹으실수록 크랜베리의 순수한 단맛을 느끼실수 있습니다.",
+      "image": "photos/menus/5a1361f8e4fbcd5d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "소금빵",
+      "priceText": "3,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "명란소금빵",
+      "priceText": "3,800원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "앙버터소금빵",
+      "priceText": "4,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "잠봉뵈르소금빵",
+      "priceText": "5,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "플레인 베이글",
+      "priceText": "3,300원",
+      "description": "",
+      "image": "photos/menus/866dff9fbdce3958.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "버터샌드(담아샌드)",
+      "priceText": "17,000원",
+      "description": "",
+      "image": "photos/menus/7550268822272c25.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "바스크치즈조각케이크",
+      "priceText": "6,800원",
+      "description": "",
+      "image": "photos/menus/3a2ef6261f3bd3cb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "바스크치즈케이크(2호)",
+      "priceText": "42,000원",
+      "description": "밀가루가 들어가지 않은 크림 치즈와 생크림으로 만들었습니다",
+      "image": "photos/menus/e444abde8b1408f1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "당근케이크(조각)",
+      "priceText": "6,300원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "아메리카노",
+      "priceText": "3,800원",
+      "description": "기본 2샷:)",
+      "image": "photos/menus/c3eea95936144558.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "카페라떼",
+      "priceText": "4,500원",
+      "description": "기본 2샷:)",
+      "image": "photos/menus/b3dc22202e539999.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "바닐라라떼",
+      "priceText": "5,000원",
+      "description": "기본 2샷:)",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "카페모카",
+      "priceText": "4,800원",
+      "description": "기본 2샷:)",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "초코라떼",
+      "priceText": "5,000원",
+      "description": "휘핑크림x",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "밀크티",
+      "priceText": "6,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "리얼딸기라떼",
+      "priceText": "6,000원",
+      "description": "ICE로만 가능합니다:)",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "말차라떼",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/f17f14cc6e9ddfdc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "자몽에이드",
+      "priceText": "6,000원",
+      "description": "",
+      "image": "photos/menus/eb94ec74fee6ccb9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "레몬에이드",
+      "priceText": "6,000원",
+      "description": "",
+      "image": "photos/menus/dbabc6d860d4fc3d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "카모마일",
+      "priceText": "4,300원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "와일드베리스",
+      "priceText": "4,300원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "페퍼민트",
+      "priceText": "4,300원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "얼그레이",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "순수감귤주스",
+      "priceText": "2,000원",
+      "description": "어린이음료:)",
+      "image": "photos/menus/896ecea0292a4297.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "유기농애플주스",
+      "priceText": "2,000원",
+      "description": "어린이음료:)",
+      "image": "photos/menus/2b3d34e221951b99.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "유기농유자주스",
+      "priceText": "2,000원",
+      "description": "어린이음료:)",
+      "image": "photos/menus/3c74ca7330d331ae.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "발사믹오일",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    },
+    {
+      "name": "미니포션잼(딸기잼)",
+      "priceText": "1,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1190980151/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

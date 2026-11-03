@@ -1,0 +1,323 @@
+{
+  "menuCatalog": [
+    {
+      "name": "가츠동",
+      "priceText": "5,700원",
+      "description": "",
+      "image": "photos/menus/6c9f308e2cc04558.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "규동(소불고기)",
+      "priceText": "7,500원",
+      "description": "",
+      "image": "photos/menus/bc81fe2a56e3956c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "선지해장국",
+      "priceText": "9,000원",
+      "description": "",
+      "image": "photos/menus/456030f5e27dd578.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "핫제육덮밥",
+      "priceText": "7,500원",
+      "description": "",
+      "image": "photos/menus/15d2ca7520a1406c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "돈치정식 도시락",
+      "priceText": "8,800원",
+      "description": "돈까스+치킨+제육+불고기+우동국+밥",
+      "image": "photos/menus/4259afb555549c97.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "김치 가츠동",
+      "priceText": "6,200원",
+      "description": "",
+      "image": "photos/menus/85f44872159a6b27.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "매운 가츠동",
+      "priceText": "6,200원",
+      "description": "",
+      "image": "photos/menus/a846e364f4f64e86.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "콤보 도시락",
+      "priceText": "6,500원",
+      "description": "돈까스+햄버그+치킨+기본반찬",
+      "image": "photos/menus/8a3013b714e57a90.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "생선콤보",
+      "priceText": "6,500원",
+      "description": "생선까스+햄버그+치킨+기본반찬",
+      "image": "photos/menus/6c7e1402490d7e6d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "제육 도시락",
+      "priceText": "6,600원",
+      "description": "제육+기본반찬",
+      "image": "photos/menus/37cf2555731773bc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "소불고기",
+      "priceText": "7,700원",
+      "description": "소불고기 +기본반찬",
+      "image": "photos/menus/0b4a157d6c28614e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "돈까스+제육",
+      "priceText": "6,700원",
+      "description": "",
+      "image": "photos/menus/6d05fa2012366bbf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "치킨마요",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/46019a505cf20ac9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "참치마요",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/efb2d01803893f3b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "매운치킨마요",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/5df3cfa24a2fb4ff.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "매운참치마요",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/b89bbfcdd01e2688.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "왕치킨마요",
+      "priceText": "6,000원",
+      "description": "",
+      "image": "photos/menus/7bbac61988c5ad20.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "새치정식 도시락",
+      "priceText": "8,900원",
+      "description": "새우튀김+치킨+제육+불고기+우동국+밥",
+      "image": "photos/menus/b41524ec6ac29b5f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "목련 도시락",
+      "priceText": "9,200원",
+      "description": "생선까스+새우튀김+치킨+햄버그+제육+우동국+반찬4가지+공기밥",
+      "image": "photos/menus/0e227f294159bb4e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "진수성찬 도시락",
+      "priceText": "10,700원",
+      "description": "생선까스+새우튀김+치킨+불고기+밑반찬4가지+우동국+공기밥",
+      "image": "photos/menus/c1a21dde2684455b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "탄금대 특선 도시락",
+      "priceText": "12,000원",
+      "description": "돈까스+새우튀김+치킨+제육+불고기+밑반찬4가지+우동국+공기밥",
+      "image": "photos/menus/70ace57505c8f77a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "유부 우동",
+      "priceText": "7,000원",
+      "description": "",
+      "image": "photos/menus/c4dfb1407ca1b068.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "김치 우동",
+      "priceText": "7,000원",
+      "description": "",
+      "image": "photos/menus/f0079c0d7da369c2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "새우튀김 우동",
+      "priceText": "8,000원",
+      "description": "",
+      "image": "photos/menus/b6fbcc10a59ce5c3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "얼큰육개장",
+      "priceText": "9,000원",
+      "description": "",
+      "image": "photos/menus/5aff8e87904a79e5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "김치가츠나베",
+      "priceText": "9,500원",
+      "description": "",
+      "image": "photos/menus/ec53dd139d726674.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "우동국물",
+      "priceText": "500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "계란후라이",
+      "priceText": "1,000원",
+      "description": "",
+      "image": "photos/menus/240db24b0c98f263.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "육개장사발면",
+      "priceText": "1,800원",
+      "description": "",
+      "image": "photos/menus/3670a9e772031682.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "소세지 2EA",
+      "priceText": "3,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    },
+    {
+      "name": "만두 5EA",
+      "priceText": "3,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/588538255/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

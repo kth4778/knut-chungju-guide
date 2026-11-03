@@ -1,0 +1,223 @@
+{
+  "menuCatalog": [
+    {
+      "name": "매콤크림플레이트",
+      "priceText": "18,900원",
+      "description": "매콤한 크림베이스 우동에 가라아게와 소시지가 한곳에 .방송에도 출연한 낮과밤 최고 인기메뉴",
+      "image": "photos/menus/f60d8513093fa09b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "시그니처 철판 김치볶음밥",
+      "priceText": "10,900원",
+      "description": "철판위 낮과밤의 시그니처 철판 볶음밥",
+      "image": "photos/menus/107fae08ddc222f6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "모짜렐라베이컨김치볶음밥",
+      "priceText": "11,900원",
+      "description": "99% 자연치즈가 듬뿍 올라간 낮과밤의 시그니처 김치볶음밥",
+      "image": "photos/menus/8317089a1b346000.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "오돌뼈볶음무스비",
+      "priceText": "15,900원",
+      "description": "밥 위에 불향 가득 매콤한 오돌뼈와 고소한 마요네즈가 올라간 코리안 무스비",
+      "image": "photos/menus/208728cf6b018e3d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "불고기크림우동",
+      "priceText": "15,900원",
+      "description": "직접 양념한 달콤짭짤 소불고기와 크림우동의 만남",
+      "image": "photos/menus/d248eb8580bc8abb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "시금치페스츄리피자",
+      "priceText": "19,900원",
+      "description": "페스츄리도우 위에 특제소스 , 시금치가 듬~뿍! 재주문이 제일 많은 낮과밤의 대표피자!",
+      "image": "photos/menus/16b238a625234a69.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "불고기페스츄리피자",
+      "priceText": "19,900원",
+      "description": "바삭한 페스츄리도우에 낮과밤만의 특제소스로 재운 불향 가~득 소불고기가 올라간 불고기피자",
+      "image": "photos/menus/953c97f02922c6bd.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "페페로니페스츄리피자",
+      "priceText": "19,900원",
+      "description": "페스츄리 도우에 페페로니가 가~득!",
+      "image": "photos/menus/e64e0f25100f7f83.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "연유포테이토페스츄리피자",
+      "priceText": "19,900원",
+      "description": "페스츄리도우 위에 허니갈릭소스와 연유, 바삭한 감자튀김이 듬~뿍 올라간 단짠단짠 피자!",
+      "image": "photos/menus/33ca0fc336a7e087.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "튀김범벅 떡볶이",
+      "priceText": "18,900원",
+      "description": "낮과밤의 특제 양념으로 만든 매콤달콤 추억의 튀김범벅 떡볶이",
+      "image": "photos/menus/e7e9020ca6c6bffe.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "무뼈닭발&주먹밥",
+      "priceText": "19,900원",
+      "description": "감칠맛 나는 매콤한 양념에 볶은 무뼈닭발과 셀프 주먹밥",
+      "image": "photos/menus/315383b8a2ddeb82.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "바지락볶음",
+      "priceText": "15,900원",
+      "description": "바지락을 낮과밤의 특별한 소스를 넣고 볶은 요리 매콤하면서 감칠맛이 소주안주로 최고",
+      "image": "photos/menus/5a2c024ee3c2affb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "바삭먹태구이",
+      "priceText": "16,900원",
+      "description": "바삭하게 구워낸 먹태 껍질튀김, 마요네즈 소스, 김 ( + 김추가 1.0 )",
+      "image": "photos/menus/6f8ee6424310a3ae.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "낮과밤 돼지짜글이",
+      "priceText": "18,900원",
+      "description": "돼지고기 듬뿍 들어간 낮과밤표 김치짜글이 식시하러오시는 손님이 절반..",
+      "image": "photos/menus/633cd1fbe78b6de7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "추억의 꼬지오뎅탕",
+      "priceText": "18,900원",
+      "description": "시원 칼칼한 포장마차 꼬치오뎅을 그대로 재현",
+      "image": "photos/menus/da3cdc1590b4917d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "닭껍질튀김",
+      "priceText": "16,900원",
+      "description": "샐러드와 함께 즐기는 닭껍질 튀김",
+      "image": "photos/menus/c8cba6cbadec847e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "치킨가라아게",
+      "priceText": "18,900원",
+      "description": "튀김반죽을 사용하지 않고 전분을 얇게 입혀 튀겨낸 일본식 닭다리살 튀김",
+      "image": "photos/menus/3a0e6346555e6d30.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "허니갈릭후라이",
+      "priceText": "14,900원",
+      "description": "해시브라운과 함께 단짠단짠 허니파우더와 갈릭소스 감자튀김",
+      "image": "photos/menus/334bd1aa497eb38e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "롱치즈돈가스",
+      "priceText": "11,900원",
+      "description": "30cm 돈가스 안에 치즈가 듬뿍 경양식소스 + 대파 + 청양고추",
+      "image": "photos/menus/0ce38ceb1df32ddc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "요거트샤베트",
+      "priceText": "8,900원",
+      "description": "그레놀라와 프레젤이 올라간 요아정스타일의 상큼하고 달콤한 요거트 샤베트",
+      "image": "photos/menus/c13f6478927f711e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    },
+    {
+      "name": "츄러스",
+      "priceText": "6,900원",
+      "description": "바삭하고 달달한 츄러스",
+      "image": "photos/menus/783bfd58c3fc9a80.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1353118575/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.02.26"
+    }
+  ]
+}

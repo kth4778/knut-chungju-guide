@@ -1,0 +1,83 @@
+{
+  "menuCatalog": [
+    {
+      "name": "제육덮밥",
+      "priceText": "9,000원",
+      "description": "",
+      "image": "photos/menus/0293f510318892a6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17569759/menu/list"
+    },
+    {
+      "name": "치즈날치알밥",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/3de2a99022566b2b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17569759/menu/list"
+    },
+    {
+      "name": "부대찌개(1인분)",
+      "priceText": "9,000원",
+      "description": "",
+      "image": "photos/menus/535659d1b0497034.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17569759/menu/list"
+    },
+    {
+      "name": "오므라이스",
+      "priceText": "9,000원",
+      "description": "",
+      "image": "photos/menus/663655c9541eb04b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17569759/menu/list"
+    },
+    {
+      "name": "김치찌개",
+      "priceText": "8,000원",
+      "description": "",
+      "image": "photos/menus/ce8f93e0ec0b9233.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17569759/menu/list"
+    },
+    {
+      "name": "콜라(제로)(500ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/fab08facaa458770.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17569759/menu/list"
+    },
+    {
+      "name": "사이다(500ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/aae175f7317ea4cb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17569759/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/17569759/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

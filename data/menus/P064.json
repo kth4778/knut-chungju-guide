@@ -1,0 +1,163 @@
+{
+  "menuCatalog": [
+    {
+      "name": "직화쭈꾸미세트2인",
+      "priceText": "30,000원",
+      "description": "",
+      "image": "photos/menus/55167bc67497b0c8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "직화쭈삼겹세트2인",
+      "priceText": "32,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "직화 갑오징어셋트2인",
+      "priceText": "36,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "돈가스",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "샐러드돈가스",
+      "priceText": "12,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "새우필라프",
+      "priceText": "11,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "베이컨필라프",
+      "priceText": "11,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "김치필라프",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "로제쉬림프스파게티",
+      "priceText": "11,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "해산물까르보나라",
+      "priceText": "11,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "베이컨까르보나라",
+      "priceText": "11,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "토마토스파게티",
+      "priceText": "11,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "화이트 함박스테이크",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "핑크함박스테이크",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    },
+    {
+      "name": "치즈함박스테이크",
+      "priceText": "12,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/17530089/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 25.10.06"
+    }
+  ]
+}

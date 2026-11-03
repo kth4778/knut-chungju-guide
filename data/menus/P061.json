@@ -1,0 +1,93 @@
+{
+  "menuCatalog": [
+    {
+      "name": "메밀새싹 물 막국수",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/7cb78ce0c5afe555.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/33771231/menu/list"
+    },
+    {
+      "name": "메밀새싹 비빔 막국수",
+      "priceText": "11,000원",
+      "description": "명태식해막국수",
+      "image": "photos/menus/5325a058f7cb5bea.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/33771231/menu/list"
+    },
+    {
+      "name": "메밀 왕 만 두",
+      "priceText": "7,000원",
+      "description": "고기/김치/반반",
+      "image": "photos/menus/e41b89ca59f86199.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/33771231/menu/list"
+    },
+    {
+      "name": "수 육(중) 큰 접 시",
+      "priceText": "22,000원",
+      "description": "",
+      "image": "photos/menus/d8e68730d34b9322.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/33771231/menu/list"
+    },
+    {
+      "name": "메밀꽃술 막걸리",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/da53b42152ecffe1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/33771231/menu/list"
+    },
+    {
+      "name": "메밀 들깨 수제비(동절기)",
+      "priceText": "11,000원",
+      "description": "10월~3월가능",
+      "image": "photos/menus/71cde1e81e1bde69.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/33771231/menu/list"
+    },
+    {
+      "name": "메밀만두 칼국수(동절기)",
+      "priceText": "10,000원",
+      "description": "10월~3월가능",
+      "image": "photos/menus/b13b329e6056cd54.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/33771231/menu/list"
+    },
+    {
+      "name": "메밀온면(동절기)",
+      "priceText": "10,000원",
+      "description": "소고기 고명이 듬뿍 올라간 온면",
+      "image": "photos/menus/341fd29cddb439e1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/33771231/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/33771231/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.10.01"
+    }
+  ]
+}

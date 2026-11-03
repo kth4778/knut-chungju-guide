@@ -1,0 +1,73 @@
+{
+  "menuCatalog": [
+    {
+      "name": "나폴리탄야끼소바",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37081756/menu/list"
+    },
+    {
+      "name": "오무라이스",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37081756/menu/list"
+    },
+    {
+      "name": "카레볶음밥 오무라이스",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37081756/menu/list"
+    },
+    {
+      "name": "믹스치즈오믈렛과 토스트",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37081756/menu/list"
+    },
+    {
+      "name": "베이컨크림소스와 감자오믈렛과 토스트",
+      "priceText": "9,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37081756/menu/list"
+    },
+    {
+      "name": "프렌치토스트",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/37081756/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/37081756/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.10.11"
+    }
+  ]
+}

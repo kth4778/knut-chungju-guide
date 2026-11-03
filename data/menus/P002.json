@@ -1,0 +1,213 @@
+{
+  "menuCatalog": [
+    {
+      "name": "두마리 (통닭)",
+      "priceText": "22,000원",
+      "description": "",
+      "image": "photos/menus/81e31e8d1538e58a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "순살치킨",
+      "priceText": "12,000원",
+      "description": "",
+      "image": "photos/menus/be013f225c759a7a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "순살양념",
+      "priceText": "13,000원",
+      "description": "",
+      "image": "photos/menus/76f396dd5a51c5f1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "똥집튀김",
+      "priceText": "11,000원",
+      "description": "",
+      "image": "photos/menus/aa5ba10f346b6246.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "무뼈닭발튀김",
+      "priceText": "12,000원",
+      "description": "",
+      "image": "photos/menus/afdada53ff16a180.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "(NEW) 청양맵간장순살",
+      "priceText": "13,000원",
+      "description": "화끈한 청양고추와 간장소스의 조합으로 깊은 풍미의 치킨",
+      "image": "photos/menus/327b26f10c995a7a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "한마리통닭+똥집튀김",
+      "priceText": "21,500원",
+      "description": "",
+      "image": "photos/menus/949ce3bde055b919.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "순살치킨+똥집튀김",
+      "priceText": "22,000원",
+      "description": "",
+      "image": "photos/menus/a7c45184b81547f3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "순살양념+똥집튀김",
+      "priceText": "23,000원",
+      "description": "",
+      "image": "photos/menus/bc9477599650db4b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "순살치킨+가마치즈볼+소스+치킨무+콜라(소)",
+      "priceText": "19,000원",
+      "description": "",
+      "image": "photos/menus/1d577eeca8a15197.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "순살치킨+가마치떡볶이+콜라(소)",
+      "priceText": "23,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "무",
+      "priceText": "500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "소스(치킨소스(순한맛))",
+      "priceText": "500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "소스(겨자소스)",
+      "priceText": "500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "소스(치즈머스타드)",
+      "priceText": "500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "소스(마늘간장소스)",
+      "priceText": "500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "콜라(소)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "콜라(대)",
+      "priceText": "3,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "사이다(소)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    },
+    {
+      "name": "사이다(대)",
+      "priceText": "3,000원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/499343294/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "menuCatalog": [
+    {
+      "name": "[시그니처]30cm통장어튀김 붓카케우동",
+      "priceText": "16,900원",
+      "description": "바다장어를 바삭하게 통으로 튀겨올려 비법간장에 찍어먹는 보양식 시그니처 메뉴",
+      "image": "photos/menus/d1d6c26f04cc20c0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "48시간 숙성 등심카츠 [밥+우동국물+양배추샐러드]",
+      "priceText": "12,900원",
+      "description": "163도 10분 레스팅기법으로 육즙이 가득한 일본식 지등심카츠",
+      "image": "photos/menus/842f656a087aaf0d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[달달한 생새우]단새우 붓카케우동",
+      "priceText": "13,000원",
+      "description": "숙성될수록 달달한 맛 회로먹는 아마에비를 통째로",
+      "image": "photos/menus/0643772d69999b0c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[일본장인의 맛]규동 소고기덮밥 + 국물",
+      "priceText": "11,000원",
+      "description": "품질좋은 우삼겹을 비법간장에 오랜시간 끓여내 깊고 부드러운 소고기덮밥",
+      "image": "photos/menus/f34f4aff7109c67d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[5색 튀김]정통덴뿌라 붓카케우동",
+      "priceText": "13,500원",
+      "description": "김, 단호박, 꽈리고추, 오징어, 새우의 바사삭한 튀김을 한번에 비법간장에 찍어먹는 인기메뉴",
+      "image": "photos/menus/ad8736fc3806e631.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[매니아추천]토리텐(닭튀김) 붓카케우동",
+      "priceText": "13,000원",
+      "description": "비법양념에 버무려재운 다리살을 2번튀겨 더욱 바삭한 맛의 가라아게우동",
+      "image": "photos/menus/245c40bb67a0cbf3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[일본식숙성 자가제면]키노야 붓카케우동",
+      "priceText": "9,000원",
+      "description": "일본장인에게 전수받은 자가제면방식으로 더 길고 더 쫄깃한 맛의 80cm우동면과 깊은 맛의 오리지널우동",
+      "image": "photos/menus/7a77984ea2dcf836.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[양념소고기볶음]니꾸(소고기) 카케우동",
+      "priceText": "14,000원",
+      "description": "품질좋은 우삼겹을 비법간장에 오랜시간 끓여내 깊고 부드러운 소고기우동",
+      "image": "photos/menus/968bd02c7adaa9df.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[5가지 튀김]정통덴뿌라 카케우동",
+      "priceText": "13,500원",
+      "description": "김, 단호박, 꽈리고추, 오징어, 새우의 바사삭한 튀김을 한번에 비법간장에 찍어먹는 인기메뉴",
+      "image": "photos/menus/6f7bb1683ef0fa1c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[매니아추천]토리텐(닭튀김) 카케우동",
+      "priceText": "13,000원",
+      "description": "비법양념에 버무려재운 다리살을 2번튀겨 더욱 바삭한 맛의 가라아게우동",
+      "image": "photos/menus/8969cc653e07a9e7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[유부좋아하는사람]키츠네(유부) 카케우동",
+      "priceText": "10,000원",
+      "description": "통유부가 들어간 깊은맛의 일본식 오리지날 우동",
+      "image": "photos/menus/737ceb2d4ca28a90.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[일본식숙성 자가제면]키노야 카케우동",
+      "priceText": "9,000원",
+      "description": "일본장인에게 전수받은 자가제면방식으로 더 길고 더 쫄깃한 맛의 80cm우동면과 깊은 맛의 오리지널우동",
+      "image": "photos/menus/f2e4e733d27223c1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "48시간숙성 안심 돈카츠[밥+우동국물+양배추샐러드포함]",
+      "priceText": "13,500원",
+      "description": "163도 10분 레스팅기법으로 육즙이 가득한 일본식 안심카츠",
+      "image": "photos/menus/acc3b4431c310bc6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[1인분]규동 소고기덮밥 +키노야우동(냉, 온 택1)",
+      "priceText": "15,500원",
+      "description": "소고기덮밥과 우동 세트(냉/온우동 선택 가능)",
+      "image": "photos/menus/607c4f8db3094084.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[1인분]등심카츠+키노야우동(냉, 온 택1)",
+      "priceText": "15,900원",
+      "description": "일품돈카츠와 우동 세트(냉/온우동 선택 가능)",
+      "image": "photos/menus/002809f0036d3e3f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "[1인분]한돈히레카츠 안심+키노야우동(냉, 온 택1)(1인분)",
+      "priceText": "16,900원",
+      "description": "",
+      "image": "photos/menus/7392b682b1270b3c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "가츠산도(4pcs)",
+      "priceText": "10,500원",
+      "description": "",
+      "image": "photos/menus/3eb6941d0ce232d9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "등심 돈카츠(1pcs)",
+      "priceText": "9,500원",
+      "description": "",
+      "image": "photos/menus/e9d481271444d0bd.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "히레카츠(안심)(3pcs)",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/ac5c99714ee3bdb9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "에비텐(새우튀김)(3pc)",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/3a456f66cdfb6bab.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "수제감자고로켓(2pcs)",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/8d711d15c564f386.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "코카콜라(350ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/0557485567b68daf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "코카콜라 제로(350ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "칠성사이다(350ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    },
+    {
+      "name": "펩시제로(350ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2042144911/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

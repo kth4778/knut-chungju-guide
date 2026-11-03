@@ -1,0 +1,33 @@
+{
+  "menuCatalog": [
+    {
+      "name": "[패스오더전용] 100원 아메리카노",
+      "priceText": "100원",
+      "description": "패스오더 앱 설치하면, 최소 주문 금액 없이 100원에 커피 주문+1,500원 쿠폰까지",
+      "image": "photos/menus/7de405c0d4c28341.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1596794272/menu/list"
+    },
+    {
+      "name": "아메리카노",
+      "priceText": "1,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1596794272/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1596794272/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.02.19"
+    }
+  ]
+}

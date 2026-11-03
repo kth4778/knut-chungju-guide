@@ -1,0 +1,353 @@
+{
+  "menuCatalog": [
+    {
+      "name": "생등심돈가스",
+      "priceText": "8,000원",
+      "description": "생등심돈가스",
+      "image": "photos/menus/bba8499a1c61b4b3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "안심돈가스",
+      "priceText": "8,300원",
+      "description": "안심돈가스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "매운마늘돈가스",
+      "priceText": "8,500원",
+      "description": "매운마늘",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "치즈돈가스",
+      "priceText": "8,900원",
+      "description": "치즈돈가스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "모듬까스",
+      "priceText": "8,900원",
+      "description": "모듬돈가스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "매운치즈돈가스",
+      "priceText": "8,900원",
+      "description": "매운치즈",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "카레돈가스덮밥",
+      "priceText": "8,000원",
+      "description": "카레덮밥",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "에비동",
+      "priceText": "7,500원",
+      "description": "에비동",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "더블치즈가츠동",
+      "priceText": "7,500원",
+      "description": "더블치즈",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "김치치즈가츠동",
+      "priceText": "8,000원",
+      "description": "김치치즈가츠동",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "김치가츠동",
+      "priceText": "7,500원",
+      "description": "김치가츠동",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "가츠동곱배기",
+      "priceText": "8,000원",
+      "description": "가츠동곱배기",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "가츠동",
+      "priceText": "7,000원",
+      "description": "가츠동",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "가츠오우동",
+      "priceText": "6,500원",
+      "description": "새우튀김우동",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "매콤볶음우동",
+      "priceText": "7,500원",
+      "description": "볶음우동",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "김치해물우동",
+      "priceText": "7,000원",
+      "description": "해물우동",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "나가사키짬뽕",
+      "priceText": "7,500원",
+      "description": "나가사키",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "패밀리세트",
+      "priceText": "32,500원",
+      "description": "등심돈가스+우동or라멘+가츠동+김치가츠나베+음료4",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "친구세트",
+      "priceText": "24,000원",
+      "description": "등심돈가스+우동or라멘+가츠동+음료3",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "커플세트",
+      "priceText": "16,000원",
+      "description": "등심돈가스+ 우동or라멘+음료2",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "김치가츠나베",
+      "priceText": "8,000원",
+      "description": "김치가츠나베",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "매운가츠나베",
+      "priceText": "8,000원",
+      "description": "매운가츠나베",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "가츠나베",
+      "priceText": "7,500원",
+      "description": "가츠나베",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "돈소바",
+      "priceText": "9,500원",
+      "description": "돈소바",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "미소라멘",
+      "priceText": "7,000원",
+      "description": "미소라멘",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "냉소바",
+      "priceText": "7,500원",
+      "description": "냉소바",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "돈코츠라멘",
+      "priceText": "7,000원",
+      "description": "돈코츠",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "고로케추가",
+      "priceText": "1,500원",
+      "description": "고로케",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "타베 카레소스",
+      "priceText": "2,500원",
+      "description": "타베 카레소스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "타베 매운소스",
+      "priceText": "1,500원",
+      "description": "타베 매운소스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "돈가스추가",
+      "priceText": "3,000원",
+      "description": "등심돈가스 1피스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "새우추가",
+      "priceText": "1,500원",
+      "description": "새우추가",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "챠슈추가",
+      "priceText": "1,800원",
+      "description": "차슈추가",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    },
+    {
+      "name": "공기밥",
+      "priceText": "1,000원",
+      "description": "공기밥",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1430351152/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.07.14"
+    }
+  ]
+}

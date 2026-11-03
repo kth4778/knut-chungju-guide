@@ -1,0 +1,193 @@
+{
+  "menuCatalog": [
+    {
+      "name": "곶감치즈말이",
+      "priceText": "9,500원",
+      "description": "담백하고, 쫀득한 식감이 매력적인 곶감치즈말이",
+      "image": "photos/menus/a0dfde465452ee1c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "살구 소르베 (시즌 한정)",
+      "priceText": "6,800원",
+      "description": "상큼하고 시원한 살구 소르베 에이드로도 즐길수 있어요",
+      "image": "photos/menus/8e2bd05849870698.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "라즈베리 갸또 쇼콜라",
+      "priceText": "9,500원",
+      "description": "꾸덕한 갸또에 상큼한 라즈베리크림이 올라간 🍒아흐레 신메뉴 🍒",
+      "image": "photos/menus/48aa44bb5b81567c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "고소라떼",
+      "priceText": "5,000원",
+      "description": "아흐레만의 고소한 라떼",
+      "image": "photos/menus/21a4640afe8a4806.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "블.크.크(블루베리 크림치즈 크럼블)",
+      "priceText": "8,500원",
+      "description": "",
+      "image": "photos/menus/d7b4a4c79797098a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "키위 소르베",
+      "priceText": "6,800원",
+      "description": "여름 시즌 메뉴 🥝",
+      "image": "photos/menus/3b8ab096b9e0426a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "크림 삼남매🤎💚💗",
+      "priceText": "가격 변동",
+      "description": "크림라떼 - 말차크림라떼 - 딸기크림라떼 (+) 쑥 크림라떼도 있어요 💚",
+      "image": "photos/menus/6a6d723d812a5378.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "어글리베어 쿠키",
+      "priceText": "4,300원",
+      "description": "어글리해도 귀엽고 맛있는 아흐레 수제 르뱅쿠키🐻",
+      "image": "photos/menus/92d10852c8c258b8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "말차 크림라떼",
+      "priceText": "5,400원",
+      "description": "",
+      "image": "photos/menus/d99eeafc2e5c7725.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "말차테린느",
+      "priceText": "7,000원",
+      "description": "양갱과 케이크 사이의 꾸덕한 식감을 가진 '말차테린느' 수제크림과 버터를 곁들어 드세요.",
+      "image": "photos/menus/52cbe0bf4620e0d6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "초코테린느",
+      "priceText": "7,500원",
+      "description": "비스킷 위에 조금씩 자른 테린느와 아흐레 수제크림을 곁들어드세요.",
+      "image": "photos/menus/9c91c2da2b755240.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "단호한 크럼블",
+      "priceText": "8,500원",
+      "description": "단호박필링+단호박크럼블 등 단호박을 아낌없이 넣은 담백하고 달달한 디저트",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "크림라떼",
+      "priceText": "5,400원",
+      "description": "아인슈페너 라떼 타입 / 아흐레 수제크림",
+      "image": "photos/menus/48db82ee1c8dc3ab.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "허니카푸치노",
+      "priceText": "6,400원",
+      "description": "벌집꿀과 아카시아 꿀이 들어간 아흐레커피의 시그니쳐 메뉴입니다.",
+      "image": "photos/menus/ba4de6fa775b7a7c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "아이스홍시",
+      "priceText": "3,800원",
+      "description": "가볍고 시원한 디저트를 찾는다면 '아이스홍시'",
+      "image": "photos/menus/a318931f2bb2b6af.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "딸기테린느(봄겨울한정)",
+      "priceText": "7,000원",
+      "description": "꾸덕한 식감의 테린느와 상큼달달한 겨울 딸기 그리고 아흐레 수제크림을 곁들어드세요",
+      "image": "photos/menus/67ae526c07fe084a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "딸기 크림라떼 ( +사이즈업 )",
+      "priceText": "가격 변동",
+      "description": "봄 시즌 메뉴🌸",
+      "image": "photos/menus/4db18252dbb99d84.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    },
+    {
+      "name": "딸기 러버 모여라🍓",
+      "priceText": "가격 변동",
+      "description": "딸기 테린느와🌸 딸기크림라떼 🍓딸기라떼 봄시즌 예쁘고 맛있게 즐겨요",
+      "image": "photos/menus/cf76dc4404f5db09.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1952540278/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.09.19"
+    }
+  ]
+}

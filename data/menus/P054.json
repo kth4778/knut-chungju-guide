@@ -1,0 +1,63 @@
+{
+  "menuCatalog": [
+    {
+      "name": "막창구이",
+      "priceText": "20,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17506922/menu/list"
+    },
+    {
+      "name": "곱창전골",
+      "priceText": "25,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17506922/menu/list"
+    },
+    {
+      "name": "머리고기",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17506922/menu/list"
+    },
+    {
+      "name": "칼국수",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17506922/menu/list"
+    },
+    {
+      "name": "국밥",
+      "priceText": "6,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/17506922/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/17506922/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "menuCatalog": [
+    {
+      "name": "뚝딱 고기김치찌개",
+      "priceText": "11,000원",
+      "description": "김치찌개 + 공깃밥 + 사장님의 정성이 담긴 반찬 푹 익은 김치, 넉넉한 고기 국물 한 숟갈이면 한 끼 뚝딱 기본에 가장 진심입니다",
+      "image": "photos/menus/bfe820b612790371.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "뚝딱 차돌된장찌개",
+      "priceText": "11,000원",
+      "description": "차돌 된장찌개 + 공깃밥 + 사장님의 정성이 담긴 반찬 차돌의 고소함이 된장에 뚝딱 처돌의 풍미로 더 깊게, 더 진하게",
+      "image": "photos/menus/542b7275bcd3b921.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "뚝딱 육회비빔밥 정식",
+      "priceText": "13,000원",
+      "description": "육회 비빔밥 + 미니차돌된장 + 사장님의 정성이 담긴 반찬 든든한 육회비빔밥에 차돌 된장찌개까지 함께 비비고, 떠먹고, 제대로 뚝딱",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "뚝딱 물냉면",
+      "priceText": "10,000원",
+      "description": "시원한 육수 한 입에 더위가 뚝딱",
+      "image": "photos/menus/2e801f6cd77b3359.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "뚝딱 비빔냉면",
+      "priceText": "10,000원",
+      "description": "새콤한 양념에 입맛이 뚝딱",
+      "image": "photos/menus/eb77efb881e4cefd.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "혼밥 뚝딱세트",
+      "priceText": "12,000원",
+      "description": "뚝딱 김치찌개 + 음료수 or 치즈 폭탄 계란찜 (소) + 사장님의 정성이 담긴 반찬 혼자여도 제대로 김치찌개와 치즈폭탄계란찜을 함께 든든하게 즐기는 뚝딱 한상",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "가족 뚝딱세트",
+      "priceText": "26,000원",
+      "description": "찌개류 선택 + 찌개류 선택 + 치즈폭탄계란찜 (대) 무엇이든 모이면 더 맛있어지죠 뚝딱의 대표 메뉴를 한번에 모은 가족세트, 사랑하는 사람들과 둘러앉아 즐겨보세요.",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "[사장님 강력 추천] 치즈 폭탄 계란찜",
+      "priceText": "5,000원",
+      "description": "한 술 뜨는 순간 치즈가 뚝딱 폭신함 위에 고소함까지 한 번 뜨면 멈추기 어렵습니다 김치찌개와 가장 잘 어울리는 조합",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "계란찜",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/9d1c15dad19a0201.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "계란후라이 3개",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/ea7ae38345160be0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "스팸 3pcs",
+      "priceText": "3,000원",
+      "description": "",
+      "image": "photos/menus/3cf426e56c59cbf0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "추가 공기밥",
+      "priceText": "1,000원",
+      "description": "",
+      "image": "photos/menus/9c3b344ff8fa9eda.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "콜라500ml",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/5c7ea3f229475a52.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    },
+    {
+      "name": "사이다500ml",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/952533b4e619f7a5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1013982378/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

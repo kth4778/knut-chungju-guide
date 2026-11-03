@@ -1,0 +1,83 @@
+{
+  "menuCatalog": [
+    {
+      "name": "신규",
+      "priceText": "4,000원",
+      "description": "대표 미니붕어빵(6개) 팥/슈크림 2가지 맛",
+      "image": "photos/menus/77c407d64e0436aa.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/95839327/menu/list"
+    },
+    {
+      "name": "🥜바삭고소 땅콩빵🥜(15개)",
+      "priceText": "5,000원",
+      "description": "식어도 맛있는 추억의 땅콩빵, 주문 즉시 구워 드립니다 ! ദ്ദി˶˙ᵕ˙˶ )",
+      "image": "photos/menus/598afba9fcc1fae9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/95839327/menu/list"
+    },
+    {
+      "name": "아메리카노",
+      "priceText": "4,500원",
+      "description": "",
+      "image": "photos/menus/c1c83aafdcda8647.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/95839327/menu/list"
+    },
+    {
+      "name": "카페라떼",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/cb19f15b1473df2e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/95839327/menu/list"
+    },
+    {
+      "name": "쑥쓰러떼",
+      "priceText": "6,000원",
+      "description": "",
+      "image": "photos/menus/9df0da17b1df5f91.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/95839327/menu/list"
+    },
+    {
+      "name": "엑설런트라떼(only ice)",
+      "priceText": "6,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/95839327/menu/list"
+    },
+    {
+      "name": "토피달고나라떼(only ice)",
+      "priceText": "6,500원",
+      "description": "",
+      "image": "photos/menus/ec31cc039327084c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/95839327/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/95839327/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.10.09"
+    }
+  ]
+}

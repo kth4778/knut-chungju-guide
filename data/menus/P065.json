@@ -1,0 +1,163 @@
+{
+  "menuCatalog": [
+    {
+      "name": "짬뽕묵밥",
+      "priceText": "12,000원",
+      "description": "밥은 포함됩니다.",
+      "image": "photos/menus/dc06df6d800b981b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "전통묵밥",
+      "priceText": "10,000원",
+      "description": "밥은 포함됩니다.",
+      "image": "photos/menus/78f983102c06febb.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "냉채묵밥",
+      "priceText": "10,000원",
+      "description": "밥은 포함됩니다.",
+      "image": "photos/menus/3784382aca78ec8b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "임자탕 (도토리 들깨수제비)",
+      "priceText": "11,000원",
+      "description": "밥은 포함됩니다.",
+      "image": "photos/menus/fecbcfa5c239dc4b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "공기밥 추가",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "도토리전",
+      "priceText": "7,000원",
+      "description": "",
+      "image": "photos/menus/35ee5c690e31cfa7.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "간장묵",
+      "priceText": "15,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "도토리 엿(소)",
+      "priceText": "3,000원",
+      "description": "이정동묵밥에서 만든 도토리 엿입니다.",
+      "image": "photos/menus/572e25d5ae65458e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "도토리엿(대)",
+      "priceText": "5,000원",
+      "description": "이정동묵밥에서 만든 도토리 엿입니다.",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "이정동 구이김 1봉",
+      "priceText": "3,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "이정동 구이김 실속형(5봉)",
+      "priceText": "12,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "이정동구이김 선물용 소(5봉)",
+      "priceText": "14,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "이정동구이김 선물용 대 (10봉)",
+      "priceText": "26,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "코카콜라",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/0557485567b68daf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    },
+    {
+      "name": "칠성사이다",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1058887404/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

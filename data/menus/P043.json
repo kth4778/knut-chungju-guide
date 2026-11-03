@@ -1,0 +1,73 @@
+{
+  "menuCatalog": [
+    {
+      "name": "우렁쌈밥",
+      "priceText": "11,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35314189/menu/list"
+    },
+    {
+      "name": "우렁제육쌈밥",
+      "priceText": "15,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35314189/menu/list"
+    },
+    {
+      "name": "시골청국장",
+      "priceText": "9,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35314189/menu/list"
+    },
+    {
+      "name": "올갱이국밥",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35314189/menu/list"
+    },
+    {
+      "name": "능이오리쌈밥",
+      "priceText": "15,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35314189/menu/list"
+    },
+    {
+      "name": "소주/맥주/막걸리",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35314189/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/35314189/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

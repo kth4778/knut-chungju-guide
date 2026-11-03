@@ -1,0 +1,233 @@
+{
+  "menuCatalog": [
+    {
+      "name": "해물짬뽕",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/b746cf608ce22b50.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "육짬뽕",
+      "priceText": "10,000원",
+      "description": "소고기+해물",
+      "image": "photos/menus/22028228da63da90.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "알짬뽕",
+      "priceText": "11,000원",
+      "description": "알곤이+해물",
+      "image": "photos/menus/039234b6c631c3a9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "아귀짬뽕",
+      "priceText": "10,000원",
+      "description": "아귀+해물",
+      "image": "photos/menus/70889a76390d6da9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "반계짬뽕",
+      "priceText": "11,000원",
+      "description": "",
+      "image": "photos/menus/9776f0bcfe184c95.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "모둠짬뽕",
+      "priceText": "13,000원",
+      "description": "기본해물, 소고기, 아귀, 알, 곤이가 들어간 짬뽕",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "하얀해물짬뽕",
+      "priceText": "10,000원",
+      "description": "",
+      "image": "photos/menus/ad2acb2b7a9751db.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "하얀육짬뽕",
+      "priceText": "10,000원",
+      "description": "소고기+해물 맑은 짬뽕",
+      "image": "photos/menus/7b3a158c1dc0fc6c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "하얀알짬뽕",
+      "priceText": "11,000원",
+      "description": "알곤이+해물 맑은 짬뽕",
+      "image": "photos/menus/5b61eaec85314d49.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "하얀아귀짬뽕",
+      "priceText": "10,000원",
+      "description": "아귀+해물 맑은 짬뽕",
+      "image": "photos/menus/e0ffe508936802c9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "하얀반계짬뽕",
+      "priceText": "11,000원",
+      "description": "",
+      "image": "photos/menus/45db21b7db17763c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "하얀모둠짬뽕",
+      "priceText": "13,000원",
+      "description": "기본해물, 소고기, 아귀, 알, 곤이가 들어간 맑은 짬뽕",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "짜장면",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "짜장면곱빼기",
+      "priceText": "9,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "짜장밥",
+      "priceText": "9,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "소고기 볶음밥",
+      "priceText": "11,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "미니탕수육",
+      "priceText": "8,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "탕수육 소",
+      "priceText": "14,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "탕수육 중",
+      "priceText": "21,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "탕수육 대",
+      "priceText": "28,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "군만두 8개",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    },
+    {
+      "name": "군만두 4개",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1516813343/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.10.14"
+    }
+  ]
+}

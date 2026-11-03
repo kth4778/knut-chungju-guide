@@ -1,0 +1,113 @@
+{
+  "menuCatalog": [
+    {
+      "name": "돌판생삼겹한판",
+      "priceText": "16,000원",
+      "description": "1인분 (180g) 2인 이상 주문",
+      "image": "photos/menus/88a830c8f91cac61.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list"
+    },
+    {
+      "name": "삼겹살 추가",
+      "priceText": "15,000원",
+      "description": "1인분 (180g)",
+      "image": "photos/menus/fd6c6e84514a1a42.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list"
+    },
+    {
+      "name": "돌판오징어제육",
+      "priceText": "15,000원",
+      "description": "(계란찜 + 공기밥) 2인 이상 주문",
+      "image": "photos/menus/f48827e79eeffc54.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list"
+    },
+    {
+      "name": "육회",
+      "priceText": "25,000원",
+      "description": "",
+      "image": "photos/menus/c9b8e81acdb75d4f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list"
+    },
+    {
+      "name": "고기만두",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list"
+    },
+    {
+      "name": "계란찜",
+      "priceText": "3,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list"
+    },
+    {
+      "name": "된장찌개",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list"
+    },
+    {
+      "name": "공기밥",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list"
+    },
+    {
+      "name": "음료수",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list"
+    },
+    {
+      "name": "주류",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1147121929/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.02.24"
+    }
+  ]
+}

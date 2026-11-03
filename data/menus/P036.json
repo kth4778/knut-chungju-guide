@@ -1,0 +1,113 @@
+{
+  "menuCatalog": [
+    {
+      "name": "매콤돈까스+커피",
+      "priceText": "16,000원",
+      "description": "기분좋은 매콤달콤 소스, 와사비와 함께 감칠맛이 두배",
+      "image": "photos/menus/0a410fb100aa186b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list"
+    },
+    {
+      "name": "수제치즈돈까스+커피",
+      "priceText": "18,000원",
+      "description": "치즈양이 어마어마, 치즈풍미가 굿",
+      "image": "photos/menus/013e62f7c5d11171.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list"
+    },
+    {
+      "name": "수제돈까스+커피",
+      "priceText": "14,000원",
+      "description": "바삭한 튀김+새콤달콤 소스",
+      "image": "photos/menus/6173cad76cc10b3a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list"
+    },
+    {
+      "name": "냉면(직접만든 슬러시 육수)",
+      "priceText": "9,000원",
+      "description": "직접만든 슬러시 육수 냉면 (여름에도, 겨울에도)",
+      "image": "photos/menus/737fadf0c36be65a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list"
+    },
+    {
+      "name": "수제 김치손만두국",
+      "priceText": "10,000원",
+      "description": "쫌~매콤한 손만둣국에 백김치와의 조합이 정말 맛나요",
+      "image": "photos/menus/8f249ff62054c3f5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list"
+    },
+    {
+      "name": "만두튀김",
+      "priceText": "8,000원",
+      "description": "튀김옷 입은 만두튀김 이런 만두튀김은 없었다",
+      "image": "photos/menus/a5715390a70c454e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list"
+    },
+    {
+      "name": "더블돈까스+커피",
+      "priceText": "23,000원",
+      "description": "돈까스가 두장 돈까스 두접시를 한접시로 저렴하게",
+      "image": "photos/menus/e34491cfd6e58e04.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list"
+    },
+    {
+      "name": "매콤 더블 돈까스",
+      "priceText": "25,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list"
+    },
+    {
+      "name": "매콤 치즈 돈까스",
+      "priceText": "20,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list"
+    },
+    {
+      "name": "비빔냉면",
+      "priceText": "10,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1354535546/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.04.15"
+    }
+  ]
+}

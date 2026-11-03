@@ -1,0 +1,183 @@
+{
+  "menuCatalog": [
+    {
+      "name": "뉴욕버거",
+      "priceText": "5,800원",
+      "description": "두툼한중량UP 패티와, 육즙이 풍부한 '정통 수제버거' 뉴욕버거 시그니처메뉴",
+      "image": "photos/menus/39d571f8f21d8956.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "뉴욕통쉬림프",
+      "priceText": "5,800원",
+      "description": "톡톡 터지는 통통한 통새우살이 한 가득 들어있는 진짜 새우버거! '비교불가 베스트메뉴'",
+      "image": "photos/menus/f15e5031e1d1c82d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "치킹버거(갈릭)",
+      "priceText": "5,800원",
+      "description": "쫄깃한 통닭다리살과 갈릭소스가 곁들어진 치킨버거의 왕 (달콤해요)",
+      "image": "photos/menus/fb5bb96eee699d52.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "치킹버거(칠리)",
+      "priceText": "5,800원",
+      "description": "쫄깃한 통닭다리살과 스위트칠리소스가 곁들어진 치킨버거의 왕 (살짝 매워요)",
+      "image": "photos/menus/618c7bf84390fe11.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "브루클린치킹(레드)",
+      "priceText": "8,500원",
+      "description": "매콤한 페퍼RED소스를 통닭다리살 치킹패티에 푹~ 입힌 버거!",
+      "image": "photos/menus/2c844ee8b9038e9b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "브루클린치킹(화이트)",
+      "priceText": "8,500원",
+      "description": "약간 매콤한 허니화이트소스를 통닭다리살 치킹패티에 푹~ 입힌 버거!",
+      "image": "photos/menus/84fcf23f059948bc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "퀸즈시그니처스퀴드",
+      "priceText": "8,300원",
+      "description": "두툼하고 쫄깃한 오징어패티와 코가 찡~해지는 매운소스 마늘후레이크까지! 매니아층 1순위메뉴",
+      "image": "photos/menus/f911ae22a7c6e9be.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "맨해튼더블치즈버거",
+      "priceText": "9,900원",
+      "description": "큰 사이즈 수제그릴패티 2장! 치즈도 2장! 베이컨마요소스까지 곁들인 명실상부 최고의 조합",
+      "image": "photos/menus/0563920de0676763.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "뉴욕너겟버거",
+      "priceText": "2,900원",
+      "description": "가성비 종결, 가격과 달리 의외로 푸짐한 조합! 닭다리살 너겟으로 만든 겉바속촉 버거!",
+      "image": "photos/menus/ab62531c05f32473.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "뉴욕핫불고기버거",
+      "priceText": "3,900원",
+      "description": "매운 RED 소스와 수제패티의 조화가 일품인 버거. '어린이가 먹기엔 조금 매워요'",
+      "image": "photos/menus/d150a5c8a94c9639.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "비프불고기버거",
+      "priceText": "3,900원",
+      "description": "한국인 입맛에 취향저격! 달콤한 불고기 소스와 수제패티의 조화가 일품! '어린이 추천'",
+      "image": "photos/menus/f1bffa3b3325a687.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "에그포테이토버거",
+      "priceText": "3,300원",
+      "description": "에그와 해쉬브라운의 조합 담백하게 챱챱 '어린이 추천'",
+      "image": "photos/menus/1f7c7f211bcbf1e0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "뉴욕더블디럭스버거",
+      "priceText": "8,600원",
+      "description": "허브에 재운 그릴드토마토와 두툼한 수제버거패티가 더블!",
+      "image": "photos/menus/029f2bbc444fa33d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "뉴욕트러플치즈버거",
+      "priceText": "6,900원",
+      "description": "트러플버섯 함유! 스위스 치즈와 함께 어우러진 맛! 꿀과 비타민 첨가!",
+      "image": "photos/menus/0b3c560e9609c921.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "뉴욕스테이크버거",
+      "priceText": "6,100원",
+      "description": "두툼넉넉한 크기의 패티에 바베큐소스와 베이컨마요소스가 어우러진 수제버거 맛!",
+      "image": "photos/menus/2d4ee1044bfa725c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "뉴욕허니더블치즈",
+      "priceText": "5,600원",
+      "description": "스위스치즈 두 장!, 꿀과 비타민을 첨가한 뉴욕버거만의 특별한 치즈소스를 가미",
+      "image": "photos/menus/1338def558bc30d1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    },
+    {
+      "name": "뉴욕슈니첼브리오쉬",
+      "priceText": "5,600원",
+      "description": "국내산 등심을 얇게 펴 바삭한 슈니첼 패티에 달달한 딸기잼을 곁들인 버거",
+      "image": "photos/menus/5c03eb472db9cf7c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1360232479/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

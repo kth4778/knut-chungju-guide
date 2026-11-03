@@ -1,0 +1,43 @@
+{
+  "menuCatalog": [
+    {
+      "name": "고구마치즈돈가스",
+      "priceText": "9,900원",
+      "description": "학생들이 가장 선호하는 메뉴 \"고치돈\"",
+      "image": "photos/menus/6820890dcf3ce22d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2081450576/menu/list"
+    },
+    {
+      "name": "등심돈가스",
+      "priceText": "가격 변동",
+      "description": "기본 : 8,900원 사이즈업 : 9,900원",
+      "image": "photos/menus/771fed1ddde89e0a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2081450576/menu/list"
+    },
+    {
+      "name": "김치볶음밥",
+      "priceText": "7,900원",
+      "description": "",
+      "image": "photos/menus/d69452484665a277.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2081450576/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2081450576/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 25.12.13"
+    }
+  ]
+}

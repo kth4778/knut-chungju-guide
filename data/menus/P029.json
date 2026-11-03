@@ -1,0 +1,683 @@
+{
+  "menuCatalog": [
+    {
+      "name": "베이비 백 립 플레이트",
+      "priceText": "43,000원",
+      "description": "[1.5~2인 추천] *고기 종류: 베이비 백 립 1대(9~11조각) ※고기 뼈 주의 *메뉴 설명: 오랜 시간 부드럽게 초벌한 뒤 밍거스 특제 소스를 발라 구운 돼지 등갈비 바베큐 플레이트(소스 발라서 구워드립니다.)",
+      "image": "photos/menus/7eea3290d9c09d52.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "밍거스 플레이트",
+      "priceText": "41,000원",
+      "description": "[1~2인 추천] *고기 종류: 베이비 백 립(4~5조각),순살치킨넓적다리 1개, 풀드포크, 스모크 소세지 1개, 옥수수 1/4개 ※고기 뼈 주의 *메뉴 설명: 다양한 종류의 바베큐를 담은 플레이트(립과 치킨은 소스 발라서, 풀드포크는 소스 뿌려드립니다.)",
+      "image": "photos/menus/c6abf043422ec471.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "1인 베이비 백 립 바베큐",
+      "priceText": "23,000원",
+      "description": "[1인] *고기 종류: 베이비 백 립(4~6조각) ※고기 뼈 주의 *메뉴 설명: 오랜 시간 부드럽게 초벌한 뒤 밍거스 특제 소스를 발라 구운 돼지 등갈비 바베큐 플레이트(소스 발라서 구워드립니다.)",
+      "image": "photos/menus/023a135f9626cda8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "1인 브리스킷 바베큐",
+      "priceText": "23,000원",
+      "description": "[1인] *고기 종류: 소 차돌양지 *메뉴 설명: 정성껏 훈연하여 깊고 진한 풍미가 가득한 바베큐의 꽃인 브리스킷(소스 뿌려드립니다.). 고기 속이 빨간 이유는 참나무에 오랜 시간 훈연하여 생긴 스모크링 현상 때문입니다. 다 익었으니 안심하고 드세요.",
+      "image": "photos/menus/57501915baaf1899.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "1인 치킨 넓적다리 바베큐",
+      "priceText": "16,000원",
+      "description": "[1인] *고기 종류: 순살 치킨 넓적다리 2개 ※오돌뼈 주의 *메뉴 설명: 초벌한 뒤 특제 소스를 발라 직화로 구운 치킨 넓적다리 바베큐",
+      "image": "photos/menus/5b907c81fe567584.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "1인 풀드 포크 바베큐",
+      "priceText": "18,000원",
+      "description": "[1인] *고기종류: 돼지 어깨살 *메뉴 설명: 부드럽게 초벌하여 살코기만 발라서 찢어 훈연한 바베큐(소스를 뿌려 드립니다.)",
+      "image": "photos/menus/b295184fe1ba708b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "파히타",
+      "priceText": "42,000원",
+      "description": "[1.5~2인 추천] *고기 종류: 우삼겹,순살치킨넓적다리,풀드포크,새우 *메뉴 설명: 파히타는 또띠아에 다양한 고기와 소스 등을 싸먹는 텍스멕스(TEX-MEX) 요리입니다.",
+      "image": "photos/menus/95198bf44cfa883e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "쉬림프 퀘사디아(4등분)",
+      "priceText": "18,000원",
+      "description": "*메뉴 설명: 퀘사디아는 또띠아에 치즈와 각종 재료를 넣어 반으로 접어 굽는 멕시코 요리입니다. *메뉴 구성: 새우, 과카몰리, 치즈, 토마토 살사, 스윗칠리, 양파 마요 소스, 스리라차, 피클",
+      "image": "photos/menus/bbddc73f828e5e83.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "풀드 포크 퀘사디아(4등분)",
+      "priceText": "18,000원",
+      "description": "*메뉴 설명: 퀘사디아는 또띠아에 치즈와 각종 재료를 넣어 반으로 접어 굽는 멕시코 요리입니다. *메뉴 구성: 풀드 포크(돼지 어깨살), 치즈, 토마토 살사, 바베큐 소스, 양파 마요 소스, 피클",
+      "image": "photos/menus/5bbf4b693d4ca16a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "쉬림프 타코(2피스)",
+      "priceText": "13,000원",
+      "description": "*메뉴설명: 타코는 또띠아에 다양한 재료를 넣어 만드는 멕시코식 샌드위치입니다. 함께 제공되는 소스들을 타코에 넣어 드세요! *메뉴구성: 새우,또띠아,토마토살사,샐러드채소,과카몰리,치폴레소스,양파,사워크림,치폴레크림소스,피클",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "우삼겹 타코",
+      "priceText": "15,000원",
+      "description": "*메뉴설명: 타코는 또띠아에 다양한 재료를 넣어 만드는 멕시코식 샌드위치입니다. 함께 제공되는 소스들을 타코에 넣어 드세요! *메뉴구성: 우삼겹, 토마토살사, 치폴레소스, 피클, 치폴레크림, 사워크림",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "풀드 포크 타코(2개)",
+      "priceText": "13,000원",
+      "description": "*메뉴설명: 타코는 또띠아에 다양한 재료를 넣어 만드는 멕시코식 샌드위치입니다. 함께 제공되는 소스들을 타코에 넣어 드세요! *메뉴구성: 풀드 포크,또띠아,토마토살사,슈레드치즈,스윗칠리,양파,사워크림,치폴레크림소스,피클",
+      "image": "photos/menus/25e88fd12eea526e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 베이비 백 립 3조각",
+      "priceText": "9,000원",
+      "description": "*고기종류: 돼지 등갈비 *설명: 오랜 시간 부드럽게 초벌한 뒤 밍거스 특제 소스를 발라 구워드리는 바베큐 *단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+브리스킷 100g",
+      "priceText": "9,000원",
+      "description": "*고기종류: 소 차돌양지 *설명: 정성껏 훈연하여 깊고 진한 풍미가 가득한 바베큐의 꽃인 브리스킷(소스 뿌려드립니다.). 고기 속이 빨간 이유는 참나무에 오랜 시간 훈연하여 생긴 스모크링 현상 때문입니다. 다 익었으니 안심하고 드세요. *단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/4def699b8a4a282d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "우삼겹 200g",
+      "priceText": "9,000원",
+      "description": "*고기종류: 우삼겹 *설명: 특제 럽(향신료 믹스)과 함께 구워드립니다. *단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 순살 치킨 넓적다리 1개",
+      "priceText": "6,000원",
+      "description": "*고기종류: 치킨 넓적다리 *설명: 초벌한 뒤 특제 소스를 발라 직화로 구운 치킨 넓적다리 바베큐 *단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/c7eeb9e9ba4850dc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 풀드 포크(돼지 어깨살) 100g",
+      "priceText": "7,000원",
+      "description": "*고기종류: 돼지 어깨살 *설명: 부드럽게 초벌하여 살코기만 발라서 찢어 훈연한 바베큐(소스를 뿌려 드립니다.) *단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/c0caf86c4bc71f44.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 새우 8마리",
+      "priceText": "8,000원",
+      "description": "*고기종류: 새우 *설명: 특제 럽(향신료 믹스)과 함께 구워드립니다. *단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/2b9b14541aeceaf2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 스모크 소세지 1개",
+      "priceText": "3,000원",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+베이크드 빈스 소스",
+      "priceText": "무료",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+사워 크림",
+      "priceText": "무료",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/c5e48bef858dcdfd.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 치폴레 크림 소스",
+      "priceText": "무료",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/3f9937b89b7e43d1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 햄버거빵 1개",
+      "priceText": "1,500원",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/f90899bd5aa83f2c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 또띠아 3장",
+      "priceText": "1,500원",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/dc9506896513f77b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 마늘버터밥",
+      "priceText": "3,000원",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 야채볶음밥",
+      "priceText": "3,000원",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 즉석 흰쌀밥",
+      "priceText": "2,000원",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/95fe571b2524bacc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "신라면",
+      "priceText": "3,500원",
+      "description": "포장 X *단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/2eecf5e930245c31.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 버터구이 옥수수 1/2개",
+      "priceText": "2,000원",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/fdfe5b8212bfcc88.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 버터구이 통 옥수수 1개",
+      "priceText": "4,000원",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/a62f68acbd78304d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 토마토 살사",
+      "priceText": "2,500원",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/9730037ff6d4b174.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "+ 과카몰리(아보카도)",
+      "priceText": "3,500원",
+      "description": "*단독 주문이 불가능한 메뉴입니다. 메인 메뉴와 함께 추가로 주문 부탁드립니다.",
+      "image": "photos/menus/09fd861682ed8709.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "프렌치 프라이",
+      "priceText": "3,500원",
+      "description": "토마토 케찹",
+      "image": "photos/menus/965cd4faa47f0598.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "고구마 프라이",
+      "priceText": "5,500원",
+      "description": "슈레드 치즈, 꿀",
+      "image": "photos/menus/9e1df24495e9ed2f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "버팔로 치킨 윙 4개",
+      "priceText": "4,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "버팔로 윙 8개",
+      "priceText": "9,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "치킨 텐더 2개",
+      "priceText": "3,500원",
+      "description": "스위트 칠리 소스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "치킨 텐더 4개",
+      "priceText": "7,000원",
+      "description": "스위트 칠리 소스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "사과 <무알콜> 샴페인",
+      "priceText": "9,000원",
+      "description": "무알콜(임산부, 어린이 가능), 용량 375ml",
+      "image": "photos/menus/942d80fdf87981b2.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "립톤 복숭아 아이스티 제로(탄산 X)",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "코카 콜라",
+      "priceText": "2,500원",
+      "description": "",
+      "image": "photos/menus/7743ca0dcf3ab780.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "코카 콜라 제로",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "코카 콜라 제로 레몬라임",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "펩시 콜라 제로 라임",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "펩시 콜라 제로 피치",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "칠성 사이다 제로",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "환타 파인애플 제로",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "환타 포도 제로",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "캐나다드라이 토닉워터(레몬)",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "캐나다드라이 진저에일(생강)",
+      "priceText": "2,500원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "카스 생맥주 380CC",
+      "priceText": "3,900원",
+      "description": "",
+      "image": "photos/menus/f99e0326220978da.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "카스 생맥주 500CC",
+      "priceText": "4,500원",
+      "description": "",
+      "image": "photos/menus/a794501f4d3c8a36.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "카스 생맥주 1,750CC",
+      "priceText": "15,000원",
+      "description": "",
+      "image": "photos/menus/63ad90ca5295a4ce.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "포장)카스 생맥주 1,000CC",
+      "priceText": "9,000원",
+      "description": "",
+      "image": "photos/menus/23fd30de4be39a09.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "카스 병맥주",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/47d868da00b97cc8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "참이슬 소주",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/6b07310255c2b7a4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "새로 소주",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/a6fc67b0c5a023ac.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "크레이지 라거",
+      "priceText": "8,000원",
+      "description": "",
+      "image": "photos/menus/5e4ae8bd48153f97.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "미소 에일(충주 미소진 쌀)",
+      "priceText": "8,000원",
+      "description": "",
+      "image": "photos/menus/dfbdf61e18be7410.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "웨일 피치(복숭아 에일)",
+      "priceText": "9,000원",
+      "description": "",
+      "image": "photos/menus/d3b2518fbc6887db.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "콜미 바이 피넛(우도 땅콩)",
+      "priceText": "9,000원",
+      "description": "",
+      "image": "photos/menus/66fa9e667d414aff.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "닉 아이피에이(감귤&열대과일향IPA)",
+      "priceText": "8,000원",
+      "description": "",
+      "image": "photos/menus/1d4d18685c504a6b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "진저 다이브 아이피에이(생강IPA)",
+      "priceText": "9,000원",
+      "description": "",
+      "image": "photos/menus/60b5b3b60b14dd61.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "베이비 밀크 스타우트(흑맥주)",
+      "priceText": "9,500원",
+      "description": "",
+      "image": "photos/menus/a701fb8f54b42960.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "퀸비 임페리얼 스타우트(충주 꿀)",
+      "priceText": "15,000원",
+      "description": "",
+      "image": "photos/menus/8685622e7a9e3eb4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "레몬 하이볼",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    },
+    {
+      "name": "진저 하이볼",
+      "priceText": "7,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1269554279/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.10.19"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "menuCatalog": [
+    {
+      "name": "육칼",
+      "priceText": "11,000원",
+      "description": "얼큰한 육개장에 쫄깃한 생면이 함께 나오는 실속메뉴",
+      "image": "photos/menus/285e1392ed470f36.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35597782/menu/list"
+    },
+    {
+      "name": "육개장",
+      "priceText": "11,000원",
+      "description": "푸짐한 야채와 한우사골,양지고기로 육수를 낸 대표메뉴",
+      "image": "photos/menus/0099669486a6822c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35597782/menu/list"
+    },
+    {
+      "name": "맑음 칼국수",
+      "priceText": "11,000원",
+      "description": "",
+      "image": "photos/menus/181f087d0987e9cd.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35597782/menu/list"
+    },
+    {
+      "name": "맑음 육개장",
+      "priceText": "11,000원",
+      "description": "",
+      "image": "photos/menus/72a85ec641bcffa5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35597782/menu/list"
+    },
+    {
+      "name": "능이육개장",
+      "priceText": "13,000원",
+      "description": "능이버섯이 들어가 영양만점 육개장",
+      "image": "photos/menus/4ebf4235526d671d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35597782/menu/list"
+    },
+    {
+      "name": "우족곰탕",
+      "priceText": "14,000원",
+      "description": "국내산",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35597782/menu/list"
+    },
+    {
+      "name": "육회비빔밥",
+      "priceText": "12,000원",
+      "description": "신선한 한우육회와 식사를 동시에 합리적인 메뉴",
+      "image": "photos/menus/ea29d4c172cdc8d4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35597782/menu/list"
+    },
+    {
+      "name": "육회",
+      "priceText": "25,000원",
+      "description": "",
+      "image": "photos/menus/ba99dac8225bc1ec.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35597782/menu/list"
+    },
+    {
+      "name": "만두",
+      "priceText": "5,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/35597782/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/35597782/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.01.06"
+    }
+  ]
+}

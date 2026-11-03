@@ -1,0 +1,73 @@
+{
+  "menuCatalog": [
+    {
+      "name": "커피젤리",
+      "priceText": "5,500원",
+      "description": "연유소스와 함께 먹으면 더 맛있는, 콜드브루로 만든 커피젤리입니다.",
+      "image": "photos/menus/c6f822b4a2f9a446.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1196620055/menu/list"
+    },
+    {
+      "name": "커스터드푸딩",
+      "priceText": "6,000원",
+      "description": "노른자가 들어간 오븐에 구운 푸딩입니다. 헤이즐넛크림과 함께 제공됩니다.",
+      "image": "photos/menus/6b48f546b529f1be.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1196620055/menu/list"
+    },
+    {
+      "name": "우유푸딩",
+      "priceText": "5,000원",
+      "description": "바닐라쉐이크맛이 나는 판나코타입니다.",
+      "image": "photos/menus/9b17d1d3f468d822.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1196620055/menu/list"
+    },
+    {
+      "name": "초코푸딩",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/6a28c6b64cd185ad.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1196620055/menu/list"
+    },
+    {
+      "name": "말차푸딩",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/fe16f06d7fbc03d1.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1196620055/menu/list"
+    },
+    {
+      "name": "얼그레이푸딩",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/735d2eae3157212c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1196620055/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1196620055/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.09.22"
+    }
+  ]
+}

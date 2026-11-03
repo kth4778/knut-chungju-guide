@@ -1,0 +1,183 @@
+{
+  "menuCatalog": [
+    {
+      "name": "계란말이",
+      "priceText": "7,000원",
+      "description": "",
+      "image": "photos/menus/ce2755898ab8af42.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "혼밥 부대전골 1인",
+      "priceText": "11,000원",
+      "description": "공기밥 버터 기본반찬",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "혼밥 부대덮밥(1인분)",
+      "priceText": "11,900원",
+      "description": "공기밥+버터+ 기본반찬",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "부대전골(2인분)",
+      "priceText": "22,000원",
+      "description": "부대찌개에 큼직한 6가지 특제햄과 베이컨이 듬뿍",
+      "image": "photos/menus/e3b0987f323c1744.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "부대전골(3인분)",
+      "priceText": "33,000원",
+      "description": "부대찌개에 큼직한 6가지 특제햄과 베이컨이 듬뿍",
+      "image": "photos/menus/e3b0987f323c1744.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "부대전골(4인분)",
+      "priceText": "44,000원",
+      "description": "부대찌개에 큼직한 6가지 특제햄과 베이컨이 듬뿍",
+      "image": "photos/menus/e3b0987f323c1744.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "부대볶음(조리)(2인분)",
+      "priceText": "24,000원",
+      "description": "공기밥 버터 기본반찬",
+      "image": "photos/menus/0a573c25b11a4d8f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "부대볶음(조리)(3인분)",
+      "priceText": "36,000원",
+      "description": "공기밥 버터 기본반찬",
+      "image": "photos/menus/0a573c25b11a4d8f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "부대볶음(조리)(4인분)",
+      "priceText": "48,000원",
+      "description": "공기밥 버터 기본반찬",
+      "image": "photos/menus/0a573c25b11a4d8f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "옹심이만두사리",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/50beaf2a18507c20.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "넙적당면",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "신라면사리",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "공기밥",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "칠성사이다(350ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "펩시콜라(제로)(350ml)",
+      "priceText": "2,000원",
+      "description": "350ml 캔으로 변경됐습니다~",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "탐스제로파인350ml",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    },
+    {
+      "name": "펩시콜라350ml",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2077730017/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

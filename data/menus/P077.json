@@ -1,0 +1,373 @@
+{
+  "menuCatalog": [
+    {
+      "name": "아메리카노",
+      "priceText": "4,000원",
+      "description": "",
+      "image": "photos/menus/4e2892594a56e062.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "레몬 아메리카노",
+      "priceText": "5,000원",
+      "description": "쌉싸름한 아메리카노에 상큼한 레몬이 퐁당 :D",
+      "image": "photos/menus/a0966c8068bfac5e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "서리태 크림 라떼",
+      "priceText": "6,500원",
+      "description": "100% 서리태 가루가 생크림과 에스프레소를 만나 고소하고 달콤한 크림 라떼 :D",
+      "image": "photos/menus/2d49623c2c184c76.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "아인슈페너(iced only)",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/daf25fd5984c8862.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "아인슈페너 라떼(iced only)",
+      "priceText": "6,000원",
+      "description": "",
+      "image": "photos/menus/18e27daecc64d03c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "카페 라떼",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/b3a169543a06e5e4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "플랫 화이트(DAY BLEND)",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/3b224426b38526be.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "메이플 밤 라떼",
+      "priceText": "6,000원",
+      "description": "고소한 밤과 향긋한 메이플 시럽으로 달콤 고소한 라떼 :D",
+      "image": "photos/menus/c4193a38b9e87726.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "바닐라 라떼",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/f7e72b05e63eb604.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "베트남 연유 라떼",
+      "priceText": "5,500원",
+      "description": "",
+      "image": "photos/menus/70f5e4135cb6ed74.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "수박 주스",
+      "priceText": "5,500원",
+      "description": "국내산 수박을 갈아 만든 시원한 수박주스 :D",
+      "image": "photos/menus/126b3d9a3dcd3314.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "블랙 밀크티",
+      "priceText": "5,000원",
+      "description": "잉글리쉬 브랙퍼스트와 얼그레이를 직접 블렌딩하여 만드는 밀크티와 연유의 달달한 조합",
+      "image": "photos/menus/50f2d901a9d32c8f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "기라델리 초콜릿 밀크티",
+      "priceText": "5,500원",
+      "description": "수제 초코 베이스와 밀크티가 어우러져 더욱 고소하고 달콤한 초콜릿 밀크티.",
+      "image": "photos/menus/87c3d006aca8dc0e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "제주 말차 밀크티",
+      "priceText": "5,500원",
+      "description": "제주산 말차가루를 이용한 수제 말차 베이스와 밀크티의 조합으로 고소하고 쌉싸름이 동시에.",
+      "image": "photos/menus/f2bb5ce8600a96a4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "딸기 라떼",
+      "priceText": "5,500원",
+      "description": "직접 만든 딸기청을 사용한 딸기 라떼. 호불호 없이 모두가 좋아해요 :D",
+      "image": "photos/menus/72a1d054b317af5e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "허니 레몬 에이드",
+      "priceText": "5,000원",
+      "description": "신선한 레몬으로 직접 만든 레몬청을 사용해 상큼하고 시원함이 두배 :D",
+      "image": "photos/menus/39c404abd85b5356.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "복숭아 아이스티",
+      "priceText": "4,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "허니 레몬티",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/dc016efbdac2d9de.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "햄스테드 로즈힙&히비스커스",
+      "priceText": "5,000원",
+      "description": "100% EU 유기농 인증 로즈힙&히비스커스를 사용한 허브티.",
+      "image": "photos/menus/059e27081981f962.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "햄스테드 루이보스",
+      "priceText": "5,000원",
+      "description": "100% EU 유기농 인증 루이보스만을 사용한 허브티",
+      "image": "photos/menus/eb9285cae434e1d0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "햄스테드 캐모마일",
+      "priceText": "5,000원",
+      "description": "100% EU 유기농 인증 캐모마일만을 사용한 허브티",
+      "image": "photos/menus/98016ac8936ce322.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "소금빵",
+      "priceText": "2,900원",
+      "description": "매일 직접 만드는 겉은 바삭하고 속은 쫄깃한, 버터 풍미 가득한 소금빵",
+      "image": "photos/menus/212c2a75f0fd6ec0.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "명란 소금빵",
+      "priceText": "3,800원",
+      "description": "저염 명란으로 감칠맛을 극대화한 고소하고 짭잘한 명란 소금빵",
+      "image": "photos/menus/313cb0e91a2e4815.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "에그 타르트",
+      "priceText": "3,000원",
+      "description": "바삭한 페이스트리 속 부드러운 달콤함 :D",
+      "image": "photos/menus/ff661305f99de372.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "클래식 스콘(1개)",
+      "priceText": "3,000원",
+      "description": "독일산 마르켄버터(최고급 천연발효버터이며, 순수한 풍미를 가진 무염버터)를 사용합니다 :D",
+      "image": "photos/menus/e7e791760512735f.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "얼그레이 스콘(1개)",
+      "priceText": "3,500원",
+      "description": "",
+      "image": "photos/menus/492758bab1210f29.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "쇼콜라 스콘(1개)",
+      "priceText": "3,500원",
+      "description": "쌉싸름한 코코아와 달콤한 초코칩이 한가득 들어 있는 쇼콜라 스콘. 커피와 찰떡궁합 :D",
+      "image": "photos/menus/28746563d9032985.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "이즈니 크루아상",
+      "priceText": "3,700원",
+      "description": "이즈니 버터를 듬뿍 넣어 매장에서 직접 구운 정통 크루아상 :D (매일 한정 판매)",
+      "image": "photos/menus/f74d851962270446.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "더치 베이비",
+      "priceText": "4,000원",
+      "description": "최상급의 마르켄 버터(천연 발효버터)와 마스카포네 치즈로 풍미를 극대화한 독일식 팬케이크",
+      "image": "photos/menus/07503f7a75cebc37.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "에그마요 샌드위치(소금빵)",
+      "priceText": "5,400원",
+      "description": "겉바속촉 소금빵 속에 에그마요를 듬뿍 채운 단짠 조합의 샌드위치",
+      "image": "photos/menus/9347a00d27f6b16e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "베이글 클럽 샌드위치",
+      "priceText": "8,500원",
+      "description": "쫄깃 촉촉한 탕종 베이글과 신선한 야채, 햄, 메이플 크림치즈로 만든 든든한 샌드위치 :D",
+      "image": "photos/menus/b8cbb49ddce03112.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "베이글 연어샌드위치",
+      "priceText": "10,500원",
+      "description": "쫄깃 촉촉한 탕종베이글에 신선한 야채와 크림치즈, 훈제 연어로 상큼하고 매콤한 샌드위치",
+      "image": "photos/menus/7413bb2754cd7b0c.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "베이글 클럽샌드위치+아메리카노",
+      "priceText": "10,500원",
+      "description": "베이글 샌드위치와 아메리노를 합리적인 가격에 만나보세요 :D",
+      "image": "photos/menus/428fcfb55082177b.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "베이글 클럽샌드위치+라떼",
+      "priceText": "11,500원",
+      "description": "베이글 샌드위치와 카페 라떼를 함께 즐겨 보세요 :D",
+      "image": "photos/menus/0390cb3c05d8a887.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "베이글 연어샌드위치+아메리카노",
+      "priceText": "12,500원",
+      "description": "베이글 연어 샌드위치를 아메리카노와 함께 즐겨 보세요 :D",
+      "image": "photos/menus/e3f54b1ea2615f0d.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    },
+    {
+      "name": "베이글 연어샌드위치+라떼",
+      "priceText": "13,500원",
+      "description": "베이글 샌드위치와 라떼를 함께 즐겨 보세요. 라떼 변경도 가능합니다 :D",
+      "image": "photos/menus/6954c12d101ebd20.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1208664909/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.07.28"
+    }
+  ]
+}

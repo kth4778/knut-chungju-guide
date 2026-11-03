@@ -1,0 +1,23 @@
+{
+  "menuCatalog": [
+    {
+      "name": "아메리카노",
+      "priceText": "5,000원",
+      "description": "",
+      "image": "photos/menus/72426bab4c6c5c49.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/36655170/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/36655170/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.08.18"
+    }
+  ]
+}

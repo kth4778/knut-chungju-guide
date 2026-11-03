@@ -1,0 +1,53 @@
+{
+  "menuCatalog": [
+    {
+      "name": "수제 매운 치즈 돈까스",
+      "priceText": "14,000원",
+      "description": "치즈돈까스는 하루만 지나도 완성도가 떨어져 당일생산 당일판매 원칙으로 조기소진될 수 있음",
+      "image": "photos/menus/2da86a7b3f3f090e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1869525189/menu/list"
+    },
+    {
+      "name": "수제 매운 돈까스",
+      "priceText": "13,000원",
+      "description": "스프 + 돈까스 + 양배추샐러드 + 마카로니 + 바질토마토 + 단무지 + 깍두기 + 밥",
+      "image": "photos/menus/288dac3fca2933c8.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1869525189/menu/list"
+    },
+    {
+      "name": "수제 치즈 돈까스",
+      "priceText": "13,000원",
+      "description": "치즈돈까스는 하루만 지나도 완성도가 떨어져 당일생산 당일판매 원칙으로 조기소진될 수 있음",
+      "image": "photos/menus/9e2c662709a302e4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1869525189/menu/list"
+    },
+    {
+      "name": "수제 봉방 돈까스",
+      "priceText": "12,000원",
+      "description": "스프 + 돈까스 + 양배추샐러드 + 마카로니 + 바질 토마토 + 단무지 + 깍두기 + 밥",
+      "image": "photos/menus/1582d9b43c6c1a48.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1869525189/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1869525189/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.05.14"
+    }
+  ]
+}

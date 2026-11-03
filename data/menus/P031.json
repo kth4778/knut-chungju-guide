@@ -1,0 +1,153 @@
+{
+  "menuCatalog": [
+    {
+      "name": "매콤잡채찜닭(순살 /소(2인))",
+      "priceText": "23,000원",
+      "description": "공깃밥은별도입니다 (매콤소스+잡채당면)",
+      "image": "photos/menus/1c8c865d76f2bb84.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "순두부도리탕(순살/소(2인))",
+      "priceText": "24,000원",
+      "description": "(순두부+새우) 공깃밥은별도입니다",
+      "image": "photos/menus/259f3679ab5220a9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "빨간찜닭(순살 / 소(2인))",
+      "priceText": "23,000원",
+      "description": "공깃밥은별도입니다 (고추장소스+납작당면) 감자는안들어갑니다",
+      "image": "photos/menus/f605fea97e401ed9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "빨간찜닭(순살 / 중(3인))",
+      "priceText": "33,000원",
+      "description": "공깃밥은별도입니다 (고추장소스+납작당면) 감자는안들어갑니다",
+      "image": "photos/menus/f605fea97e401ed9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "로제찜닭(순살 / 소(2인))",
+      "priceText": "26,000원",
+      "description": "공깃밥은별도입니다 (로제소스+우동) 유제품알레르기는있는분들은 주문을삼가해주세요",
+      "image": "photos/menus/40f30a5461e85937.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "간장찜닭(순살 / 소(2인))",
+      "priceText": "19,000원",
+      "description": "공깃밥은별도입니다 (간장소스+납작당면) (찜닭요리는국물많이안됩니다)",
+      "image": "photos/menus/107451cbfdc01eb5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "간장찜닭(순살 / 중(3인))",
+      "priceText": "30,000원",
+      "description": "공깃밥은별도입니다 (간장소스+납작당면) (찜닭요리는국물많이안됩니다)",
+      "image": "photos/menus/107451cbfdc01eb5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "(1인)간장찜닭 (사리변경 안됩니다)(순살 (1인))",
+      "priceText": "12,000원",
+      "description": "공깃밥은별도입니다",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "공깃밥",
+      "priceText": "1,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "코카콜라(500ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/0557485567b68daf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "코카콜라(355ml)",
+      "priceText": "1,500원",
+      "description": "",
+      "image": "photos/menus/0557485567b68daf.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "칠성사이다(500ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "칠성사이다(355ml)",
+      "priceText": "1,500원",
+      "description": "",
+      "image": "photos/menus/8a11cb1a1717e62a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    },
+    {
+      "name": "비락식혜(500ml)",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1633700715/menu/list",
+      "checked": "2026-10-24",
+      "updated": null
+    }
+  ]
+}

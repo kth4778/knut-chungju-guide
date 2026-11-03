@@ -1,0 +1,297 @@
+{
+  "menuCatalog": [
+    {
+      "name": "[신선한 육회] 야채육회비빔밥",
+      "priceText": "10,900원",
+      "variants": [
+        {
+          "text": ",10,900원",
+          "price": 10900
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-00.png"
+    },
+    {
+      "name": "[다시 찾게되는] 야채삼겹살비빔밥",
+      "priceText": "8,900원",
+      "variants": [
+        {
+          "text": ",8,900원",
+          "price": 8900
+        }
+      ],
+      "image": "photos/menus/bm-3e6f3ea2e0bbf0c3.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-00.png"
+    },
+    {
+      "name": "고추장삼겹살 비빔밥",
+      "priceText": "8,900원",
+      "variants": [
+        {
+          "text": ",8,900원",
+          "price": 8900
+        }
+      ],
+      "image": "photos/menus/bm-26aebcda188fe2e7.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-00.png"
+    },
+    {
+      "name": "얼큰 순두부 육개장",
+      "priceText": "10,000원",
+      "variants": [
+        {
+          "text": "1인분,10,000원",
+          "price": 10000
+        }
+      ],
+      "image": "photos/menus/bm-4e2b53ee64704777.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-00.png"
+    },
+    {
+      "name": "스팸&계란후라이",
+      "priceText": "4,500원",
+      "variants": [
+        {
+          "text": ",4,500원",
+          "price": 4500
+        }
+      ],
+      "image": "photos/menus/bm-42281f80ca1a3686.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-00.png"
+    },
+    {
+      "name": "야채차돌비빔밥",
+      "priceText": "11,500원",
+      "variants": [
+        {
+          "text": ",11,500원",
+          "price": 11500
+        }
+      ],
+      "image": "photos/menus/bm-b97487d87c3c55bf.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-01.png"
+    },
+    {
+      "name": "소갈비탕",
+      "priceText": "10,500원",
+      "variants": [
+        {
+          "text": ",10,500원",
+          "price": 10500
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-02.png"
+    },
+    {
+      "name": "얼큰 육개장",
+      "priceText": "9,000원",
+      "variants": [
+        {
+          "text": "1인분,9,000원",
+          "price": 9000
+        }
+      ],
+      "image": "photos/menus/bm-5e4cefa115a2b1b8.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-02.png"
+    },
+    {
+      "name": "버터간장계란밥",
+      "priceText": "5,500원",
+      "variants": [
+        {
+          "text": ",5,500원",
+          "price": 5500
+        }
+      ],
+      "image": "photos/menus/bm-2162545959e98c71.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-02.png"
+    },
+    {
+      "name": "치즈돈까스",
+      "priceText": "5,500원",
+      "variants": [
+        {
+          "text": ",5,500원",
+          "price": 5500
+        }
+      ],
+      "image": "photos/menus/bm-bb7660c5fa75facf.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-02.png"
+    },
+    {
+      "name": "생선까스",
+      "priceText": "4,500원",
+      "variants": [
+        {
+          "text": "3개,4,500원",
+          "price": 4500
+        }
+      ],
+      "image": "photos/menus/bm-6a029e96fe1593bd.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-03.png"
+    },
+    {
+      "name": "계란밥",
+      "priceText": "2,500원",
+      "variants": [
+        {
+          "text": ",2,500원",
+          "price": 2500
+        }
+      ],
+      "image": "photos/menus/bm-af0c4a77f2fd2bd4.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-03.png"
+    },
+    {
+      "name": "공기밥",
+      "priceText": "1,000원",
+      "variants": [
+        {
+          "text": ",1,000원",
+          "price": 1000
+        }
+      ],
+      "image": "photos/menus/bm-f5be877a4ee97334.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-03.png"
+    },
+    {
+      "name": "계란후라이",
+      "priceText": "1,500원",
+      "variants": [
+        {
+          "text": "2개,1,500원",
+          "price": 1500
+        }
+      ],
+      "image": "photos/menus/bm-4e049f0fc165ed29.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-03.png"
+    },
+    {
+      "name": "계란찜",
+      "priceText": "1,500원",
+      "variants": [
+        {
+          "text": ",1,500원",
+          "price": 1500
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-04.png"
+    },
+    {
+      "name": "김치추가",
+      "priceText": "1,000원",
+      "variants": [
+        {
+          "text": ",1,000원",
+          "price": 1000
+        }
+      ],
+      "image": "photos/menus/bm-56af04f0b489da0c.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-04.png"
+    },
+    {
+      "name": "무말랭이추가",
+      "priceText": "1,000원",
+      "variants": [
+        {
+          "text": ",1,000원",
+          "price": 1000
+        }
+      ],
+      "image": "photos/menus/bm-a89af27141176753.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-04.png"
+    },
+    {
+      "name": "콜라",
+      "priceText": "2,000원",
+      "variants": [
+        {
+          "text": ",2,000원",
+          "price": 2000
+        }
+      ],
+      "image": "photos/menus/bm-4ca207d17a03fd38.webp",
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-04.png"
+    },
+    {
+      "name": "사이다",
+      "priceText": "2,000원",
+      "variants": [
+        {
+          "text": ",2,000원",
+          "price": 2000
+        }
+      ],
+      "image": null,
+      "source": "baemin",
+      "context": "배민 배달 가격",
+      "checked": "2026-10-24",
+      "evidence": "P042-menu-04.png"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "baemin",
+      "label": "배민 배달 메뉴",
+      "checked": "2026-10-24",
+      "note": "연결된 휴대폰의 배달 메뉴 화면에서 확인"
+    }
+  ]
+}

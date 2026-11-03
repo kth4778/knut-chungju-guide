@@ -6,19 +6,20 @@
   <meta name="theme-color" content="#ffffff">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
-  <meta name="description" content="교통대생이 직접 추천한 충주캠퍼스 맛집·숨은장소·생활꿀팁 321곳">
-  <title>교통대 충주 가이드</title>
+  <meta name="description" content="교통대생이 직접 추천한 충주캠퍼스 맛집·숨은장소·생활꿀팁 321개 정보">
+  <title>우리학교 가이드 · 교통대 충주캠퍼스</title>
   <link rel="manifest" href="manifest.webmanifest">
-  <link rel="icon" href="assets/logo.png">
-  <link rel="apple-touch-icon" href="assets/logo.png">
+  <link rel="icon" href="assets/studio/app-192.png">
+  <link rel="apple-touch-icon" href="assets/studio/app-192.png">
   <!-- 글꼴 서버 연결을 미리 열어 두어 첫 화면 글자가 늦게 바뀌는 깜빡임을 줄인다 -->
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
-  <link rel="stylesheet" href="styles.css?v=51">
+  <link rel="preload" href="assets/studio/brand.webp" as="image">
+  <link rel="stylesheet" href="styles.css?v=64">
 </head>
 <body>
   <div class="shell">
-    <main id="view" class="view" tabindex="-1"></main>
+    <main id="view" class="view" tabindex="-1" aria-busy="true"><div class="app-boot" id="boot" role="status" aria-label="가이드 정보를 불러오는 중"><i></i><i></i><div></div><p></p><p></p><p></p></div></main>
 
     <!-- 배민처럼 탭 5개: 선택한 탭만 채운 아이콘(.fill), 나머지는 선 아이콘(.line) -->
     <nav class="tabbar" aria-label="주요 메뉴">
@@ -32,10 +33,10 @@
         <svg class="fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 22s-8-6.8-8-12.5a8 8 0 0 1 16 0C20 15.2 12 22 12 22zm0-9.5a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" fill-rule="evenodd"/></svg>
         <span>지도</span>
       </a>
-      <a href="#/pick" data-tab="pick">
-        <svg class="line" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="4"/><circle cx="9" cy="9" r="1.2"/><circle cx="15" cy="15" r="1.2"/><circle cx="15" cy="9" r="1.2"/><circle cx="9" cy="15" r="1.2"/></svg>
-        <svg class="fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 3h10a4 4 0 0 1 4 4v10a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V7a4 4 0 0 1 4-4zm2 4.6a1.4 1.4 0 1 0 0 2.8 1.4 1.4 0 0 0 0-2.8zm6 0a1.4 1.4 0 1 0 0 2.8 1.4 1.4 0 0 0 0-2.8zm-6 6a1.4 1.4 0 1 0 0 2.8 1.4 1.4 0 0 0 0-2.8zm6 0a1.4 1.4 0 1 0 0 2.8 1.4 1.4 0 0 0 0-2.8z" fill-rule="evenodd"/></svg>
-        <span>뭐 먹지</span>
+      <a href="#/life" data-tab="life">
+        <svg class="line" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h7l2 2 2-2h7v15h-7l-2 2-2-2H3z"/><path d="M12 7v15M6 9h3M6 13h3M15 9h3M15 13h3"/></svg>
+        <svg class="fill" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h7l2 2 2-2h7v17h-7l-2 2-2-2H3z"/><path d="M12 7v13" stroke="white" stroke-width="1.5"/></svg>
+        <span>학교생활</span>
       </a>
       <a href="#/explore" data-tab="explore">
         <svg class="line" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
@@ -51,6 +52,6 @@
   </div>
 
   <div id="toast" class="toast" role="status" aria-live="polite"></div>
-  <script src="app.js?v=51"></script>
+  <script src="app.js?v=64"></script>
 </body>
 </html>

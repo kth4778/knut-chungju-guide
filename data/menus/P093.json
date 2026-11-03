@@ -1,0 +1,103 @@
+{
+  "menuCatalog": [
+    {
+      "name": "규카츠",
+      "priceText": "19,500원",
+      "description": "레어 상태로 화로에 직접 구워 먹는 부드러운 후라토식당만의 차별화 된 숙성 규카츠",
+      "image": "photos/menus/fdda3093e4455184.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1989912532/menu/list"
+    },
+    {
+      "name": "스테키 정식",
+      "priceText": "19,500원",
+      "description": "야끼니꾸 스타일로 레어하게 겉면을 익혀 부드러운 육즙과 고소한 맛을 즐길 수 있는 메뉴",
+      "image": "photos/menus/2b0f8f54705e2cb4.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1989912532/menu/list"
+    },
+    {
+      "name": "스테키 덮밥",
+      "priceText": "19,500원",
+      "description": "후라토식당의 비법 소스로 구운 숙성된 스테이크를 온센 타마고와 함께 즐기는 소고기 덮밥",
+      "image": "photos/menus/9f83f6572d8d6ac9.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1989912532/menu/list"
+    },
+    {
+      "name": "우삼겹 덮밥",
+      "priceText": "14,500원",
+      "description": "직화로 구운 푸짐한 우삼겹에 숙성 소스를 넣어 단짠단짠한 매력의 후라토식당의 우삼겹 덮밥",
+      "image": "photos/menus/359f97c3a0eff217.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1989912532/menu/list"
+    },
+    {
+      "name": "에비카츠동",
+      "priceText": "13,500원",
+      "description": "계란의 부드러움과 바삭한 새우튀김의 조화를 한 그릇에 담은 후라토식당의 에비카츠동",
+      "image": "photos/menus/ac77941e683de6ae.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1989912532/menu/list"
+    },
+    {
+      "name": "반숙 오므라이스",
+      "priceText": "14,500원",
+      "description": "부드러운 반숙계란을 반으로 갈라 후라토 시그니처소스를 부어먹는 몽글한 식감의 오므라이스",
+      "image": "photos/menus/778fe2a2acbd7638.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1989912532/menu/list"
+    },
+    {
+      "name": "야마가타 민치카레",
+      "priceText": "14,500원",
+      "description": "장시간 카라멜라이징으로 풍미를 더한, 바삭 새우튀김과 다진 돼지고기가 들어간 후라토식 카레",
+      "image": "photos/menus/849dd3c6da8c3bc5.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1989912532/menu/list"
+    },
+    {
+      "name": "니꾸온우동(계절메뉴)",
+      "priceText": "11,000원",
+      "description": "쫄깃한 면발과 우삼겹의 조화! 후라토의 특제 육수로 담백하고 진한 맛을 선사할 니꾸 온우동",
+      "image": "photos/menus/1fa4af019aee6fe6.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1989912532/menu/list"
+    },
+    {
+      "name": "냉소바(계절메뉴)",
+      "priceText": "10,000원",
+      "description": "메밀의 쫄깃함과 바삭한 감태의 고소함이 더해진 후라토 특제육수로 맛을낸 일본식 냉소바",
+      "image": "photos/menus/4966cc2337fbc9cc.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/1989912532/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/1989912532/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.10.08"
+    }
+  ]
+}

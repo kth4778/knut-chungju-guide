@@ -1,0 +1,173 @@
+{
+  "menuCatalog": [
+    {
+      "name": "스매쉬 더블 치즈버거",
+      "priceText": "9,400원",
+      "description": "smash'd 패티2장+ 치즈2장+ 구운양파 + 크루소스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "스매쉬 더블버거 SET",
+      "priceText": "13,400원",
+      "description": "더블치즈버거+감튀+음료",
+      "image": "photos/menus/87efac74fe2fb846.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "칠리스 치즈 스틱",
+      "priceText": "4,000원",
+      "description": "매콤함과 고소함의 완벽한 조화! 고추 마늘 양파등의 특제 시즈닝 첨가로 더 풍부한 맛!",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "칠리프라이",
+      "priceText": "7,500원",
+      "description": "프라이, 칠리콘카르네, 치즈 1장",
+      "image": "photos/menus/939c6878b7e5a89a.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "크리스피 핫 윙봉(2pcs)",
+      "priceText": "4,400원",
+      "description": "크리스피한 미국서부식 스타일의 빠삭한 윙스틱",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "스매쉬 싱글 치즈버거",
+      "priceText": "6,200원",
+      "description": "smash'd 패티1장+ 치즈1장+ 구운양파 + 크루소스",
+      "image": "photos/menus/897b7eea6b618a68.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "스매쉬 싱글버거 SET",
+      "priceText": "10,200원",
+      "description": "싱글치즈버거+감튀+음료",
+      "image": "photos/menus/49fe05fec5c30c5e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "SIDE SET",
+      "priceText": "6,600원",
+      "description": "감자튀김. 양파링, 치킨텐더를 한번에 맛볼수 있는 최고 가성비",
+      "image": "photos/menus/c0d1b65d089f882e.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "치킨텐더",
+      "priceText": "5,800원",
+      "description": "겉바속촉의 정석, 크리스피 텐더 4pcs",
+      "image": "photos/menus/9a362e580d48cfef.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "양파링",
+      "priceText": "4,000원",
+      "description": "바삭함의 끝판왕, 어니언 스트링",
+      "image": "photos/menus/8b647b23462611e3.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "감자튀김",
+      "priceText": "3,500원",
+      "description": "10mm 두께의 레귤러컷 프라이즈",
+      "image": "photos/menus/0320721c68e2f834.webp",
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "생맥주",
+      "priceText": "3,500원",
+      "description": "400ml 시원한 생맥주",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "(추가)패티",
+      "priceText": "3,500원",
+      "description": "버거 및 사이드 주문시 패티 추가 가능",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "(추가)치즈",
+      "priceText": "1,000원",
+      "description": "버거 및 사이드 주문시 치즈 추가 가능",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "탄산음료",
+      "priceText": "2,000원",
+      "description": "",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    },
+    {
+      "name": "칠리콘카르네",
+      "priceText": "4,000원",
+      "description": "다진소고기와 양파 그리고 다양한 향신료를 넣고 만든 살짝 매콤, 멕시코 맛의 칠리소스",
+      "image": null,
+      "source": "naver",
+      "context": "네이버 등록 가격",
+      "checked": "2026-10-24",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list"
+    }
+  ],
+  "menuSources": [
+    {
+      "source": "naver",
+      "label": "네이버 등록 메뉴",
+      "page": "https://m.place.naver.com/restaurant/2080472744/menu/list",
+      "checked": "2026-10-24",
+      "updated": "최근 업데이트 26.09.11"
+    }
+  ]
+}
