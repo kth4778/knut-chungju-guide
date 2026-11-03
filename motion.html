@@ -2,313 +2,357 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#0b1220">
-<title>가이드 소개 영상</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0a1120">
+<title>교통대 충주 가이드 사용법</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
-:root{--bg:#0b1220;--bg2:#121d33;--blue:#2767e8;--sky:#6ea2ff;--ink:#f4f7fc;--dim:#9aa8bf;--ease:cubic-bezier(.2,.8,.2,1)}
-*{box-sizing:border-box;margin:0}
-html,body{height:100%;background:#000;overflow:hidden;color:var(--ink);font-family:"Pretendard Variable",Pretendard,system-ui,sans-serif;letter-spacing:-.025em;word-break:keep-all}
-#stage{position:absolute;left:50%;top:50%;width:1920px;height:1080px;transform-origin:0 0;overflow:hidden;background:var(--bg)}
-#stage:before{content:"";position:absolute;width:1300px;height:1300px;left:50%;top:-30%;border-radius:50%;background:radial-gradient(closest-side,rgba(39,103,232,.34),transparent);animation:drift 14s ease-in-out infinite alternate}
-@keyframes drift{from{transform:translate(-90%,0)}to{transform:translate(-5%,18%)}}
-.scene{position:absolute;inset:0;visibility:hidden;opacity:0}
-.scene.on{visibility:visible;opacity:1;animation:fadeIn .5s both}
-@keyframes fadeIn{from{opacity:0}to{opacity:1}}
-body.paused *,body.paused *:before,body.paused *:after{animation-play-state:paused!important}
-.up{opacity:0}.on .up{animation:up .8s var(--ease) both;animation-delay:var(--d,0s)}
-@keyframes up{from{opacity:0;transform:translateY(36px)}to{opacity:1;transform:none}}
-.pop{opacity:0}.on .pop{animation:pop .7s var(--ease) both;animation-delay:var(--d,0s)}
-@keyframes pop{from{opacity:0;transform:scale(.72)}to{opacity:1;transform:none}}
+:root{--bg:#f3f5f9;--surface:#fff;--line:#e2e6ee;--text:#192434;--muted:#5f6b7e;--blue:#2767e8;--sky:#6ea2ff}
+*{box-sizing:border-box}html,body{margin:0}
+body{background:var(--bg);color:var(--text);font-family:"Pretendard Variable",Pretendard,system-ui,sans-serif;letter-spacing:-.02em;word-break:keep-all;-webkit-font-smoothing:antialiased}
+.wrap{max-width:1240px;margin:0 auto;padding:22px 16px 72px}
+.top{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:18px}
+.top h1{margin:0;font-size:clamp(22px,3.4vw,34px);font-weight:800;letter-spacing:-.035em}
+.top a{flex:none;font-size:14px;font-weight:650;color:var(--muted);text-decoration:none;background:#e7ebf2;border-radius:999px;padding:9px 14px}
+.player{background:#0a1120;border-radius:18px;overflow:hidden;box-shadow:0 24px 60px rgba(16,28,56,.25)}
+.stagewrap{position:relative;width:100%;aspect-ratio:16/9;overflow:hidden;background:#0a1120}
+.player:fullscreen{border-radius:0;display:flex;flex-direction:column}
+.player:fullscreen .stagewrap{flex:1;aspect-ratio:auto}
+.ctrl{display:flex;align-items:center;gap:8px;padding:10px 12px;color:#c9d2e0;font-size:14px}
+.ctrl button{font:inherit;font-weight:650;color:#eef2f8;background:#1c2638;border:0;border-radius:10px;height:38px;min-width:38px;padding:0 12px;cursor:pointer;white-space:nowrap}
+.ctrl button:hover{background:#29364d}.ctrl .on{background:#1e3f86;color:#d6e4ff}
+.ctrl .now{font-weight:700;color:#fff;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:220px}
+.ctrl .tc{font-variant-numeric:tabular-nums;color:#93a0b4;white-space:nowrap}
+.ctrl input{flex:1;min-width:50px;accent-color:var(--sky)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;margin-top:22px}
+.card{font:inherit;color:inherit;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:0;overflow:hidden;cursor:pointer;transition:transform .15s,box-shadow .15s}
+.card:hover{transform:translateY(-2px);box-shadow:0 12px 28px rgba(16,28,56,.12)}
+.card.sel{border-color:var(--blue);box-shadow:0 0 0 2px var(--blue) inset}
+.thumb{position:relative;aspect-ratio:16/9;background:#0a1120 center/cover no-repeat}
+.dur{position:absolute;right:9px;bottom:9px;background:rgba(0,0,0,.68);color:#fff;font-size:12px;padding:3px 8px;border-radius:6px;font-variant-numeric:tabular-nums}
+.meta{padding:12px 14px 15px}.no{font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.meta h3{margin:3px 0 4px;font-size:18px;letter-spacing:-.025em}.meta p{margin:0;color:var(--muted);font-size:14px;line-height:1.45}
+@media(max-width:560px){.ctrl .now,.ctrl .opt{display:none}}
 
-/* 글자 */
-.eyebrow{font-size:26px;font-weight:700;color:var(--sky);letter-spacing:.02em}
-h1{font-size:84px;line-height:1.2;font-weight:800;letter-spacing:-.04em}
-h2{font-size:72px;line-height:1.22;font-weight:800;letter-spacing:-.04em;margin-top:22px}
-.sub{font-size:32px;line-height:1.5;color:var(--dim);margin-top:28px;font-weight:500}
-.center{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
-
-/* 폰 화면 장면: 글과 폰을 좌우로 */
-.copy{position:absolute;top:50%;width:760px;transform:translateY(-50%)}
-.left .copy{left:150px}.right .copy{left:1010px}
-.phone-at{position:absolute;top:50%;margin-top:-468px}
-.left .phone-at{left:1090px}.right .phone-at{left:330px}
-.chips{display:flex;flex-wrap:wrap;gap:16px;margin-top:44px}
-.chip{padding:16px 26px;border-radius:999px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.14);font-size:28px;font-weight:650}
-.chip b{color:var(--sky);font-weight:800;margin-right:8px}
-
-/* 폰 틀: 안쪽은 실제 캡처 크기(390×844)를 그대로 쓴다 */
-.phone{position:relative;width:450px;height:937px;padding:16px;border-radius:66px;background:#05080f;box-shadow:0 0 0 2px #2c3648,0 50px 110px rgba(0,0,0,.6)}
-.screen{position:relative;width:418px;height:905px;border-radius:50px;overflow:hidden;background:#fff}
-.view{position:absolute;left:0;top:0;width:390px;height:844px;overflow:hidden;transform:scale(1.0718);transform-origin:0 0}
-.view img{position:absolute;left:0;top:0;width:390px;display:block}
-.view .bar{top:auto;bottom:0;z-index:2}
-.layer{position:absolute;inset:0;overflow:hidden;background:#fff}
-.on .scroll{animation:scrollTo var(--t) cubic-bezier(.45,.05,.3,1) var(--d,1s) both}
-@keyframes scrollTo{to{transform:translateY(var(--to))}}
-.on .later{opacity:0;animation:cut .35s var(--ease) var(--d) both}
-@keyframes cut{from{opacity:0;transform:translateX(50px)}to{opacity:1;transform:none}}
-.tap{position:absolute;z-index:5;width:70px;height:70px;margin:-35px 0 0 -35px;border-radius:50%;background:rgba(39,103,232,.45);border:3px solid #fff;opacity:0;box-shadow:0 4px 20px rgba(0,0,0,.3)}
-.on .tap{animation:tap .9s ease-out var(--d) both}
-@keyframes tap{0%{opacity:0;transform:scale(1.5)}35%{opacity:1;transform:scale(.8)}60%{opacity:1;transform:scale(.9)}100%{opacity:0;transform:scale(1.7)}}
-.on .zoom{animation:zoom 7s ease-in-out .6s both;transform-origin:50% 50%}
-@keyframes zoom{to{transform:scale(1.22)}}
-
-/* 01 문제: 막대 */
-.bars{width:1180px;margin-top:56px;text-align:left}
-.bar-row{display:grid;grid-template-columns:230px 1fr;align-items:center;gap:26px;margin-top:22px;font-size:32px;font-weight:650}
-.track{height:58px}
-.fill{height:100%;width:var(--w);min-width:110px;border-radius:12px;background:linear-gradient(90deg,#2767e8,#6ea2ff);display:flex;align-items:center;justify-content:flex-end;padding-right:20px;font-weight:800;transform-origin:0 50%;transform:scaleX(0)}
-.on .fill{animation:grow 1.1s var(--ease) var(--d) both}
-@keyframes grow{to{transform:none}}
-.note{font-size:24px;color:var(--dim);margin-top:30px}
-
-/* 02 데이터 */
-.flow{display:flex;align-items:center;gap:60px;margin-top:64px}
-.big{font-size:136px;font-weight:850;line-height:1;letter-spacing:-.05em;font-variant-numeric:tabular-nums}
-.big small{font-size:56px;font-weight:750;margin-left:6px;letter-spacing:-.03em}
-.lab{font-size:30px;color:var(--dim);margin-top:16px;font-weight:600}
-.arrow{font-size:80px;color:var(--sky)}
-.cats{display:flex;gap:20px;margin-top:70px}
-.cat{width:250px;padding:28px 0;border-radius:26px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.12);font-size:30px;font-weight:650}
-.cat b{display:block;font-size:56px;font-weight:850;color:var(--sky);margin-bottom:4px}
-
-/* 마무리 */
-.fan{position:absolute;left:0;right:0;top:400px;height:976px}
-.fan .phone{position:absolute;top:0;left:50%;margin-left:-225px;transform:rotate(var(--r)) translate(var(--x),var(--y)) scale(.92)}
-.fan>div{opacity:0}.on .fan>div{animation:fanIn 1s var(--ease) var(--d) both}
-@keyframes fanIn{from{opacity:0;transform:translateY(160px)}to{opacity:1;transform:none}}
-.top{position:absolute;left:0;right:0;top:82px;text-align:center}
-.top h1{font-size:76px}
-.url{display:inline-block;margin-top:24px;padding:14px 34px;border-radius:999px;background:var(--blue);font-size:32px;font-weight:700;letter-spacing:-.01em}
-.logo{width:190px;height:190px;object-fit:contain;margin-bottom:30px}
-
-/* 조작 */
-#progress{position:absolute;left:0;right:0;bottom:0;display:flex;gap:6px;padding:0 24px 18px;z-index:9}
-#progress i{flex:var(--g);height:5px;border-radius:3px;background:rgba(255,255,255,.18);overflow:hidden;cursor:pointer}
-#progress i b{display:block;height:100%;width:100%;background:#fff;transform:scaleX(0);transform-origin:0 50%}
-#ctl{position:fixed;right:16px;top:16px;display:flex;gap:8px;z-index:10;transition:opacity .3s}
-body.idle #ctl{opacity:0}body.idle{cursor:none}
-#ctl a,#ctl button{font:600 15px inherit;font-family:inherit;color:#fff;background:rgba(20,28,44,.82);border:1px solid rgba(255,255,255,.2);border-radius:999px;padding:10px 16px;text-decoration:none;cursor:pointer}
-#load{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:var(--bg);font-size:20px;color:var(--dim);z-index:20}
+/* 무대 1920×1080: 모든 움직임은 시간 t 하나로 계산한다 */
+.stage{position:absolute;left:0;top:0;width:1920px;height:1080px;overflow:hidden;color:#fff;transform-origin:0 0;
+ background:radial-gradient(1100px 800px at 74% 40%,rgba(39,103,232,.34),transparent 66%),radial-gradient(800px 600px at 8% 100%,rgba(110,162,255,.1),transparent 70%),#0a1120}
+.world{position:absolute;left:0;top:0;transform-origin:0 0;will-change:transform}
+.phone{position:absolute;left:-16px;top:-16px;width:422px;height:876px;padding:16px;border-radius:62px;background:#04070d;box-shadow:0 0 0 2px #2b3549,0 50px 100px rgba(0,0,0,.6)}
+.screen{position:relative;width:390px;height:844px;border-radius:46px;overflow:hidden;background:#fff}
+.ly{position:absolute;inset:0;overflow:hidden;background:#fff;visibility:hidden}
+.ly img{position:absolute;left:0;top:0;width:390px;display:block}.ly img.bar{top:auto;bottom:0}
+.spot{position:absolute;border-radius:14px;box-shadow:0 0 0 1000px rgba(6,12,28,.56),0 0 0 3px #6ea2ff,0 0 26px 4px rgba(110,162,255,.8);opacity:0;z-index:5}
+.fing{position:absolute;left:0;top:0;width:54px;height:54px;margin:-27px 0 0 -27px;border-radius:50%;background:rgba(255,255,255,.55);border:3px solid #fff;box-shadow:0 8px 20px rgba(0,0,0,.4);z-index:8;opacity:0;will-change:transform}
+.ring{position:absolute;left:0;top:0;width:54px;height:54px;margin:-27px 0 0 -27px;border-radius:50%;border:3px solid #6ea2ff;z-index:7;opacity:0}
+.spk{position:absolute;left:0;top:0;width:8px;height:8px;margin:-4px 0 0 -4px;border-radius:50%;background:#6ea2ff;z-index:7;opacity:0}
+.roll{position:absolute;display:flex;align-items:center;justify-content:center;background:#fff;border-radius:12px;font-size:25px;font-weight:800;color:#2767e8;z-index:4;visibility:hidden;text-align:center}
+.fly{position:absolute;left:0;top:0;width:44px;height:44px;margin:-22px 0 0 -22px;color:#e5484d;z-index:9;opacity:0}
+.copy{position:absolute;left:120px;top:0;width:900px;height:1080px}
+.hd{position:absolute;left:0;top:210px;opacity:0}
+.eb{display:inline-block;font-size:30px;font-weight:750;color:#a9c6ff;background:rgba(110,162,255,.16);border-radius:999px;padding:10px 24px;margin-bottom:26px}
+.tl{display:block;font-size:92px;line-height:1.16;font-weight:850;letter-spacing:-.045em;white-space:nowrap}
+.tw{display:inline-block;overflow:hidden;vertical-align:top;padding:.04em .02em .1em;margin:-.04em -.02em -.1em}
+.twi{display:inline-block;will-change:transform}
+.st{position:absolute;left:0;display:flex;align-items:center;gap:20px;font-size:40px;font-weight:700;letter-spacing:-.03em;white-space:nowrap;opacity:0}
+.st b{flex:none;width:58px;height:58px;border-radius:50%;display:grid;place-items:center;font-size:30px;font-weight:800;background:#27324a;color:#c5d0e2}
+.st.cur b{background:#2767e8;color:#fff;box-shadow:0 0 0 7px rgba(39,103,232,.3)}
+.render,.render body{background:#0a1120;overflow:hidden}
 </style>
 </head>
 <body>
-<div id="stage">
-
-<section class="scene" data-s="5">
-  <div class="center">
-    <img class="logo pop" src="assets/studio/brand.webp" alt="">
-    <h1 class="up" style="--d:.4s">교통대 충주 가이드</h1>
-    <p class="sub up" style="--d:.9s">선배에게 묻던 것을, 휴대폰으로 바로</p>
-  </div>
-</section>
-
-<section class="scene" data-s="9">
-  <div class="center">
-    <div class="eyebrow up">왜 만들었나</div>
-    <h2 class="up" style="--d:.2s">에브리타임 글 <span data-count="8449">0</span>개를 찾아봤습니다</h2>
-    <div class="bars">
-      <div class="bar-row up" style="--d:.8s"><span>충주역·터미널</span><div class="track"><div class="fill" style="--w:100%;--d:.9s">483</div></div></div>
-      <div class="bar-row up" style="--d:1.1s"><span>버스 시간</span><div class="track"><div class="fill" style="--w:54.5%;--d:1.2s">263</div></div></div>
-      <div class="bar-row up" style="--d:1.4s"><span>점심 메뉴 추천</span><div class="track"><div class="fill" style="--w:19.7%;--d:1.5s">95</div></div></div>
-      <div class="bar-row up" style="--d:1.7s"><span>프린트</span><div class="track"><div class="fill" style="--w:16.4%;--d:1.8s">79</div></div></div>
-      <div class="bar-row up" style="--d:2s"><span>열람실</span><div class="track"><div class="fill" style="--w:12.4%;--d:2.1s">60</div></div></div>
-    </div>
-    <p class="note up" style="--d:3.4s">키워드 검색 건수 · 같은 질문이 계속 올라오고 있었습니다</p>
-  </div>
-</section>
-
-<section class="scene" data-s="7">
-  <div class="center">
-    <div class="eyebrow up">무엇으로 만들었나</div>
-    <h2 class="up" style="--d:.2s">답은 이미 학생들이 알고 있었습니다</h2>
-    <div class="flow">
-      <div class="up" style="--d:.7s"><div class="big"><span data-count="500" data-delay="700">0</span><small>건</small></div><div class="lab">학생 추천</div></div>
-      <div class="arrow up" style="--d:1.5s">→</div>
-      <div class="up" style="--d:1.7s"><div class="big"><span data-count="321" data-delay="1700">0</span><small>곳</small></div><div class="lab">장소로 정리</div></div>
-    </div>
-    <div class="cats">
-      <div class="cat pop" style="--d:2.7s"><b>96</b>맛집</div>
-      <div class="cat pop" style="--d:2.9s"><b>79</b>숨은 장소</div>
-      <div class="cat pop" style="--d:3.1s"><b>98</b>생활 꿀팁</div>
-      <div class="cat pop" style="--d:3.3s"><b>48</b>자유</div>
+<div class="wrap" id="page">
+  <div class="top"><h1>교통대 충주 가이드 사용법</h1><a href="./#/my">가이드로 돌아가기</a></div>
+  <div class="player" id="player">
+    <div class="stagewrap" id="stagewrap"><div class="stage" id="stage"></div></div>
+    <div class="ctrl">
+      <button id="play" type="button">재생</button>
+      <button id="restart" class="opt" type="button" aria-label="처음부터">처음</button>
+      <span class="now" id="now"></span>
+      <input id="scrub" type="range" min="0" max="1000" value="0" aria-label="재생 위치">
+      <span class="tc" id="tc">0:00</span>
+      <button id="speed" type="button">1배</button>
+      <button id="loop" class="opt" type="button">반복</button>
+      <button id="full" type="button">전체 화면</button>
     </div>
   </div>
-</section>
-
-<section class="scene left" data-s="8">
-  <div class="copy">
-    <div class="eyebrow up">홈</div>
-    <h2 class="up" style="--d:.2s">자주 찾는 것부터<br>바로 보이게</h2>
-    <p class="sub up" style="--d:.5s">배달 앱처럼 익숙한 구조로,<br>학생들이 많이 추천한 곳을 먼저 보여 줍니다.</p>
-    <div class="chips"><span class="chip pop" style="--d:1.2s">맛집</span><span class="chip pop" style="--d:1.35s">카페</span><span class="chip pop" style="--d:1.5s">숨은 장소</span><span class="chip pop" style="--d:1.65s">뭐 먹지?</span></div>
-  </div>
-  <div class="phone-at up"><div class="phone"><div class="screen"><div class="view">
-    <img class="scroll" src="motion/home_full.jpg" alt="" style="--to:-650px;--t:4.6s;--d:1.8s"><img class="bar" src="motion/tab_home.jpg" alt="">
-  </div></div></div></div>
-</section>
-
-<section class="scene right" data-s="9">
-  <div class="copy">
-    <div class="eyebrow up">장소 상세</div>
-    <h2 class="up" style="--d:.2s">별점 대신,<br>추천한 이유</h2>
-    <p class="sub up" style="--d:.5s">왜 좋은지, 얼마인지, 학교에서 얼마나 먼지<br>한 화면에서 확인합니다.</p>
-    <div class="chips"><span class="chip pop" style="--d:3.4s"><b>10건</b>추천</span><span class="chip pop" style="--d:3.6s"><b>8개</b>이유</span><span class="chip pop" style="--d:3.8s"><b>4,800원</b></span><span class="chip pop" style="--d:4s"><b>640m</b></span></div>
-  </div>
-  <div class="phone-at up"><div class="phone"><div class="screen"><div class="view">
-    <div class="layer"><img src="motion/cat.jpg" alt=""></div>
-    <div class="tap" style="left:195px;top:450px;--d:1.5s"></div>
-    <div class="layer later" style="--d:2.2s"><img class="scroll" src="motion/detail_full.jpg" alt="" style="--to:-760px;--t:4.2s;--d:3.6s"><img class="bar" src="motion/bar_detail.jpg" alt=""></div>
-  </div></div></div></div>
-</section>
-
-<section class="scene left" data-s="7">
-  <div class="copy">
-    <div class="eyebrow up">지도</div>
-    <h2 class="up" style="--d:.2s">캠퍼스 주변을<br>한눈에</h2>
-    <p class="sub up" style="--d:.5s">네이버 지도에 추천 장소를 올렸습니다.<br>지역별로 묶어서 보고, 가까운 곳을 찾습니다.</p>
-    <div class="chips"><span class="chip pop" style="--d:1.4s"><b>242곳</b>지도에 표시</span></div>
-  </div>
-  <div class="phone-at up"><div class="phone"><div class="screen"><div class="view">
-    <img class="zoom" src="motion/map.jpg" alt=""><img class="bar" src="motion/tab_map.jpg" alt="">
-  </div></div></div></div>
-</section>
-
-<section class="scene right" data-s="8">
-  <div class="copy">
-    <div class="eyebrow up">학교생활</div>
-    <h2 class="up" style="--d:.2s">매번 다시 묻던<br>작은 궁금증</h2>
-    <p class="sub up" style="--d:.5s">학생증, 학식, 통학버스, 와이파이처럼<br>자주 묻는 안내를 주제별로 모았습니다.</p>
-    <div class="chips"><span class="chip pop" style="--d:1.4s"><b>98개</b>생활 안내</span></div>
-  </div>
-  <div class="phone-at up"><div class="phone"><div class="screen"><div class="view">
-    <img class="scroll" src="motion/life_full.jpg" alt="" style="--to:-1400px;--t:5s;--d:1.6s"><img class="bar" src="motion/tab_life.jpg" alt="">
-  </div></div></div></div>
-</section>
-
-<section class="scene left" data-s="7">
-  <div class="copy">
-    <div class="eyebrow up">뭐 먹지?</div>
-    <h2 class="up" style="--d:.2s">고민될 땐<br>한 번만 누르세요</h2>
-    <p class="sub up" style="--d:.5s">학생들이 추천한 맛집 중에서 한 곳을 골라 줍니다.<br>가격과 거리로 좁힐 수도 있습니다.</p>
-    <div class="chips"><span class="chip pop" style="--d:1.4s"><b>96곳</b>후보</span></div>
-  </div>
-  <div class="phone-at up"><div class="phone"><div class="screen"><div class="view">
-    <div class="layer"><img src="motion/pick.jpg" alt=""></div>
-    <div class="tap" style="left:195px;top:355px;--d:2.2s"></div>
-    <div class="layer later" style="--d:3s"><img src="motion/pick_result.jpg" alt=""></div>
-  </div></div></div></div>
-</section>
-
-<section class="scene right" data-s="8">
-  <div class="copy">
-    <div class="eyebrow up">둘러보기</div>
-    <h2 class="up" style="--d:.2s">찾지 않아도<br>발견하게</h2>
-    <p class="sub up" style="--d:.5s">인스타그램 돋보기처럼 사진을 넘겨 보다가<br>끌리는 곳으로 바로 들어갑니다.</p>
-    <div class="chips"><span class="chip pop" style="--d:1.4s"><b>156곳</b>사진 있는 장소</span></div>
-  </div>
-  <div class="phone-at up"><div class="phone"><div class="screen"><div class="view">
-    <img class="scroll" src="motion/explore_full.jpg" alt="" style="--to:-2600px;--t:5.6s;--d:1.2s"><img class="bar" src="motion/tab_explore.jpg" alt="">
-  </div></div></div></div>
-</section>
-
-<section class="scene" data-s="9">
-  <div class="top">
-    <h1 class="up">선배에게 묻던 것을, 이제 휴대폰으로</h1>
-    <div class="url pop" style="--d:.7s">kth4778.github.io/knut-chungju-guide</div>
-  </div>
-  <div class="fan">
-    <div style="--d:.5s"><div class="phone" style="--r:-13deg;--x:-640px;--y:150px"><div class="screen"><div class="view"><img src="motion/map.jpg" alt=""></div></div></div></div>
-    <div style="--d:.9s"><div class="phone" style="--r:13deg;--x:640px;--y:150px"><div class="screen"><div class="view"><img src="motion/explore.jpg" alt=""></div></div></div></div>
-    <div style="--d:.7s"><div class="phone" style="--r:-5deg;--x:-250px;--y:30px"><div class="screen"><div class="view"><img src="motion/life.jpg" alt=""></div></div></div></div>
-    <div style="--d:1.1s"><div class="phone" style="--r:5deg;--x:250px;--y:30px"><div class="screen"><div class="view"><img src="motion/detail.jpg" alt=""></div></div></div></div>
-    <div style="--d:1.3s"><div class="phone" style="--r:0deg;--x:0px;--y:0px"><div class="screen"><div class="view"><img src="motion/home.jpg" alt=""></div></div></div></div>
-  </div>
-</section>
-
-<div id="progress"></div>
+  <div class="grid" id="grid"></div>
 </div>
-
-<div id="ctl">
-  <button id="pp" type="button">일시정지</button>
-  <button id="fs" type="button">전체 화면</button>
-  <a href="./#/my">가이드로</a>
-</div>
-<div id="load">불러오는 중…</div>
 
 <script>
-const stage = document.getElementById('stage');
-const scenes = [...document.querySelectorAll('.scene')];
-const progress = document.getElementById('progress');
-const pp = document.getElementById('pp');
-const durs = scenes.map(s => +s.dataset.s * 1000);
-progress.innerHTML = durs.map((d, i) => `<i style="--g:${d}" data-i="${i}"><b></b></i>`).join('');
-const fills = [...progress.querySelectorAll('b')];
-
-// 1920×1080 무대를 어떤 화면에도 비율 그대로 맞춘다
-function fit() {
-  const k = Math.min(innerWidth / 1920, innerHeight / 1080);
-  stage.style.transform = `scale(${k}) translate(-50%, -50%)`;
+const m = n => `motion/${n}.jpg`;
+const CLIPS = [
+{id:'home',title:'홈 화면',desc:'앱을 열면 무엇이 어디에 있는지',poster:3.4,dur:7.6,
+ heads:[[0,'홈',['앱을 열면','여기서 시작합니다']]],
+ steps:[[.5,'검색창에 바로 입력'],[2.5,'자주 찾는 곳은 아이콘으로'],[4.5,'내리면 학생 추천 순위']],
+ layers:[{at:0,src:'home_full',bar:'bar_home',scroll:[[4.6,6.4,690]]}],
+ cam:[[0,1,195,422],[.7,1.3,195,230],[2.5,1.3,195,420],[4.4,1,195,422]],
+ spots:[[.8,2.3,20,64,350,50],[2.7,4.2,0,336,390,146]]},
+{id:'search',title:'검색',desc:'찾는 말을 넣으면 장소와 안내가 바로',poster:3.8,dur:7.4,
+ heads:[[0,'검색',['찾는 말만','입력하세요']]],
+ steps:[[.4,'검색창을 누르고'],[1.6,'프린트라고 입력하면'],[2.9,'장소·메뉴·추천 이유에서 찾고'],[5,'눌러서 바로 확인']],
+ layers:[{at:0,src:'home'},{at:1.05,src:'search0',tr:'push'},{at:1.7,src:'search1',tr:'cut'},{at:1.95,src:'search2',tr:'cut'},{at:2.2,src:'search3',tr:'cut'},{at:2.8,src:'search_r',tr:'cut'},{at:5,src:'search_d',from:[0,166,390,142]}],
+ taps:[[1,195,89],[4.9,195,237]],
+ cam:[[0,1,195,422],[3,1.25,195,260],[4.8,1,195,422]],
+ spots:[[3.3,4.8,0,166,390,142]]},
+{id:'find',title:'맛집 찾기',desc:'종류를 고르고 비교해서 한 곳 열기',poster:3,dur:8.8,
+ heads:[[0,'맛집 찾기',['먹고 싶은 것부터','고르세요']]],
+ steps:[[.4,'맛집 아이콘을 누르고'],[1.9,'먹고 싶은 종류를 고른 뒤'],[3.9,'거리와 추천 수로 비교'],[5.6,'마음에 드는 곳을 엽니다']],
+ layers:[{at:0,src:'home'},{at:1.05,src:'cat',tr:'push'},{at:2.7,src:'cat_cafe',tr:'cut'},{at:5.6,src:'cafe_d',from:[0,372,390,169]}],
+ taps:[[1,58,400],[2.6,116,208],[5.5,195,456]],
+ cam:[[0,1,195,422],[1.9,1.3,195,300],[3.9,1.25,195,460],[5.4,1,195,422]],
+ spots:[[4.1,5.4,0,372,390,169]]},
+{id:'detail',title:'장소 상세',desc:'추천 이유, 메뉴, 가격과 길찾기',poster:6.8,dur:9.6,
+ heads:[[0,'장소 상세',['가기 전에','여기서 확인']]],
+ steps:[[.5,'추천 수와 이유 개수'],[2.2,'메뉴는 사진으로'],[3.7,'가격·운영시간·거리'],[5.3,'학생들이 남긴 추천 이유'],[7.6,'네이버 지도로 길찾기']],
+ layers:[{at:0,src:'detail_full',bar:'bar_detail',scroll:[[5.3,6.4,1050]]}],
+ taps:[[8.8,285,807]],
+ cam:[[0,1,195,422],[.5,1.25,195,340],[3.6,1.15,195,500],[5.2,1,195,422]],
+ spots:[[.7,2,20,361,127,20],[2.3,3.5,20,403,350,46],[3.8,5.1,20,470,350,235],[7.7,8.8,200,783,170,49]]},
+{id:'map',title:'지도',desc:'분류를 고르고 핀을 눌러 장소 보기',poster:4.2,dur:7,
+ heads:[[0,'지도',['주변을','한눈에 봅니다']]],
+ steps:[[.4,'분류를 고르면 핀이 바뀌고'],[2.2,'숫자 핀은 가까운 곳 묶음'],[3.4,'핀을 누르면 장소 카드']],
+ layers:[{at:0,src:'map'},{at:1.1,src:'map_food',tr:'cut'},{at:3.5,src:'map_sheet',from:[0,844,390,0]}],
+ taps:[[1,110,95],[3.4,155,607]],
+ cam:[[0,1,195,422],[.5,1.3,195,300],[1.6,1,195,422],[3,1.25,195,580]]},
+{id:'life',title:'학교생활',desc:'학생증, 통학버스 같은 안내 찾기',poster:6,dur:8.2,
+ heads:[[0,'학교생활',['자주 묻는 안내를','모았습니다']]],
+ steps:[[.4,'주제별로 모아 보고'],[2.7,'자주 묻는 건 아이콘으로'],[4.5,'쓰는 방법을 바로 읽습니다']],
+ layers:[{at:0,src:'life'},{at:1.1,src:'life_move',tr:'cut'},{at:2.7,src:'life',tr:'cut'},{at:4.5,src:'life_read_full',from:[25,300,79,100],scroll:[[5.6,7,300]]}],
+ taps:[[1,313,487],[4.4,64,350]],
+ cam:[[0,1,195,422],[.5,1.25,195,480],[2.7,1.25,195,350],[4.3,1,195,422]],
+ spots:[[3,4.3,25,300,340,100]]},
+{id:'pick',title:'뭐 먹지?',desc:'고민될 때 한 번에 골라 주는 뽑기',poster:3.2,dur:6.6,
+ heads:[[0,'뭐 먹지?',['고민될 땐','뽑기 한 번']]],
+ steps:[[.4,'조건을 고르고'],[1.9,'뽑기를 누르면'],[4,'한 곳을 골라 줍니다']],
+ layers:[{at:0,src:'pick'},{at:1.1,src:'pick_cheap',tr:'cut'},{at:3.9,src:'pick_result',tr:'cut'}],
+ taps:[[1,58,117],[2.4,195,356]],
+ rolls:[{t0:2.5,t1:3.9,x:42,y:190,w:306,h:88,names:['부리또인 충주교통대점','학생식당','리밍교통대점','핵밥 교통대점','권짬뽕','생각나는감자탕','드랍바이','일번지순대국','관현각 본점','뉴욕버거 충주교통대점','달주','돈까스카페','마라야 교통대점','교직원식당','성대분식']}],
+ cam:[[0,1,195,422],[.5,1.3,195,240],[3.9,1,195,422]]},
+{id:'explore',title:'둘러보기',desc:'사진을 넘겨 보다가 끌리는 곳으로',poster:2.6,dur:9,
+ heads:[[0,'둘러보기',['찾지 않아도','발견합니다']]],
+ steps:[[.4,'사진을 넘겨 구경하고'],[3.8,'끌리는 사진을 누르면 그 장소로'],[6.2,'같은 건물 사진은 장소 목록으로']],
+ layers:[{at:0,src:'explore_full',bar:'bar_explore',scroll:[[.9,2.6,1500],[2.8,3.5,-1500]]},{at:4.4,src:'explore_d',from:[131,299,259,323]},{at:6.2,src:'explore',tr:'cut'},{at:6.9,src:'explore_sheet',from:[0,844,390,0]}],
+ taps:[[4.3,260,460],[6.8,326,705]]},
+{id:'my',title:'찜과 마이',desc:'마음에 든 곳을 모아 두고 다시 보기',poster:3.3,dur:6.4,
+ heads:[[0,'찜과 마이',['마음에 든 곳은','모아 두세요']]],
+ steps:[[.4,'하트를 누르면 찜'],[2.5,'마이에 모이고'],[4.1,'찜 목록에서 다시 봅니다']],
+ layers:[{at:0,src:'detail'},{at:1.1,src:'heart_on',tr:'cut'},{at:2.5,src:'my',tr:'push'},{at:4.2,src:'saved',tr:'push'}],
+ taps:[[1,348,326],[4.1,195,386]],
+ flies:[[1.25,2.45,348,326,350,810]],
+ cam:[[0,1,195,422],[.4,1.3,240,340],[2.4,1,195,422]],
+ spots:[[3,4,38,357,314,58]]},
+{id:'origin',title:'거리 기준 바꾸기',desc:'학교 기준을 내 위치 기준으로',poster:3.6,dur:7.2,
+ heads:[[0,'거리 기준',['내 위치 기준으로','바꿔 보세요']]],
+ steps:[[.4,'기준 위치를 누르고'],[1.9,'현재 위치로 찾은 뒤'],[3.2,'맞으면 이 위치로 보기'],[4.9,'거리가 내 위치 기준으로']],
+ layers:[{at:0,src:'cat2'},{at:1.05,src:'location',tr:'push'},{at:2.5,src:'location_confirm',tr:'cut'},{at:4.8,src:'cat_near',tr:'cut'}],
+ taps:[[1,195,81],[2.4,195,94],[4.7,195,802]],
+ cam:[[0,1,195,422],[.4,1.3,195,230],[2.4,1,195,422],[5,1.25,195,300]],
+ spots:[[3.3,4.6,20,776,350,52],[5.3,6.8,0,60,390,42]]},
+];
+// 「한 번에 보기」는 위 영상들을 그대로 이어 붙여 빠르게 튼다
+function concat(ids, k) {
+  const out = {id:'flow',title:'한 번에 보기',desc:'앱 전체 흐름을 한 편으로',poster:30,heads:[],steps:[],layers:[],taps:[],cam:[],spots:[],rolls:[],flies:[]};
+  let off = 0;
+  const f = v => (v + off);
+  ids.forEach(id => {
+    const c = CLIPS.find(x => x.id === id);
+    const sc = v => f(v / k);
+    c.heads.forEach(h => out.heads.push([sc(h[0]), h[1], h[2]]));
+    c.steps.forEach(s => out.steps.push([sc(s[0]), s[1]]));
+    c.layers.forEach((l, i) => out.layers.push({...l, at: sc(l.at), tr: i === 0 ? 'fade' : l.tr, scroll: l.scroll && l.scroll.map(([a,b,d]) => [sc(a), sc(b), d])}));
+    (c.taps||[]).forEach(t => out.taps.push([sc(t[0]), t[1], t[2]]));
+    (c.cam||[[0,1,195,422]]).forEach(a => out.cam.push([sc(a[0]), a[1], a[2], a[3]]));
+    (c.spots||[]).forEach(s => out.spots.push([sc(s[0]), sc(s[1]), s[2], s[3], s[4], s[5]]));
+    (c.rolls||[]).forEach(r => out.rolls.push({...r, t0: sc(r.t0), t1: sc(r.t1)}));
+    (c.flies||[]).forEach(a => out.flies.push([sc(a[0]), sc(a[1]), a[2], a[3], a[4], a[5]]));
+    off += c.dur / k;
+  });
+  out.dur = off;
+  return out;
 }
-addEventListener('resize', fit); fit();
+CLIPS.push(concat(['home','find','detail','map','life','pick','explore','my'], 1.3));
 
-let cur = -1, elapsed = 0, paused = false, last = 0;
-function show(i) {
-  cur = i; elapsed = 0;
-  scenes.forEach((s, n) => s.classList.toggle('on', n === i));
-  fills.forEach((f, n) => f.style.transform = `scaleX(${n < i ? 1 : 0})`);
-  scenes[i].querySelectorAll('[data-count]').forEach(el => el.textContent = '0');
-}
-function tick(now) {
-  const dt = Math.min(now - last, 100); last = now;
-  if (!paused && cur >= 0) {
-    elapsed += dt;
-    fills[cur].style.transform = `scaleX(${Math.min(elapsed / durs[cur], 1)})`;
-    scenes[cur].querySelectorAll('[data-count]').forEach(el => {
-      const p = Math.min(Math.max(elapsed - +(el.dataset.delay || 400), 0) / 1300, 1);
-      el.textContent = Math.round(+el.dataset.count * (1 - (1 - p) ** 3)).toLocaleString('ko-KR');
+const clamp = (v, a=0, b=1) => Math.min(b, Math.max(a, v));
+const seg = (t, a, b) => clamp((t - a) / (b - a));
+const io = p => p < .5 ? 4*p*p*p : 1 - (-2*p+2)**3/2;
+const outC = p => 1 - (1-p)**3;
+const expo = p => p >= 1 ? 1 : 1 - 2**(-10*p);
+const back = p => { const c = 1.5; return 1 + (c+1)*(p-1)**3 + c*(p-1)**2; };
+const add = (par, cls, html) => { const e = document.createElement('div'); e.className = cls; if (html) e.innerHTML = html; par.append(e); return e; };
+const HEART = '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 21s-8.5-5.2-8.5-11.2A4.8 4.8 0 0 1 12 6.6a4.8 4.8 0 0 1 8.5 3.2C20.5 15.8 12 21 12 21z"/></svg>';
+const CX = 1400, CY = 540, BASE = 1.12;
+
+function build(stage, c) {
+  stage.innerHTML = '';
+  const copy = add(stage, 'copy'), world = add(stage, 'world');
+  const phone = add(world, 'phone'), screen = add(phone, 'screen');
+  const heads = c.heads.map(([t, eb, lines], i) => {
+    const el = add(copy, 'hd');
+    el.innerHTML = `<div class="eb">${eb}</div>` + lines.map(l => `<span class="tl">${l.split(' ').map(w => `<span class="tw"><span class="twi">${w}</span></span>`).join(' ')}</span>`).join('');
+    return {t, el, words:[...el.querySelectorAll('.twi')], end:(c.heads[i+1]||[c.dur+1])[0]};
+  });
+  let group = 0, n = 0;
+  const steps = c.steps.map(([t, text]) => {
+    while (group + 1 < heads.length && t >= heads[group+1].t) { group++; n = 0; }
+    const el = add(copy, 'st', `<b>${n+1}</b><span>${text}</span>`);
+    el.style.top = 520 + n*84 + 'px'; n++;
+    return {t, el, end:heads[group].end};
+  });
+  steps.forEach((s, i) => s.next = (steps[i+1] && steps[i+1].end === s.end) ? steps[i+1].t : s.end);
+  const layers = c.layers.map(l => {
+    const el = add(screen, 'ly');
+    const img = new Image(); img.src = m(l.src); img.alt = ''; el.append(img);
+    if (l.bar) { const b = new Image(); b.src = m(l.bar); b.className = 'bar'; b.alt = ''; el.append(b); }
+    return {...l, el, img};
+  });
+  const rolls = (c.rolls||[]).map(r => { const el = add(screen, 'roll'); Object.assign(el.style,{left:r.x+'px',top:r.y+'px',width:r.w+'px',height:r.h+'px'}); return {...r, el}; });
+  const spots = (c.spots||[]).map(s => { const el = add(screen, 'spot'); Object.assign(el.style,{left:s[2]+'px',top:s[3]+'px',width:s[4]+'px',height:s[5]+'px'}); return {t0:s[0],t1:s[1],el}; });
+  const ring = add(world, 'ring'), fing = add(world, 'fing');
+  const spks = Array.from({length:8}, () => add(world, 'spk'));
+  const flies = (c.flies||[]).map(a => ({a, el:add(world, 'fly', HEART)}));
+  const taps = c.taps || [], cam = c.cam && c.cam.length ? c.cam : [[0,1,195,422]];
+
+  function update(t) {
+    // 카메라: 다음 키로 0.6초 동안 옮겨 간다
+    let z = cam[0][1], fx = cam[0][2], fy = cam[0][3];
+    for (const [kt, kz, kx, ky] of cam) { if (t < kt) break; const p = io(seg(t, kt, kt+.6)); z += (kz-z)*p; fx += (kx-fx)*p; fy += (ky-fy)*p; }
+    const hw = 195/z, hh = 422/z;
+    fx = clamp(fx, hw, 390-hw); fy = clamp(fy, hh, 844-hh);
+    const s = BASE*z, intro = back(seg(t, 0, .5));
+    world.style.transform = `translate(${CX - fx*s}px,${CY - fy*s + (1-intro)*90}px) scale(${s})`;
+    world.style.opacity = seg(t, 0, .25);
+
+    // 화면 층
+    let top = 0;
+    layers.forEach((l, i) => { const d = l.tr === 'cut' ? .1 : .36; if (t >= l.at + d) top = i; });
+    layers.forEach((l, i) => {
+      const on = t >= l.at && i >= top && (i === top || t < l.at + .4 || i > top);
+      l.el.style.visibility = on ? 'visible' : 'hidden';
+      if (!on) return;
+      const raw = seg(t, l.at, l.at + (l.tr === 'cut' ? .1 : .36));
+      let tf = 'none', clip = 'none', op = 1;
+      if (l.tr === 'push') tf = `translateX(${(1-outC(raw))*100}%)`;
+      else if (l.tr === 'cut' || l.tr === 'fade') op = raw;
+      else if (l.from) { const p = expo(raw), [x,y,w,h] = l.from; clip = `inset(${y*(1-p)}px ${(390-x-w)*(1-p)}px ${(844-y-h)*(1-p)}px ${x*(1-p)}px round ${16*(1-p)}px)`; }
+      l.el.style.transform = tf; l.el.style.clipPath = clip; l.el.style.opacity = op;
+      let y = 0;
+      for (const [a, b, d] of l.scroll || []) y += d * io(seg(t, a, b));
+      l.img.style.transform = `translateY(${-y}px)`;
     });
-    if (elapsed >= durs[cur]) {
-      if (cur < scenes.length - 1) show(cur + 1);
-      else setPaused(true); // 마지막 화면에서 멈춘다
+
+    spots.forEach(s => { s.el.style.opacity = Math.min(seg(t, s.t0, s.t0+.22), 1-seg(t, s.t1-.2, s.t1)); });
+    rolls.forEach(r => {
+      const on = t >= r.t0 && t < r.t1;
+      r.el.style.visibility = on ? 'visible' : 'hidden';
+      if (on) r.el.textContent = r.names[Math.min(r.names.length-1, Math.floor(outC(seg(t, r.t0, r.t1))*r.names.length))];
+    });
+
+    // 손가락: 누르기 직전에 들어와서 눌렀다가 사라진다
+    const tap = taps.find(a => t >= a[0]-.42 && t <= a[0]+.42);
+    if (tap) {
+      const [T, x, y] = tap, mv = outC(seg(t, T-.42, T-.04));
+      const press = t < T ? 1 - .22*seg(t, T-.08, T) : .78 + .22*seg(t, T, T+.12);
+      fing.style.opacity = Math.min(seg(t, T-.42, T-.28), 1-seg(t, T+.24, T+.42));
+      fing.style.transform = `translate(${x + (1-mv)*70}px,${y + (1-mv)*110}px) scale(${press})`;
+      const r = seg(t, T, T+.42);
+      ring.style.opacity = t < T ? 0 : 1-r;
+      ring.style.transform = `translate(${x}px,${y}px) scale(${.8+r*1.9})`;
+      spks.forEach((e, i) => { const a = i/8*Math.PI*2, d = 26+expo(r)*46; e.style.opacity = t < T ? 0 : 1-r; e.style.transform = `translate(${x+Math.cos(a)*d}px,${y+Math.sin(a)*d}px) scale(${1-r*.6})`; });
+    } else {
+      fing.style.opacity = 0; ring.style.opacity = 0; spks.forEach(e => e.style.opacity = 0);
     }
+    flies.forEach(({a:[t0,t1,x0,y0,x1,y1], el}) => {
+      const p = seg(t, t0, t1), e = io(p);
+      el.style.opacity = t >= t0 && t < t1 ? 1 : 0;
+      el.style.transform = `translate(${x0+(x1-x0)*e}px,${y0+(y1-y0)*e - Math.sin(p*Math.PI)*170}px) scale(${1+Math.sin(p*Math.PI)*.8})`;
+    });
+
+    // 왼쪽 글: 낱말이 아래에서 올라오고, 단계는 차례로 쌓인다
+    heads.forEach(h => {
+      const on = t >= h.t && t < h.end;
+      h.el.style.opacity = on ? 1 - seg(t, h.end-.14, h.end) : 0;
+      if (on) h.words.forEach((w, i) => { w.style.transform = `translateY(${(1-expo(seg(t, h.t+.04+i*.05, h.t+.6+i*.05)))*112}%)`; });
+    });
+    steps.forEach(s => {
+      const on = t >= s.t && t < s.end, cur = t < s.next;
+      s.el.style.opacity = on ? seg(t, s.t, s.t+.2) * (cur ? 1 : .5) * (1-seg(t, s.end-.14, s.end)) : 0;
+      s.el.style.transform = `translateX(${(1-expo(seg(t, s.t, s.t+.4)))*-36}px)`;
+      s.el.classList.toggle('cur', on && cur);
+    });
   }
-  requestAnimationFrame(tick);
+  update(0);
+  return {update, dur:c.dur};
 }
-function setPaused(v) {
-  paused = v;
-  document.body.classList.toggle('paused', v);
-  pp.textContent = v ? '재생' : '일시정지';
+
+const qs = new URLSearchParams(location.search);
+const stage = document.getElementById('stage'), wrap = document.getElementById('stagewrap');
+function fit() {
+  const w = wrap.clientWidth, h = wrap.clientHeight, k = Math.min(w/1920, h/1080);
+  stage.style.transform = `translate(${(w-1920*k)/2}px,${(h-1080*k)/2}px) scale(${k})`;
 }
-function go(i) { show(Math.max(0, Math.min(i, scenes.length - 1))); setPaused(false); }
-function toggle() { if (paused && cur === scenes.length - 1 && elapsed >= durs[cur]) go(0); else setPaused(!paused); }
-function fullscreen() { document.fullscreenElement ? document.exitFullscreen() : document.documentElement.requestFullscreen?.(); }
-
-pp.onclick = toggle;
-document.getElementById('fs').onclick = fullscreen;
-progress.onclick = e => { const b = e.target.closest('i'); if (b) go(+b.dataset.i); };
-addEventListener('keydown', e => {
-  if (e.key === ' ') { e.preventDefault(); toggle(); }
-  else if (e.key === 'ArrowRight') go(cur + 1);
-  else if (e.key === 'ArrowLeft') go(cur - 1);
-  else if (e.key === 'f' || e.key === 'F') fullscreen();
-});
-let idle;
-const wake = () => { document.body.classList.remove('idle'); clearTimeout(idle); idle = setTimeout(() => document.body.classList.add('idle'), 2500); };
-addEventListener('mousemove', wake); addEventListener('touchstart', wake); wake();
-
-// 사진을 다 받은 뒤에 시작해야 발표 중 빈 화면이 나오지 않는다
-const loaded = img => img.complete ? null : new Promise(r => { img.onload = img.onerror = r; });
-Promise.race([
-  Promise.all([...document.images].map(loaded)),
-  new Promise(r => setTimeout(r, 8000)) // 느린 망에서도 8초 뒤에는 시작한다
-]).then(() => {
-  document.getElementById('load').remove();
-  const q = new URLSearchParams(location.search).get('s');
-  show(+q || 0); last = performance.now(); requestAnimationFrame(tick);
-});
+if (qs.get('render')) {
+  // 표지 촬영용: 정해진 시각의 한 장면만 그린다
+  document.documentElement.classList.add('render');
+  document.body.append(wrap); document.getElementById('page').remove();
+  Object.assign(wrap.style,{position:'fixed',inset:0,aspectRatio:'auto'});
+  fit();
+  const sc = build(stage, CLIPS.find(c => c.id === qs.get('render')));
+  window.__dur = sc.dur; window.__seek = t => sc.update(t);
+  sc.update(+qs.get('t') || 0);
+} else {
+  const grid = document.getElementById('grid'), bPlay = document.getElementById('play'), scrub = document.getElementById('scrub'),
+    tc = document.getElementById('tc'), now = document.getElementById('now'), bSpeed = document.getElementById('speed'), bLoop = document.getElementById('loop');
+  const fmt = s => `${Math.floor(s/60)}:${String(Math.floor(s%60)).padStart(2,'0')}`;
+  let cur = null, sc = null, t = 0, playing = false, loop = false, last = 0, speed = 1;
+  new ResizeObserver(fit).observe(wrap); fit();
+  const setPlay = p => { playing = p; bPlay.textContent = p ? '일시정지' : '재생'; };
+  const draw = () => { sc.update(t); scrub.value = t/sc.dur*1000; tc.textContent = `${fmt(t)} / ${fmt(sc.dur)}`; };
+  async function select(c, auto = true) {
+    cur = c; t = 0; sc = build(stage, c); now.textContent = c.title; draw(); setPlay(false);
+    [...grid.children].forEach(b => b.classList.toggle('sel', b.dataset.id === c.id));
+    try { history.replaceState(null, '', '#' + c.id); } catch (e) {}
+    // 사진을 받고 미리 풀어 둬야 첫 재생에서 멈칫하지 않는다
+    const imgs = [...stage.querySelectorAll('img')];
+    await Promise.race([Promise.all(imgs.map(i => i.decode().catch(() => {}))), new Promise(r => setTimeout(r, 3000))]);
+    if (cur === c) { last = performance.now(); setPlay(auto); }
+  }
+  function frame(ts) {
+    const dt = Math.min(.1, (ts-last)/1000); last = ts;
+    if (sc && playing) {
+      t += dt*speed;
+      if (t >= sc.dur) { if (loop) t = 0; else { t = sc.dur; setPlay(false); } }
+      draw();
+    }
+    requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(ts => { last = ts; frame(ts); });
+  bPlay.onclick = () => { if (t >= sc.dur) t = 0; last = performance.now(); setPlay(!playing); };
+  document.getElementById('restart').onclick = () => { t = 0; last = performance.now(); setPlay(true); draw(); };
+  bSpeed.onclick = () => { speed = speed === 1 ? 1.5 : speed === 1.5 ? 2 : 1; bSpeed.textContent = speed + '배'; bSpeed.classList.toggle('on', speed > 1); };
+  bLoop.onclick = () => { loop = !loop; bLoop.classList.toggle('on', loop); };
+  const fullscreen = () => { const p = document.getElementById('player'); document.fullscreenElement ? document.exitFullscreen() : p.requestFullscreen?.(); };
+  document.getElementById('full').onclick = fullscreen;
+  scrub.oninput = () => { t = scrub.value/1000*sc.dur; draw(); };
+  addEventListener('keydown', e => {
+    if (e.code === 'Space') { e.preventDefault(); bPlay.click(); }
+    const i = CLIPS.indexOf(cur);
+    if (e.key === 'ArrowRight') select(CLIPS[(i+1)%CLIPS.length]);
+    if (e.key === 'ArrowLeft') select(CLIPS[(i-1+CLIPS.length)%CLIPS.length]);
+    if (e.key === 'f' || e.key === 'F') fullscreen();
+  });
+  CLIPS.forEach((c, i) => {
+    const b = document.createElement('button');
+    b.className = 'card'; b.type = 'button'; b.dataset.id = c.id;
+    b.innerHTML = `<div class="thumb" style="background-image:url('motion/p/${c.id}.jpg')"><span class="dur">${fmt(c.dur)}</span></div><div class="meta"><span class="no">${String(i+1).padStart(2,'0')}</span><h3>${c.title}</h3><p>${c.desc}</p></div>`;
+    b.onclick = () => { select(c); document.getElementById('player').scrollIntoView({behavior:'smooth',block:'start'}); };
+    grid.append(b);
+  });
+  select(CLIPS.find(c => '#'+c.id === location.hash) || CLIPS[0], false);
+  // 나머지 영상의 사진도 미리 받아 둔다
+  const keep = [];
+  CLIPS.forEach(c => c.layers.forEach(l => { const im = new Image(); im.src = m(l.src); keep.push(im); }));
+}
 </script>
 </body>
 </html>
